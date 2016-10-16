@@ -4341,7 +4341,7 @@ Book_No|Title|Sub_Title|Author|Translator|Class_3|Class_2|Class_1|Publisher|Year
 4519|Buddhism for Today|A Portrait of a new Buddhist Movement|Subhuti (Dharmachari)|||SUB|J0j5|Element Books|1983||Salisbury||||0 906540 32 1|||||||Book|||||
 4520|The Buddha's Noble Eightfold Path||Sangharakshita|||SAN|J0e1|Windhorse|1990|2007|Birmingham||||9781 899579 81 5||||new edition of Vision and Transformation|||Book|||||
 4521|The Ten Pillars of Buddhism||Sangharakshita|||SAN|J0h1|Windhorse|1984|2004|Birmingham|4th|||1 899579 21 4|||||||Book|||||
-4522|The FWBO Poetry Anthology 1982||Ananda & Virananda (eds). (eds.)|||ANA|J0a3|Windhorse/Ola Leaves|1982||||||0 904766 11|||||||Booklet|||||
+4522|The FWBO Poetry Anthology 1982||Ananda & Virananda (eds.)|||ANA|J0a3|Windhorse/Ola Leaves|1982||||||0 904766 11|||||||Booklet|||||
 4523|A Survey of Buddhism|Its Doctrines and Methods through the Ages|Sangharakshita|||SAN|J0a5|Montilal Baanarsidass|1957|2006|Delhi|6th|||81-208-2949-2|||||||Book|||||
 4524|St. Jerome Revisited||Sangharakshita|||SAN|J0g4|Windhorse|1984?||Glasgow UK|||||||||||Booklet|||||
 4525|The Journey to Il Convento||Sangharakshita|||SAN|J0g4|Windhorse|1984||Glasgow|||||||||||Booklet|||||
@@ -4540,7 +4540,7 @@ Book_No|Title|Sub_Title|Author|Translator|Class_3|Class_2|Class_1|Publisher|Year
 4718|SACRED VOICES OF THE NYINGMA MASTERS||Scales - Sandra|||SCA|G4a3|Padma Publishing|2004|2004|California|1st|||1-881847-35-7|||||||Book|||||
 4719|BARALAM AND YEWASEF|being the Ethiopic version of a Christianized recension of the Buddhist Legend of the Buddha and the Bodhisattva|Budge - Sir E. A. Wallis|||BUD|U6|Cambridge at the University Press|1923|1923|Cambridge|1st||||||||||Book|||||
 4720|AJANTA||none given|||AJA|Q1i31|Maharashtra Tourism|||Maharashtr||||||||||||||||
-4721|THE FWBO POETRY ANTHOLOGY 1982||Ananda & Virananda (eds). (eds.)|||ANA|J0a3|Windhorse Publications/Ola Leaves|1982|1982|London|1st||||||||||Book|||||
+4721|THE FWBO POETRY ANTHOLOGY 1982||Ananda & Virananda (eds.)|||ANA|J0a3|Windhorse Publications/Ola Leaves|1982|1982|London|1st||||||||||Book|||||
 4722|THE POET'S WAY||Manjusvara|||MAN|J0q7|Windhorse Publications|2010|2010|Cambridge|1st|||9781-907314-04-9|||||||Book|||||
 4723|ALLEN FREUND SEIN|Poesie des Erleuchtungsgeistes|Khunu Lama|Juergen Manshardt|DE|KHU|G0k0|Diamant Verlag|2004|2004|Munich|1st|||3-9807572-6-9|||||||Book|||||
 4724|THE WISDOM OF SUSTAINABILITY|Buddhist Economics for the 21st Century|Sivaraksa - Sulak|||SIV|U7|Souvenir Press|2009|2009|London|1st|||978-0285-6389-83|||||||Book|||||
