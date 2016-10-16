@@ -2840,11 +2840,11 @@ Book_No|Title|Sub_Title|Author|Translator|Class_3|Class_2|Class_1|Publisher|Year
 2930|Vinaya Pitakam Vol IV (The)|The Suttavibhanga - Second Part|Oldenberg -Hermann|||OLD|C1k632|Pali Text Society|1882|1993|Oxford||370||0-86013-193-|Pali||||||Book|||||
 2931|Vinaya Pitakam Vol V (The)|The Parivara|Oldenberg -Hermann|||OLD|C1k64|Pali Text Society|1883|1882|London||260|||Pali||||||Book|||||
 2932|Index To the Vinaya-Pitaka||Ousaka - Y. Et Al. (Comp)|||OUS|C1k6|Pali Text Society|1996|1996|Oxford|1st|700||0-86013-338-|Pali||||||Book|||||
-2933|Samyutta-Nikaya Of the Sutta-Pitaka Part I (The)|Sagatha-Vagga| Feer - M. Leon (Ed)|||LEO|C1k53|Pali Text Society|1884|1991|Oxford||258||0-86013-165-|Pali||||||Book|||||
-2934|Samyutta-Nikaya Of the Sutta-Pitaka Part II (The)|Nidana-vagga| Feer - M. Leon (Ed)|||LEO|C1k53|Pali Text Society|1888|1989|Oxford||297||0-86013-166-|Pali||||||Book|||||
-2935|Samyutta-Nikaya Of the Sutta-Pitaka Part III (The)|Khandddha-vagga| Feer - M. Leon (Ed)|||LEO|C1k53|Pali Text Society|1890|1975|Oxford||291||0-7100-8321-|Pali||||||Book|||||
-2936|Samyutta-Nikaya Of the Sutta-Pitaka Part IV (The)|Salayatana-Vagga| Feer - M. Leon (Ed)|||LEO|C1k53|Pali Text Society|1894|1990|Oxford||421||0-86013-168-|Pali||||||Book|||||
-2937|Samyutta-Nikaya Of the Sutta-Pitaka Part V (The)|Maha-Vagga| Feer - M. Leon (Ed)|||LEO|C1k53|Pali Text Society|1898|1994|Oxford||505||0-86013-169-|Pali||||||Book|||||
+2933|Samyutta-Nikaya Of the Sutta-Pitaka Part I (The)|Sagatha-Vagga|Feer - M. Leon (Ed)|||LEO|C1k53|Pali Text Society|1884|1991|Oxford||258||0-86013-165-|Pali||||||Book|||||
+2934|Samyutta-Nikaya Of the Sutta-Pitaka Part II (The)|Nidana-vagga|Feer - M. Leon (Ed)|||LEO|C1k53|Pali Text Society|1888|1989|Oxford||297||0-86013-166-|Pali||||||Book|||||
+2935|Samyutta-Nikaya Of the Sutta-Pitaka Part III (The)|Khandddha-vagga|Feer - M. Leon (Ed)|||LEO|C1k53|Pali Text Society|1890|1975|Oxford||291||0-7100-8321-|Pali||||||Book|||||
+2936|Samyutta-Nikaya Of the Sutta-Pitaka Part IV (The)|Salayatana-Vagga|Feer - M. Leon (Ed)|||LEO|C1k53|Pali Text Society|1894|1990|Oxford||421||0-86013-168-|Pali||||||Book|||||
+2937|Samyutta-Nikaya Of the Sutta-Pitaka Part V (The)|Maha-Vagga|Feer - M. Leon (Ed)|||LEO|C1k53|Pali Text Society|1898|1994|Oxford||505||0-86013-169-|Pali||||||Book|||||
 2938|Samyutta-Nikaya Vol VI|Indexes|Rhys Davids - C. A. F.|||RHY|C1k53|Pali Text Society|1904|1996|Oxford||246||0-86013-170-|Pali||||||Book|||||
 2939|Thera- and Theri-Gatha (The)||Oldenberg -Hermann|||OLD|C1k556|Pali Text Society|1883|1990|Oxford||250||0-86013-181-|Pali||||||Book|||||
 2940|Vibhanga (The)|The Second Book of the Abhidhamma Pitaka|Rhys Davids - C. A. F.|||RHY|C1k63|Pali Text Society|1904|1978|London||464||0-7100-00032|Pali||||||Book||||Abhidhamma Pitaka -|
