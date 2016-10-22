@@ -523,7 +523,7 @@ Book_No|Title|Sub_Title|Author|Translator|Class_3|Class_2|Class_1|Publisher|Year
 522|Supreme Doctrine (The)|Psychological Studies in ZEN Thought|Benoit - Hubert (Huxley)|||BEN|F3c3|Viking Press|1951|1955|New York||248|Basic ideas||English||0||||Book|||||
 523|Popular Deities Of Chinese Buddhism||Ming - Kuan|||MIN|E0g6|Kuan Yin Contemplative Order|1985|1985|Malaysia|||Chinese Deities Kuan Yin||English||||||Book|||||
 524|Supreme Doctrine (The)|Psychological Studies in ZEN Thought|Benoit - Hubert (Huxley)|||BEN|F3c3|Viking Press|1951|1964|New York|4th|248|Basic ideas||English||0||||Book|||||
-525|Zen Wave (A)|Basho's Haiku & Zen|Aitken - Robert|||AIT|Q5j7|WeaTherhill|1978|1978|New York|1st|192|Basho's Life Poetry|83480137|English|Relationship between Zen and Haiku|4.95||||Book|||||
+525|Zen Wave (A)|Basho's Haiku & Zen|Aitken (Robert)|||AIT|Q5j7|WeaTherhill|1978|1978|New York|1st|192|Basho's Life Poetry|83480137|English|Relationship between Zen and Haiku|4.95||||Book|||||
 526|Zen In the Art Of Flower Arrangement||Herrigel - Gustie L (Suzuki)|||HER|Q5j3|Routledge & Kegan Paul Ltd|1958|1979|Surrey||124|Illustrations Instruction Master|710079427|English|A psychological discipline as well as a training technique|0||||Book|||||
 527|Ox and His Herdsman (The)|A Chinese Zen Text|Trevor - M. H.|Trevor - M. H.||TRE|E3k9|The Hokuseido Press|1969|1969|Tokyo||96|D. R. Otsu Tsujimura-Buchner||English||||||Book|||||
 528|Zen In the Art Of Flower Arrangement|0|Herrigel - Gustie L (Suzuki)|||HER|Q5j3|Routledge & Kegan Paul Ltd|1958|1960|Kent||124|Illustrations Instruction Master|710079427|English|A psychological discipline as well as a training technique|0||||Book|||||
