@@ -1317,7 +1317,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 1364	What Is the FWBO?	Including 'The Five Pillars of the FWBO' by Sangharakshita	Stout -Karen (Vidyadevi) (Ed)		FWBO	MIT	J0a2	Windhorse Publications	1991	1991	Glasgow	1st	56			English		2.95				Book					
 1365	What Is the FWBO?	Including 'The Five Pillars of the FWBO' by Sangharakshita	Stout -Karen (Vidyadevi) (Ed)		FWBO	MIT	J0a2	Windhorse Publications	1991	1991	Glasgow	1st	56			English		2.95				Book					
 1366	What Is the Western Buddhist Order?		Stout - Karen (Ed)		FWBO	MIT	J0a2	Windhorse Publications	1990	1990	Glasgow	1st	56			English	Short articles by Order members and extracts of Q & A sessions with Sangharakshita					Book					
-1367	WPROWADZENIE DO BUDDYZMU	A Portrait of a new Buddhist Movement	Sangharakszita	Marek Macko	PL	SAN	J0a5	Wydawnictwo A	1957	2002	Krakow		234		83-914807-8-X	English		6.25	Polish translation of 'A Survey of Buddhism'			Book					
+1367	WPROWADZENIE DO BUDDYZMU	A Portrait of a new Buddhist Movement	Sangharakshita	Marek Macko	PL	SAN	J0a5	Wydawnictwo A	1957	2002	Krakow		234		83-914807-8-X	English		6.25	Polish translation of 'A Survey of Buddhism'			Book					
 1368	LIDSKE OSVICENI	Setkani s idealy a metodami buddhismu	Sangharakshita	Ratnottara	CZ	SAN	J0a3	Dharma Gaia	1993	1993	Prague		234		80-901225-4-x	English		6.25	Czech translation of 'Human Enlightenment'			Booklet					
 1369	Old Net For New Monsters (An)		Subhuti		FWBO	SUB	J0c0	Windhorse Publications	1985	1985	Glasgow	1st	33		0 904766 20	English	A reply to criticism of 'Buddhism for Today'	1.5				Book					
 1370	Old Net For New Monsters (An)		Subhuti		FWBO	SUB	J0c0	Windhorse Publications	1985	1985	Glasgow	1st	33		0 904766 20	English	A reply to criticism of 'Buddhism for Today'	1.5				Book					
@@ -3152,7 +3152,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3255	Matrceta and his Works	from the Satapancasakta of Matrceta				MAT	D0k59						69			English		4.99	stored with articles in Box 3			Photocopy	21	18/11/2002			
 3256	Maitreya's Abhisamayalankara		Conze - Dr E			CON	D1k51	East and West Year V No. 3	1954		Rome		69			English		4.99	stored with articles box 3			off-print (article)	21	18/11/2002			
 3257	Allaxe Myalo (Change your Brain/Mind)		Paramananda	Dolkos - Spyros	GR	PAR	J0f0	Kybele	1996	2002	Athens	1st	220		960-7486-93-5	English		11.99	Greek translation of 'Know Your Mind'			Book	21	18/11/2002			
-3258	KIM Jest BUDDA?		Sangharakszita	Smagacz - Henryk	PL	SAN	J0c4	Wydawnicto A	1994	2004	Krakow	1st	220		83-89978-01-6	English		11.99	Polish translation of 'Who is the Buddha?'			Book	21	18/11/2002			
+3258	KIM Jest BUDDA?		Sangharakshita	Smagacz - Henryk	PL	SAN	J0c4	Wydawnicto A	1994	2004	Krakow	1st	220		83-89978-01-6	English		11.99	Polish translation of 'Who is the Buddha?'			Book	21	18/11/2002			
 3259	The New Refuge Tree	from a talk given toe the WBO Mixed Convention 1991	Dhammadinna			DHA	J0f3	FWBO Sarana (Tiratanaloka)	1991				62			English		6.99				Booklet	19	18/11/2002			
 3260	FOLLOWING MOGGALLANA	Western Psychic Traditions as Doors to the Dharma	Hill - Pam			HIL	JOf6	Private Photocopy	2000	2000			62			English		6.99	Draft for a book			Photocopy	19	18/11/2002			
 3261	Zum Wohl Aller Wesen	Eine Einfuhrung in die Welt der Bodhisattvas	Vessantara		FWBO	VES	J0g6	do evolution	1993	2001	Essen		181		3929447142	German				Meeting the Buddhas		Book	21	18/11/2002		A Guide to Buddhas	
@@ -3902,12 +3902,12 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4051	Buddhism For Today	A portrait of a new Buddhist movement	Subhuti			SUB	J0j5	Element Books	1983		Tisbury		205		906540321							Book		01/09/2005			
 4052	Buddhism For Today	A portrait of a new Buddhist movement	Subhuti			SUB	J0j5	Windhorse Publications	1983	1988	Glasgow		234		904766349							Book		01/09/2005			
 4053	Buddhism For Today	A portrait of a new Buddhist movement	Subhuti			SUB	J0j5	Windhorse Publications	1983	1988	Glasgow		234		904766349							Book		01/09/2005			
-4054	KIM Jest BUDDA?		Sangharakszita	Smagacz - Henryk	PL	SAN	Joc4	Wydawnicto A	1994	2004	Krakow	1st	201		83-89978-012-6				Polish translation of 'Who is the Buddha?'			Book		01/09/2005			
+4054	KIM Jest BUDDA?		Sangharakshita	Smagacz - Henryk	PL	SAN	Joc4	Wydawnicto A	1994	2004	Krakow	1st	201		83-89978-012-6				Polish translation of 'Who is the Buddha?'			Book		01/09/2005			
 4055	WPROWADZENIE DO BUDDYZMU		Sangharakshita	Marek Macko	PL	SAN	J0a5	Wydawnictwo A	1957	2002	Krakow		201		83-914807-8-X				Polish translation of 'A Survey of Buddhism'			Book		01/09/2005			
 4056	Teachers Of Enlightenment	The Refuge Tree of the Western Buddhist Order	Kulananda			KUL	J0g4	Windhorse Publications	2000		Birmingham		293		1899579257							Book		01/09/2005			
 4057	Teachers Of Enlightenment	The Refuge Tree of the Western Buddhist Order	Kulananda			KUL	J0g4	Windhorse Publications	2000		Birmingham		293		1899579257							Book		01/09/2005			
 4058	DR AMBEDKAR ON ISLAM		Ahir - D.C.			AHI	V1	Dalit Upsurge	1996		New delhi		155									Booklet		01/09/2005			
-4059	THE MEANING OF ORTHODOXY IN BUDDHISM	A Protest	Sangharakshita - Bhikkhu			SAN	J0c0	France-sie Presence du Bouddhisme	1959				155									off-print		01/09/2005			
+4059	THE MEANING OF ORTHODOXY IN BUDDHISM	A Protest	Sangharakshita			SAN	J0c0	France-sie Presence du Bouddhisme	1959				155									off-print		01/09/2005			
 4060	Western Buddhist Review (The)	No 1 December 1994	Kamalasila (Ed)			KAM	J0a3	Vajrakuta Study Centre	1994		Corwen		155		13567581							Journal		01/09/2005			
 4061	INICIACION AL ZEN		Sangharakshita	Carmen Llamas	ES	SAN	J0a3	Tres Joyas	1976	1996	Valencia	1st	214		84-88768-12-5				Spanish translation of 'The Essence of Zen'			Book		01/09/2005			
 4062	Western Buddhist Review (The)	No 2 August 1997	Kamalashila (Ed)			KAM	J0a3	FWBO	1997		Birmingham		214		13567581							Journal		01/09/2005			
@@ -4018,7 +4018,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4196	Men's GFR Manual For North America		Silaratna (Compiler)			SIL	J0j2	Private	1998				25									Booklet		22/09/2005			
 4197	Buddhism and Addictions	Addictions Research 1994 Vol 2 No 2 pp 183-194	Groves Paramabandhu & Farmer - Roge			GRO	J0h2	Harwood Academic Publishers	1994		US		10									article		22/09/2005			
 4198	DA BUDDHA WORT	Da Schatzhaus der 'heiligen Schriften'.  Eine einfuehrung in die buddhistische Literatur	Lingwood - Dennis Sangharakshita	Jochen Eggert	DE	SAN	J0k1	O. W. Barth Verlag	1985	1992	Germany		263						German translation of 'The Eternal Legacy'			Book		01/10/2005			
-4199	DIALOGUE ENTRE BOUDDHISME ET CHRISTIANISME		Sangharakshita (Maha Sthavira)		FR	SAN	J0U1b	Concilium Revue internationale de Theologie	1978		France		263									off-print		01/10/2005			
+4199	DIALOGUE ENTRE BOUDDHISME ET CHRISTIANISME		Sangharakshita		FR	SAN	J0U1b	Concilium Revue internationale de Theologie	1978		France		263									off-print		01/10/2005			
 4200	Concise History Of Buddhism (A)		Skilton - Andrew (Sthiramati)			SKI	J0p5	Windhorse Publications	1994	1997	Birmingham		263		904766926							Book		01/10/2005			
 4201	Concise History Of Buddhism (A)		Skilton - Andrew (Sthiramati)			SKI	J0p5	Windhorse Publications	1994	1997	Birmingham		263		904766926							Book		01/10/2005			
 4202	THE BREATH		Vessantara			VES	J0f2	Windhorse Publications	2005	2005	Birmingham	1st	263		978-1-899579-69-3							Book		01/10/2005			
@@ -4426,8 +4426,8 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4604	THE THERIGATHA: A REVALUATION	Wheel publication No 436/437	Rajapakse - Vijitha			RAJ	C1k1	Buddhist Publication Society	2000		Kandy				none							Booklet					
 4605	A Illuminacao Humana		Sangharakshita	Fiker - Marcia Epstein	PT	SAN	J0a3	Editora Atomo	1980	2000	Brazil				85-87585-04-5				Portugese translation of 'Human Enlghtenmnt'			Book					
 4606	A Illuminacao Humana		Sangharakshita	Fiker - Marcia Epstein	PT	SAN	J0a3	Editora Atomo	1980	2000	Brazil				85-87585-04-5				Portugese translation of 'Human Enlightenment'			Book					
-4607	Czym Jest Sangha?	Natura Duchowej Spolecznosci	Sangharakszita	Smagacz - Henryk	PL	SAN	J0j0	Wydawnictwo A	2004	2007	Krakow	1st			978-83-89978-13-4				Polish translation of 'What is the Sangha?'			Book					
-4608	Czym Jest Sangha?	Natura Duchowej Spolecznosci	Sangharakszita	Smagacz - Henryk	PL	SAN	J0j0	Wydawnictwo A	2004	2007	Krakow	1st			978-83-89978-13-4				Polish tranlsation of 'What is theSangha?'			Book					
+4607	Czym Jest Sangha?	Natura Duchowej Spolecznosci	Sangharakshita	Smagacz - Henryk	PL	SAN	J0j0	Wydawnictwo A	2004	2007	Krakow	1st			978-83-89978-13-4				Polish translation of 'What is the Sangha?'			Book					
+4608	Czym Jest Sangha?	Natura Duchowej Spolecznosci	Sangharakshita	Smagacz - Henryk	PL	SAN	J0j0	Wydawnictwo A	2004	2007	Krakow	1st			978-83-89978-13-4				Polish tranlsation of 'What is theSangha?'			Book					
 4609	O Budismo e o Ocidente		Sangharakshita	Ramos - Zomar Pontes	PT	SAN	J0s0	Editora Atomo	1983	2000	Brazil				85-87585-02-9				Portugese translation of 'Buddhism and the West'			Booklet					
 4610	Ida ao Refugio		Sangharakshita	Ramos - Zomar Pontes	PT	SAN	J0e5	Editora Atomo	1983	2000	Brazil				85-87585-03-7				Portugese Translation of 'Going for efuge'			Booklet					
 4611	FUTURE MIND	Journal of the Scientific Buddhist Association	Scientific Buddhsit Association			BOX	6	Scientific Buddhist Association	1986		UK								STORED IN PERIODICALS BOX 6			Journal					
@@ -4446,7 +4446,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4624	Light of Fearless Indestructible Wisdom	The Life and Legacy of H.H. Dudjom Rinpoche	Dongyal - Khenpo Tsewang			DUD	G4n2	Snow Lion	2008	2008	Ithaca	1st			1-55939-304-1							Book					
 4625	Dragon Thunder	My Life with Chogyam Trungpa	Mukpo - Diana J.			MUK	H9n2	Shambhala	2006	2006	Boston & L	1st			978-1-59030-256-9							Book					
 4626	Puja (German)	Die Sibenfaeltige Puja			DE	TRI	J0g1	photocopy											German translation of the Triratna Sevenfold Puja Book including short Puja Tiratanavandana etc.			Booklet					
-4627	Vabaduse maitse	ja teise loenguid budismist	Sangharaksita	Looke - Tiia	EE	SAN	J0a3		1999?		Estonia				9985-60-626-4				Estonian translation of texts from various books of Sangharakshita			Book					
+4627	Vabaduse maitse	ja teise loenguid budismist	Sangharakshita	Looke - Tiia	EE	SAN	J0a3		1999?		Estonia				9985-60-626-4				Estonian translation of texts from various books of Sangharakshita			Book					
 4628	Encounters with Enlightenment	Stories from the Life of the Buddha	Saddhaloka			SAD	J0m2	Wisdom Tree	2001	2008	New Delhi	1st			978-81-8328-126-3							Book					
 4629	Encounters with Enlightenment	Stories formt he Life of the Buddha	Saddhaloka			SAD	J0m2	Wisdom Tree	2001	2008	New Delhi	1st			978-81-8328-126-3							Book					
 4630	Vegetarianism		Bodipaksa			BOD	J0h3	Windhorse	1999	2009	Cambridge	2nd			9781 899579 96 9							Book					
@@ -4457,7 +4457,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4635	AVALOKITESVARA	Origins Manifestations and Meanings	Piyasilo			PIY	D0g6	The Community of Dharma-farers		1991	Malaysia	2nd															
 4636	BEYOND THE FOURTH HOUSE		Stanton - Gerald Terance			STA	J0n2	New Horizon	1979	1979	Sussex	1st			0-86116-064-9							Book					
 4637	BUDDHIST ART OF INDIA AND NEPAL		Deva - Prof. Krishna			DEV	Q1	Central Institute of Higher Tibetan Studies	1987		Sarnath											Booklet					
-4638	THE RELIGION OF ART		Sangharakshita (Maha Sthavira)			SAN	J0q0	Windhorse Publications	1980	1980	London	1st										Booklet					
+4638	THE RELIGION OF ART		Sangharakshita			SAN	J0q0	Windhorse Publications	1980	1980	London	1st										Booklet					
 4639	BUDDHISTIC CONTRIBUTIONS TO SANSKRIT POEMS		Shastri - Dr Mool Chand			SHA	U6	Parimal Publications	1986	1986	Delhi	1st										Book					
 4640	THE PALI LITERATURE OF CEYLON		Malalasekera - G. P.			MAL	C1k1	Buddhist Publication Society	1994	1994	Kandy	1st			955-24-0118-6							Book					
 4641	MAHAYANASUTRASAMGRAHA PART II	Manjurimulakalpa	Vaidya - Dr P.L.(ed.)			VAI	Dk48	The Mithila Institute	1964	1964	Darbhnga	1st										Book					
@@ -4552,8 +4552,8 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4730	MUSIIKIN HERATTAMIA VISIOITA OSA 1	Visions generated by music 8th and 9th level. Based on Chapters 1 & 2 of the Mahavastu	Maitreya		FI	MAI	J0q7	Maitreya			Finland											Book					
 4731	MUSIIKIN HERATTAMIA VISIOITA OSA 3	Visions generated by usic 8th level continued (based on chaptes 1 & 2 of the Mahavastu)	Maitreya		FI	MAI	j0q7	Maitreya														Book					
 4732	MUSIIKIN HERATTAMIA VISIOITA OSA 4	visions generated by music - 9th level. Based on chapters 1 & 2 of the Mahavastu	Maitreya		FI	MAI	J0q7	Maitreya														Book					
-4733	THE PRICELESS JEWEL : the White Lotus Sutra in the West	Dhammamegha No 27 Jul-87	Sangharakshita (Maha Sthavira)			SAN	J0k5	Triratna Grantha Mala	1987	1987	Pune	1st										Booklet					
-4734	DIALOGUE BETWEEN BUDDHISM AND CHRISTIANITY		Sangharakshita - Ven			SAN	J0c0	Ola Leaves Series No 2	1981	1981	London	1st										Booklet					
+4733	THE PRICELESS JEWEL : the White Lotus Sutra in the West	Dhammamegha No 27 Jul-87	Sangharakshita			SAN	J0k5	Triratna Grantha Mala	1987	1987	Pune	1st										Booklet					
+4734	DIALOGUE BETWEEN BUDDHISM AND CHRISTIANITY		Sangharakshita			SAN	J0c0	Ola Leaves Series No 2	1981	1981	London	1st										Booklet					
 4735	ITATUULEN TUOMAA / BORNE ON THE EAST WIND	Oriental Art from Private Collections in Finland	Mallender - J. O. et al	The English Centre		MAL	Q0a0	Amos Anderson Art Museum	2001	2001	Helsinki	1st			952-9531-40-0							Catalogue					
 4736	ITATUULEN TUOMAA / BORNE ON THE EAST WIND	Oriental Art fomr Private Collections in Finland	Mallender - J. O. et al	The English Centre		MAL	Q0a0	Amos Anderson Art Museums	2001	2001	Helsinki	1st			952-9531-40-0							Catalogue					
 4737	EGLANTINE DREAM		Jones - Dhivan Thomas			DHI	J0q8	Apus Press	2011	2011	Cambridge	1st			978-4467-9502-6							Book					
@@ -4614,7 +4614,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4792	FINDING THE MIND	A Buddhist View	Cooper - Robin (Ratnaprabha)			COO	J0c0	Windhorse Publications	2012	2012	Cambridge	1st			978-1-907314-03-2							Book					
 4793	HERZ UND GEIST VERSTEHEN	Psychologische Grundlagen buddhistischer Ethik	Sangharakshita	Sucimanasa and Nagadakini	DE	SAN	JOk3	Do Evolution	2012	2012	Essen	1st			978-3-929447-23-1				German translation of 'Know Your Mind'			Book					
 4794	HERZ UND GEIST VERSTEHEN	Psychologische Grundlagen buddhistischer Ethik	Sangharakshita	Sucimanasa and Nagadakini	DE	SAN	J0k3	Do Evolution	2012	2012	Essen	1st			978-3-929447-23-1							Book					
-4795	DR.AMBEDKAR'S DHAMMA REVOLTUION		Sangharakshita (Maha Sthavira)			SAN	J0v2	Mass Movement and Bst Br.hd of Bombay	1982?		Pune								Written by Sangharakshita inside cover: Message on occasion of Dr Ambedkar's conversion			Booklet					
+4795	DR.AMBEDKAR'S DHAMMA REVOLTUION		Sangharakshita			SAN	J0v2	Mass Movement and Bst Br.hd of Bombay	1982?		Pune								Written by Sangharakshita inside cover: Message on occasion of Dr Ambedkar's conversion			Booklet					
 4796	BUDDHISM AND EDUCATION		Sangharakshita			SAN	J0s1	Dhammamegha Triratna Grantha Mala	1985		Pune											Booklet					
 4797	IS BUDDHISM FOR MONKS ONLY?	A Dialogue	Sangharakshita - Bhikshu			SAN	J0j0	Maha Bodhi Society of India Kalimpong Branch	1956		1956											Booklet					
 4798	BUDA KIMDIR?	Turkish translation of Who is the Buddha?	Sangharakshita	Bicen - Berna	TU	SAN	J0c4	Hermes	2012	2012	Istanbul	1st			978-975-6130-44-5							Book					
