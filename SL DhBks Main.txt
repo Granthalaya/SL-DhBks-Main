@@ -1594,7 +1594,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 1642	Nagarjuna	A Translation of his Mulamadhyamakakarika with an Introductory Essay	Inada -Kenneth K. (Trans)			INA	D1k97	The Hokuseido Press	1970	1975	Tokyo		204			English	Translation of a major work of Nagarjuna			Mulamadhyakakarika		Book					
 1643	Faith To Doubt (The)	Glimpses of Buddhist Uncertainty	Batchelor -Stephen			BAT	F8j2	Parallax Press	1990	1990	California		138		0-938077-22-	English	The author's training in Zen at a monastry in Korea					Book					
 1644	Essays On Time In Buddhism		Prasad -H. S. (Ed)			PRA	A0c2	Sri Satguru Publications	1991	1991	Delhi		725	time abhidharma vasubandhu	81-7030-262-	English	A collection of previously published articles mainly English but some in French or German					Book				General Buddhism	
-1645	Salistamba Sutra (The)			Reat, Noble Ross (Dr)		REA	D0k542	Motilal Banarsidass	1993	1993	Delhi		74	conditioned co-production causality	81-208-1135-	English	Tibetan original reconstructed Sanskrit and English translation with notes					Book					
+1645	Salistamba Sutra (The)			"Reat, Noble Ross (Dr)"		REA	D0k542	Motilal Banarsidass	1993	1993	Delhi		74	conditioned co-production causality	81-208-1135-	English	Tibetan original reconstructed Sanskrit and English translation with notes					Book					
 1646	Mahayana Buddhism	The Doctrinal Foundations	Williams -Paul			WIL	D0a5	Routledge	1989	1989	London		317	sangharakshita prajnaparamita madhyamika nagarjuna aryadeva cittamatra	0-415-02537-	English	An excellent introduction to and survey of Mahayana Buddhism					Book					
 1647	Mongolian Living Buddha (A)	Biography of the Kanjurwa Khutughtu	Hyer -Paul & Sechin Jagchid			KAN	G8n2	State University of New York Press	1983	1983	New York		203		0-87395-713-	English						Book					
 1648	History Of Buddhism In Australia 1848-1988 (A)		Croucher -Paul			CRO	H0p5	New South Wales University Press	1989	1989	New South Wales		147	sangharakshita fwbo	0 86840 195	English						Book					
@@ -2433,7 +2433,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 2505	Tuccho Pothila	Nurturing Buddhism Through Contemplation of Mind	Chah - Ajahn  - Ven.			CHA	C1e0	Bung Wei Forest Monastery	1985		Ubon Rajat		20			English	Essay on the correct way to approach the practice of Buddhism.					Book					
 2506	Vipassana....Clarity		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		30			English	A booklet of teachings on the cultivation of a vipassana meditation practice					Book					
 2507	Vipassana....Clarity		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		30			English	A booklet of teachings on the cultivation of a vipassana meditation practice					Book					
-2508	Vipassana„∆??ÿ Sunnata Vihara		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		30			English	Booklet on the kinds of reflections one might use in vipassana meditation.					Book					
+2508	Vipassana“„??œ Sunnata Vihara		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		30			English	Booklet on the kinds of reflections one might use in vipassana meditation.					Book					
 2509	Vipassana...Practice		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		54			English	Booklet on the kinds of reflections one might use in vipassana meditation.					Book					
 2510	Buddha and Divinity	(A Comparitive Study of Buddhist & Hindu Tantras) by the Buddhist Yogi	Chen - C. M.			CHE	A0a2	Chen's Booklets	1964		Kalimpong		26	Buddhism Tantra Hindu		English	Booklet base on the 11th chapter of Chen's book 'Discriminations Between Tantric Buddhism an Tantric Hinduism'					Book				General Buddhism - S	
 2511	Chart Of Buddhist Principles & Practices In It's Whole System (A)	By the Buddhist Yogi	Chen - C. M.			CHE	A0a2	Chen's Booklets	1964		Kalimpong			Hinayana Mahayana Vajrayana		English	Booklet containting a ststematised one sheet cahrt of the diverse elements in Buddhist practice.					Book				General Buddhism - S	
@@ -2539,7 +2539,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 2613	Vipassana...Practice		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		54	meditation hinayana eightfold_path		English	Introduction to the meaning and Practice of Vipassana meditation with some matter for reflection.					Book					
 2614	Vipassana...Understanding		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1986		Thailand		30	meditation hinayana samatha Four_Noble_Truths		English	Introduction to the meaning and Practice of Vipassana meditation with some matter for reflection.					Book					
 2615	Vipassana	The Art of Non-attachment	Apichato Bhikkhu			API	C9f0	Dhamma Spread			Thailand		42	meditation hinayana  Four_Noble_Truths eightfold_path		English	Introduction to the meaning and Practice of Vipassana meditation with some matter for reflection.					Book					
-2616	Vipassana„∆??ÿ Sunnata Vihara		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		30	meditation hinayana  karma		English	Introduction to the meaning and Practice of Vipassana meditation with some matter for reflection.					Book					
+2616	Vipassana“„??œ Sunnata Vihara		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		30	meditation hinayana  karma		English	Introduction to the meaning and Practice of Vipassana meditation with some matter for reflection.					Book					
 2617	Vipassana...Understanding		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1986		Thailand		30	meditation hinayana  samatha Four_Noble_Truths poetry		English	Introduction to the meaning and Practice of Vipassana meditation with some matter for reflection.					Book					
 2618	Devotion In Buddhism		Buddharkkhita - Acharya			BUD	C1g0	Buddha Vachana Trust			Bangalore		60	ritual devotion faith		English	Approach to faith and devotion in Buddhism from the Theravada point of view.					Book					
 2619	Economics In Buddhist Perspective		Wijnyasudra - Sentrat M.A.			WIJ	S5	Buddhist Research Society	1985		Singapore	1st	24	ethics karma compassion		English	Essay on the matter of right livlihood.					Book					
@@ -4638,3 +4638,48 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4816	QUESTIONS AND ANSWERS	Spring 1995	Asvajit			ASV	J0a3	Padmaloka Books	1995		Norwich								Q & A Session on a GFR Retreat at Padmaloka			Booklet					
 4817	THE POWER OF THE PRECEPTS		Ratnaghosa			RAT	J0h1	Padmaloka Books	1997		Norwich								Transcript of talk given to members of the WBO			Booklet					
 4818	THE TEN PILLARS OF BUDDHISM	Sangharakshita Classics	Sangharakshita			SAN	J0h1	Windhorsse Publications	1984	2010	Cambridge	5th			9.78E+12							Book					
+	The Moon and Flowers	A Woman's path to Enlightenment	Kalyanavaca (ed)					Windhorse	1997		Birmingham	1st			0 904766 89 6							Paperback					
+	Buddhism for Today	A Portrait of a New Buddhist Movement	Subhuti					Element Books	1983		Wiltshire	1st			0 906540 32 1							Paperback					
+	Jai Bhim	Dispatches from a Peaceful revolution	Terry Pilchick (NagaBodhi)					Windhorse	1988		Glasgow	1st			0 904766 36 5 (Windhorse) 0 938077 15 5 (Parallax)							Paperback					
+	Touching the earth	A Buddhist Guide to Saving the Planet	Akuppa					Windhorse	2002		Birmingham	1st			1 899579 48 6 							Paperback					
+	Verses of Inspiration from the Buddha's Udana		Padmakara					Windhorse	2003		Birmingham	1st			1 899579 57 5							Paperback					
+	The Wheel and the Diamond	The Life of Dhardo Tulku	Suvajra					Windhorse	1991		Glasgow	1st			0-904766-48-9							Paperback					
+	The Wheel and the Diamond	The Life of Dhardo Tulku	Suvajra					Windhorse	1991		Glasgow	1st			0-904766-48-9							Paperback					
+	Bodh Gaya	It's Significance in the 21st century	Nissoka					Windhorse	No Date		Cambridge	1st			978-1-909314-07-8							Paperback					
+	The Jewel in the Cabbage	Cooking with Metaphors	Vimalabandhu						2009													Paperback					
+	Life in the Order Volume 1	Diaries and other Writings 1990-2013	Lokabandhu					Lulu			Online	1st			5 800101 834499							Paperback					
+	life in the Order Volume 2	Diaries and other Writings 1990-2013	Lokabandhu					Lulu			Online	1st			5 800101 835182							Paperback					
+	Pilgrimage to Anywhere		Rijumati Wallace					John Hunt	2011		Hants	1st			978-1-84694-6752							Paperback					
+	The Journey and the Guide	A practical course in Enlightenment	Maitreyabandhu					Windhorse	2015		Cambridge	1st			978-1-909314-09-2							Paperback					
+	Pilgrimage to Anywhere		Rijumati Wallace					John Hunt	2011		Hants	1st			978-1-84694-6752							Paperback					
+	The Journey and the Guide	A practical course in Enlightenment	Maitreyabandhu					Windhorse	2015		Cambridge	1st			978-1-909314-09-2							Paperback					
+	Buddhist Meditation	"Tranquility, Imagination and Insight"	Kamalashila					Windhorse	2012		Cambridge	3rd			9781 907314094							Paperback					
+	This Being That Becomes	The Buddha's teaching on Conditionality	Dhivan Thomas Jones					Windhorse	2011		Cambridge	1st			9781 899579 90 7							Paperback					
+	Planting a Seed	Building a Buddhist Movement in the USA	Anagarika Manjuvajra					Floating Press	2015		Bristol	1st			978-1-326-2865-7							Paperback					
+	Travels with my Guru	Travels with Urgyen Sangharakshita in the USA 1993-6	Anagarika Manjuvajra					Floating Press	2015		Bristol	1st			978-1-326-21067-0							Paperback					
+	Travels with my Guru	Travels with Urgyen Sangharakshita in the USA 1993-6	Anagarika Manjuvajra					Floating Press	2015		Bristol	1st			978-1-326-21067-0							Paperback					
+	A Path for Parents	What Buddhism can Offer	Sarah Burns					Windhorse	2007		Birmingham	1st			978 1 899579 70 9 							Paperback					
+	The Unlived Lives of Dora Wunbery	and other poems	Satyalila Jen Brown					Lulu	2013		Online	1st			978-1-291-29350-0							Paperback					
+	"Bruises, Flowers and Stars"		Satyalila Jen Brown												5800106 322229							Paperback					
+	"Great Faith, great Wisdom"	Practice and Awakening in the Pure Land Sutras of Mahayana Buddhism	Ratnaguna & Sraddhapa					Windhorse	2016		Cambridge	1st			978-1-909314-56-06							Paperback					
+	Collected Pujas		Dhiramati					Lulu			Online	1st			5 800098 841067							Paperback					
+	Needs and ceremonies	Poems 1986-89	Steven Parr					Pennyfields Press	1989		Bristol	1st			0 9505646 2 7							Paperback					
+	An Amber lamp	Poems and Stories	Dhivan Thomas Jones					Apus Press	2015		Bristol	1st			978-1-326-05717-6							Paperback					
+	Whatever happened to Harold Absolom		Simon Okotie					Salt Publishing	2012		Cromer	1st			978 1 907773 34 1							Paperback					
+	Polio		Dawn Inkster					Lulu	2016		Online	1st			5 800114 296093							Paperback					
+	Error Message	Book 1 of the Blue Walls of heaven	Steven Parr					FeedARead	2012			1st			978-908895-29-5							Paperback					
+	Eglantine Dream		Dhivan Thomas Jones					Lulu	2011		Online	1st			978-1-4467-9502-6							Paperback					
+	Pilgrimage Diary	Record of a Pilgrimage Through Buddhist india	Jayarava					Visible Mantra Press	2010		Cambridge	1st			978-1-4457-0536-1							Paperback					
+	The Return Journey		Gunabhadri					Khantiloka	2015			1st			5 800111 904274							Paperback					
+	The Buddha on wall street	What's wrong with capitalism and what we can do about it	Vaddhaka linn					Windhorse	2015		Cambridge	1st			978 1 909314 44 3							Paperback					
+	Living as a River	Finding fearlessness in the Face of Change	Bodhipaksa					Sounds True Inc	2010		Bolder	1st			978-1-59179-910-8							Paperback					
+	Mind in Harmony	The Psychology of Buddhist Ethics	Subhuti					Windhorse	2015		Cambridge	1st			978-1-909314-08-5							Paperback					
+	Gautama Buddha	The Life and teachings of the Awakened One	Vishvapani Blomfield					Quercus	2011		london	1st			978 1 84916 409 2							Hardback					
+	Breaking free	Glimpses of a Buddhist Life	Srimala					Windhorse	1996		Birmingham	1st			1 899579 03 6							Paperback					
+	Garland of terms		Asvajit & Cittapala					Padmaloka Books	1995			1st										Paperback					
+	The Triratna Story		Vajragupta					Windhorse	2010		Cambridge	1st			9781 899579 92 1							Paperback					
+	The Triratna Story		Vajragupta					Windhorse	2010		Cambridge	1st			9781 899579 92 1							Paperback					
+	On the First Rung	Reminiscences of the Early Years of the Triratna Buddhist  Order 1969-1974	Anagarika Buddhadasa					Ola Leaves	2014		Coddington	1st			978-1-326-11928-7							Paperback					
+	In the Footstep of the Buddha		Asvajit					Ola Leaves	2014		Coddington	1st			978-1-291-78247-9							Paperback					
+	The Triratna Buddhist order Stepping into the Future		Dharmacharini Khemasuri						2015													Paperback					
+	The Triratna Buddhist order Stepping into the Future		Dharmacharini Khemasuri						2015													Paperback					
