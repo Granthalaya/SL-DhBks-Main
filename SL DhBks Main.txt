@@ -2433,7 +2433,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 2505	Tuccho Pothila	Nurturing Buddhism Through Contemplation of Mind	Chah - Ajahn  - Ven.			CHA	C1e0	Bung Wei Forest Monastery	1985		Ubon Rajat		20			English	Essay on the correct way to approach the practice of Buddhism.					Book					
 2506	Vipassana....Clarity		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		30			English	A booklet of teachings on the cultivation of a vipassana meditation practice					Book					
 2507	Vipassana....Clarity		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		30			English	A booklet of teachings on the cultivation of a vipassana meditation practice					Book					
-2508	VipassanaÊÒ??¤ Sunnata Vihara		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		30			English	Booklet on the kinds of reflections one might use in vipassana meditation.					Book					
+2508	Vipassanaï¿½ï¿½??ï¿½ Sunnata Vihara		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		30			English	Booklet on the kinds of reflections one might use in vipassana meditation.					Book					
 2509	Vipassana...Practice		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		54			English	Booklet on the kinds of reflections one might use in vipassana meditation.					Book					
 2510	Buddha and Divinity	(A Comparitive Study of Buddhist & Hindu Tantras) by the Buddhist Yogi	Chen - C. M.			CHE	A0a2	Chen's Booklets	1964		Kalimpong		26	Buddhism Tantra Hindu		English	Booklet base on the 11th chapter of Chen's book 'Discriminations Between Tantric Buddhism an Tantric Hinduism'					Book				General Buddhism - S	
 2511	Chart Of Buddhist Principles & Practices In It's Whole System (A)	By the Buddhist Yogi	Chen - C. M.			CHE	A0a2	Chen's Booklets	1964		Kalimpong			Hinayana Mahayana Vajrayana		English	Booklet containting a ststematised one sheet cahrt of the diverse elements in Buddhist practice.					Book				General Buddhism - S	
@@ -2538,8 +2538,8 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 2612	Vipassana For Beginners		Apichato  Bhikkhu			API	C9f0	Dhamma Spread	1990		Ibaraki-ke		30	meditation hinayana		English	Introduction to the meaning and Practice of Vipassana meditation.					Book					
 2613	Vipassana...Practice		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		54	meditation hinayana eightfold_path		English	Introduction to the meaning and Practice of Vipassana meditation with some matter for reflection.					Book					
 2614	Vipassana...Understanding		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1986		Thailand		30	meditation hinayana samatha Four_Noble_Truths		English	Introduction to the meaning and Practice of Vipassana meditation with some matter for reflection.					Book					
-2615	Vipassana	The Art of Non-attachment	Apichato Bhikkhu			API	C9f0	Dhamma Spread			Thailand		42	meditation hinayana  Four_Noble_Truths eightfold_path		English	Introduction to the meaning and Practice of Vipassana meditation with some matter for reflection.					Book					
-2616	VipassanaÊÒ??¤ Sunnata Vihara		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		30	meditation hinayana  karma		English	Introduction to the meaning and Practice of Vipassana meditation with some matter for reflection.					Book					
+2615	Vipassana	The Art of Non-attachment	Apichato Bhikkhu			API	C9f0	Dhamma Spread			Thailand		42	meditation hinayana  Four_Noble_Truths eightfold_path		English	Introduction to the meaning and Practice of Vipassana meditation with some matter for reflection.					Book
+2616	Vipassana Sunnata Vihara		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1987		Thailand		30	meditation hinayana  karma		English	Introduction to the meaning and Practice of Vipassana meditation with some matter for reflection.					Book					
 2617	Vipassana...Understanding		Apichato Bhikkhu			API	C9f0	Dhamma Spread	1986		Thailand		30	meditation hinayana  samatha Four_Noble_Truths poetry		English	Introduction to the meaning and Practice of Vipassana meditation with some matter for reflection.					Book					
 2618	Devotion In Buddhism		Buddharkkhita - Acharya			BUD	C1g0	Buddha Vachana Trust			Bangalore		60	ritual devotion faith		English	Approach to faith and devotion in Buddhism from the Theravada point of view.					Book					
 2619	Economics In Buddhist Perspective		Wijnyasudra - Sentrat M.A.			WIJ	S5	Buddhist Research Society	1985		Singapore	1st	24	ethics karma compassion		English	Essay on the matter of right livlihood.					Book					
@@ -4637,7 +4637,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4815	REASON AND REFLECTION IN THE SPIRITUAL LIFE	Three Talks	Ratnaguna			RAT	J0f7	Dharmavastu Publications			Corwen											Booklet					
 4816	QUESTIONS AND ANSWERS	Spring 1995	Asvajit			ASV	J0a3	Padmaloka Books	1995		Norwich								Q & A Session on a GFR Retreat at Padmaloka			Booklet					
 4817	THE POWER OF THE PRECEPTS		Ratnaghosa			RAT	J0h1	Padmaloka Books	1997		Norwich								Transcript of talk given to members of the WBO			Booklet					
-4818	THE TEN PILLARS OF BUDDHISM	Sangharakshita Classics	Sangharakshita			SAN	J0h1	Windhorsse Publications	1984	2010	Cambridge	5th			9.78E+12							Book					
+4818	THE TEN PILLARS OF BUDDHISM	Sangharakshita Classics	Sangharakshita			SAN	J0h1	Windhorsse Publications	1984	2010	Cambridge	5th			9.78E+12						
 	The Moon and Flowers	A Woman's path to Enlightenment	Kalyanavaca (ed)			KAL	J0n1	Windhorse	1997		Birmingham	1st			0 904766 89 6							Paperback					
 	Buddhism for Today	A Portrait of a New Buddhist Movement	Subhuti			SUB	j0j0	Element Books	1983		Wiltshire	1st			0 906540 32 1							Paperback					
 	Jai Bhim	Dispatches from a Peaceful revolution	Terry Pilchick (NagaBodhi)			NAG	J0v2	Windhorse	1988		Glasgow	1st			0 904766 36 5 (Windhorse) 0 938077 15 5 (Parallax)							Paperback					
@@ -4684,3 +4684,4 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 	The Triratna Buddhist order Stepping into the Future		Dharmacharini Khemasuri			KHE	J0j5		2015													Paperback					
 	The Triratna Buddhist order Stepping into the Future		Dharmacharini Khemasuri			KHE	J0j5		2015													Paperback					
 	Thinking at the Crossroads	A Buddhist Exploration of Western Thouhgt	Advayacitta			ADV	j0c1	Nagadhatu Publishing	2017			1st			978-0-9956870-0-4							Paperback					
+	
