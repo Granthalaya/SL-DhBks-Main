@@ -107,7 +107,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 107	Points of Controversy or Subjects of Discourse (Katha-Vatthu)	(A Translation of the Katha-Vatthu from the Abhidhamma Pitaka)	"Aung, S. Z."	Aung - S.Z.	100	AUN	C1k75	Pali Text Society	1915	1915	London		416			English	Pali Text Society translation of the Katha-Vatthu from the Abhidhamma Pitaka.					Book					
 108	Manual of Abhidhamma Being Abhidhammattha-Sangaha Of Anuruddhacariya  Vol I (Chaps. I-V)		"Narada, Vajirarama (Thera)"	Narada - Thera		NAR	C1k916	Vajirarama Publication Series	1956	1956	Colombo -	1st	276			English	Translation from Pali of ABHIDHAMMATTHA-SANGAHA OF ANURUDDHACARIYA. Commentary on Abhidhamma Pitaka		Signed by Author.			Book					
 109	Manual of Abhidhamma Being Abhidhammattha-Sangaha Of Anuruddhacariya  Vol II (Chaps. VI-IX)		"Narada, Vajirarama (Thera)"	Narada - Thera		NAR	C1k916	Vajirarama Publication Series	1957	1957	Colombo -	1st	169			English/Pali	Translation from Pali of ABHIDHAMMATTHA-SANGAHA OF ANURUDDHACARIYA. Sommentary on Abhidhamma Pitaka. With Pali Text and notes.		Signed by Author.			Book					
-110	Abhidhamma Philosophy or the Psycho-Ethical Philosophy of Early Buddhism. Abhidhammatthasangaha (The)	(Book I A systematic exposition of the ABHIDHAMMATTHASANGAHA)	"Kashyap, Jagadish (Bhikkhu)"	Kashyap - J. (Bhikkhu)	100	KAS	C1k916	Maha Bodhi Society	1942	1942	London		344			English	Free translation from Pali of ABHIDHAMMATTHA-SANGAHA OF ANURUDDHACARIYA. Commentary on Abhidhamma Pitaka. With Pali Text and notes.					Book			x		
+110	Abhidhamma Philosophy or the Psycho-Ethical Philosophy of Early Buddhism. Abhidhammatthasangaha (The)	Book I A systematic exposition of the ABHIDHAMMATTHASANGAHA	"Kashyap, Jagadish (Bhikkhu)"	Kashyap - J. (Bhikkhu)	100	KAS	C1k916	Maha Bodhi Society	1942	1942	London		344			English	Free translation from Pali of ABHIDHAMMATTHA-SANGAHA OF ANURUDDHACARIYA. Commentary on Abhidhamma Pitaka. With Pali Text and notes.					Book			x		
 111	Glimpses of Abhidharma	(From a Seminar on Buddhist Psychology)	Chogyam Trungpa			CHO	C1k7c	Prajna Press	1978	1978	Boulder -		100		0 87773 708	English	Commentary on the Abhidhamma Pitaka ego mind. Question and answer format.		Commentary on Pali Tipitaka in English			Book					
 112	Path of Purification (Visuddhimagga) (The)		"Buddhaghosa, Bhadantacariya"	Nanamoli Bhikkhu	100	BUD	C1k911c	R. Semage	1956	1956	Colombo -		886			English	Translation of Visuddhimagga from Pali			Visuddhimagga		Book					
 113	Path Of Purity (Visuddhimagga) - Parts I II III. (The)	Being a translation of Buddhaghosa's Visuddhimagga	"Buddhaghosa, Bhadantacariya"	Tin - Pe Maung		BUD	C1k911c	Pali Text Society	1923	1975	London		907		0 7100 8218	English	Pali Text Society translation of Visuddhimagga from Pali			Visuddhimagga		Book					
@@ -233,7 +233,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 236	All About Buddhism	A modern introduction to an ancient spiritual tradition	"Dhammika, S."			DHA	A0a5	The Buddha Dhamma Mandala Society	1990	1990	Singapore		277	History Buddhism Kamma Ethics Life of the Buddha	981-00-1988-	English	Introduction to Buddhism					Book				General Buddhism	
 237	Theravada Buddhism	(A Social History from Ancient Benares to Modern Colombo)	"Gombrich, Richard F."			GOM	C1p5	Routledge & Kegan Paul	1988	1988	London		237	Theravada History Sri Lanka Buddhism Pali Monks	0-7102-1319-	English	Introduction to Theravada Buddhism its effect on Society and Society's effect on it.					Book					
 238	Doctrine Of Awakening (The)	A Study on the Buddhist Ascesis	"Evola, J."	Musson H. E. (From Italian)	100	EVO	C1e2	Luzac & Company	1951	1943	London		310	Buddhism Zen Pali		English	A study of self-training as practiced by early Buddhists.					Book					
-239	Abhidhamma Studies	(Researches in Buddhist Psychology)	Nyanaponika (Bhikkhu)		100	NYA	C1c1	Frewin & Co.	1949	1949	Colombo -		86	Buddhism Philosophy Pali Dhammasangani Atthasalini		English	Study of the Abhidhamma					Book					
+239	Abhidhamma Studies	Researches in Buddhist Psychology	Nyanaponika (Bhikkhu)		100	NYA	C1c1	Frewin & Co.	1949	1949	Colombo -		86	Buddhism Philosophy Pali Dhammasangani Atthasalini		English	Study of the Abhidhamma					Book					
 240	Guide Through the Abhidhamma-Pitaka	(Being a synopsis of the Philosophical collection belonging to the Pali Cannon + Paticca-Samuppada)	Nyanatiloka			NYA	C1k7	Buddhist Publication Society	1938	1971	Kandy - Sr	3rd	177	Buddhism Philosophy Pali Dhammasangani Atthasalini		English	Study of the Abhidhamma					Book					
 241	Guide Through the Abhidhamma-Pitaka	(Being a synopsis of the Philosophical collection belonging to the Pali Cannon + Paticca-Samuppada)	Nyanatiloka			NYA	C1k7	Luzac & Co	1938	1938	Colombo -	1st	165	Buddhism Philosophy Pali Dhammasangani Atthasalini		English	Study of the Abhidhamma		Inscribed by the Author to Bhante			Book					
 242	Psychological Attitude of Early Buddhist Philosophy (The)	And its systematic representation according to Abhidhamma Tradition	Govinda (Lama Anagarika)			GOV	C1c3	Rider & Co	1961	1961	London		192	Buddhism Philosophy Pali Dhammasangani Anthropology Metaphysics Consciousness		English	Study of the Abhidhamma					Book					
@@ -326,7 +326,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 332	Meditator's Diary (A)	(A Western woman's unique experiences in Thailand Monasteries)	"Hamilton-Merritt, Jane"			HAM	A0f0	Souvenir Press	1976	1976	London		157	Kamma Meditation Buddhism Theravada	0-285-62222-	English	Woman's account of time in Monastery with account of meditation techniques					Book				General Buddhism	
 333	Secrets Of Chinese Meditation (The)	(Self-cultivation by Mind Control as taught in the Ch'an Mahayana and taoist Schools in China)	"Luk, Charles (Lu K'Uan Yu) (Upasaka)"			LUK	E3f0	Rider & Co.	1964	1964	London		240	Zen meditation Life of the Buddha		English	Teaching in Ch'an (Zen) meditation					Book					
 334	Being Peace		"Hanh, Thich Nhat"			HAN	A0f0	Parallax press	1987	1987	Berkeley		115	feelings Heart Suffering Meditation	0-938077-00-	English	Essays and reflections on Meditation					Book				General Buddhism	
-335	Be Still and Know	(Meditation for Peacemakers)	"Hanh, Thich Nhat"			HAN	A0f0	Pax Christi	1987	1987	London		32	Mindfulness poetry peace	0-9506757-5-	English	"Extract form the author's ""The Miracle of Mindfulness"" - methods of meditation"					Book				General Buddhism	
+335	Be Still and Know	Meditation for Peacemakers	"Hanh, Thich Nhat"			HAN	A0f0	Pax Christi	1987	1987	London		32	Mindfulness poetry peace	0-9506757-5-	English	"Extract form the author's ""The Miracle of Mindfulness"" - methods of meditation"					Book				General Buddhism	
 336	Meditative States In Tibetan Buddhism	(The Concentration and Formless Absorbtion)	"Zahler, Leah (Ed)"			ZAH	G0f0	Wsidom	1983	1983	London		277	Mindfulness Dhyana Formlessness	0-86171-011-	English	Introduction to Tibetan Meditation practice by two lamas					Book					
 337	Treasury of Dharma	(A Tibetan Buddhist Meditation Course)	Rabten (Geshe)			RAB	G0f0	Tharpa Publications	1988	1988	London		255	Breathing meditation posture compassion nidanas wisdom perfections	0-948006-04-	English	Introduction to Tibetan Buddhist Meditation practices					Book					
 338	Mahayana Buddhist Meditation	(Theory and Practice)	"Kiyota, Minoru (Ed)"			KIY	D0f0	University of Hawaii	1978	1978	Honolulu		312	Breathing meditation posture compassion nidanas wisdom perfections Madhyamikas Yogacara	0-8248-0556-	English	Studies and essays on Mahayana Buddhist Meditation practice					Book					
@@ -528,7 +528,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 537	Method of Zen (The)		"Herrigel, Eugen"	Hull - R.F.C		HER	F3a5	Routledge and Kegan Paul	1958	1960	London		102	Koan Satori Priests		English		0				Book					
 538	Narrow Road To the Deep North and Other Travel Sketches (The)		"Basho, Matsuo"	Yuasa - Nobuyuki		BAS	F0p6	Penguin Classics	1966	1972	London		167	Kashima shrine Haiku Play Poems		English		0.35				Book					
 539	Perfect Freedom In Buddhism	An Exposition of the Words of Shinran	Tannisho Kenkyukai	Takuwa - Shinji		TAN	F6c0	The Hokuseido Press	1968	1968	Tokyo		183	Amida Nembutsu Japan		English						Book					
-540	Ask the Awakened	Negative way~The	"Wu Wei, Wei"			WU	F3a3	Routledge & Kegan Paul	1963	1963	Essex		281	Taoism Vedantist Tibetan Islam Japanese Esoteric realisation		English		0				Book					
+540	Ask the Awakened	The Negative Way	"Wu Wei, Wei"			WU	F3a3	Routledge & Kegan Paul	1963	1963	Essex		281	Taoism Vedantist Tibetan Islam Japanese Esoteric realisation		English		0				Book					
 541	Why Lazarus Laughed	Essential Doctrine~The	"Wu Wei, Wei"			WU	F3a3	Routledge & Kegan Paul	1960	1960	London		301	Judaism Christianity Islam		English		0				Book					
 542	Fingers Pointing at the Moon	Reflections of a Pilgrim on the Way	"Wu Wei, Wei"			WU	F3a3	Routledge & Kegan Paul Ltd	1958	1958	London		220	Upanishads Jesus Ramana Maharshi Ouspnsky Science		English		0				Book					
 543	Open Secret		"Wu Wei, Wei"			WU	F3a3	Hong Kong University Press	1965	1965	London		189	Taoism Volition		English		0				Book					
@@ -1032,8 +1032,8 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 1061	Royal Song Of Saraha	A Study in the History of Buddhist Thought	"Guenther, Herbert  V."	GuenTher -Herbert V.		GUE	D4k9	University of Washington Press	1969	1969	Seattle		214			English	The 'Royal Song' by Saraha (an Indian Brahmin) and Tibetan commentaries					Book					
 1062	Foundations of Tibetan Mysticism	According to the Esoteric Teachings of the Great Mantra OM MANI PADMI HUM	Govinda (Lama Anagarika)			GOV	G0a5	Rider and Company	1960	1969	London		311		09 052041 6	English						Book					
 1063	Outline of the Triple Sutra of Shin Buddhism (An)	Vol 1: the Sutra on the Eternal Buddha	"Fujimoto, Ryukyo"			FUJ	F6k5	Honpa Hongwanji Press	1955	1955	Kyoto		183	Eternal Buddha		English	An analysis of the Shin Sutra on the Eternal Buddha					Book					
-1063	Stranger In Tibet (A)	The Adventures of a Zen Monk	"Berry, Scott"			BER	G0p6	HarperCollins	1989	1989	New Delhi		309		0-00-654451-	English	The adventures of Kawaguchi Ekai a Japanese monk travelling in Tibet from 1900					Book					
 1063	Selected Works Of the Dalai Lama II	The Tantric Yogas of Sister Niguma	"Mullin, Glenn H."	Mullin -Glemm H.		DL2	G1a3	Snow Lion	1985	1985	New York		239		0-937938-28-	English	Collection of sixteen texts					Book					
+1063	Stranger In Tibet (A)	The Adventures of a Zen Monk	"Berry, Scott"			BER	G0p6	HarperCollins	1989	1989	New Delhi		309		0-00-654451-	English	The adventures of Kawaguchi Ekai a Japanese monk travelling in Tibet from 1900					Book					
 1064	Fundamentals of Buddhist Ethics		"Dharmasiri, Gunapala"			DHA	A0h0	The Buddhist Research Society	1986	1986	Singapore		185	Sangharakshita	9971-84-445-	English	A study of ethics from the viewpoint of all Buddhist traditions					Book				General Buddhism	
 1065	Meditations On the Lower Tantras	A Stairway for Ascending to Tusita Buddha-field	"Mullin, Glenn H."			MUL	G1f0	Library of Tibetan Works and Archives	1983	1983	Dharamsala		145	sadhana		English	Based on works by Dalai Lamas 2 5 7 & 13					Book					
 1066	Message Of Milarepa (The)	New Light upon the Tibetan Way	"Clarke, Humphrey (Sir)(Trans)"	Clarke -Sir Humphrey		MIL	G2k9	John Murray	1958	1958	London		106	kagyu		English	A selection of poems translated from Tibetan					Book					
@@ -1143,14 +1143,14 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 1203	Poona Pact	The Epic of Human Rights	"Ambedkar, Bhimrao (Dr.)"			AMB	V1	Buddhist Publishing House			Jalandhar		132			English						Book					
 1204	Communal Deadlock and a Way to Solve It	Address to the Session of the All-India Scheduled Castes Federation	"Ambedkar, Bhimrao (Dr.)"			AMB	V1	Bheem Patrika Publications			Jullandur		40			English						Book					
 1205	Ranade Gandhi and Jinnah	Address Delivered on the 101st Birthday Celebration of Mahadev Govind Ranade	"Ambedkar, Bhimrao (Dr.)"			AMB	V1	Bheem Patrika Publications			Jullandur		64			English						Book					
-1206	Dr. Ambedkar's True Greatness		Sangharakshita		P30	DrA	SAN	Triratna Grantha Mala	1986	1986	Pune		32			English	Talk delivered in Bombay					Book					
+1206	Dr. Ambedkar's True Greatness	Dhammamegha 23	Sangharakshita		P30	DrA	SAN	Triratna Grantha Mala	1986		Pune		32			English	Talk delivered in Bombay					Book					
 1207	Dr. B. R. Ambedkar Through Correspondence	Volume One (1913-1935)	"Surwade, Vijay G. (Ed.)"			SUR	V2						211			Bilingual	Letters printed in the language in which They were written. No publication details in English!					Book					
 1208	Dr. Ambedkar and Revolution		"Dhate, Raja"			DHA	V2	J. V. Pawar	1976	1976	Bombay		32			English						Book					
 1209	Gandhi and Ambedkar - A Study In Leadership		"Zelliot, Eleanor"			ZEL	V2	Triratna Grantha Mala	1972	1983	Pune		46			English	Originally a chapter in the USA book 'The Untouchables in Contemporary India'					Book					
 1210	Ambedkar: A Critical Study		"Kuber, W. N."			KUB	V2	People's Publishing House	1973	1979	New Delhi		332			English	A study of the social and political thought of B. R. Ambedkar (originally PhD Thesis)					Book					
 1211	Rare Prefaces Written By Dr. Ambedkar		"Das, Bhagwan"			DAS	V1	Bheem Patrika Publications	1980	1980	Jullundur		32			English	Prefaces to works by Dr. Ambedkar and oThers					Book					
-1212	Annihilation of Caste		"Ambedkar, Bhimrao (Dr.)"			AMB	V1	Bheem Patrika Publications	1982	1982	Jalandhar		174			English						Book					
-1213	Dr. Ambedkar's Dhamma Revolution		Sangharakshita		P	DrA	SAN	Triratna Grantha Mala	1982	1982	Pune		23			English	Talk in Bombay					Book					
+1212	Annihilation of Caste	with A Reply To Mahatma Gandhi	"Ambedkar, Bhimrao (Dr.)"			AMB	V1	Bheem Patrika Publications	1982	1982	Jalandhar		174			English						Book					
+1213	Dr. Ambedkar's Dhamma Revolution	Dhammamegha 10	Sangharakshita		P	DrA	SAN	Triratna Grantha Mala	1982		Pune		23			English	Talk in Bombay					Book					
 1214	Castes In India: Their Mechanism Genesis and Development		"Ambedkar, Bhimrao (Dr.)"			AMB	V1	Bheem Patrika Publications	1977	1977	Jullundur		32			English						Book					
 1215	Political Philosophy of B. R. Ambedkar (The)		"Jatava, D. R."			JAT	V2	Phoenix Publishing Agency	1965	1965	Agra		256			English						Book					
 1216	Source Material on Dr. Babasaheb Ambedkar Vol 1	and the Movement of Untouchables Vol 1	"Kunte, B. G. (Dr)(C0mpiler"			KUN	V2	Education Department Government of Maharashtra	1982	1982	Bombay		455			English						Book					
@@ -1195,7 +1195,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 1261	Death and Rebirth	from Volume VIII Nos 2 & 3 the Journal of Shasta Abbey	Shasta Abbey			SHA	F3c5	Shasta Abbey Press	1977	1980	California	?	130			English		4.95				Periodical					
 1262	Dharma- Its True nature	An International Seinar May 1995 Dhamma Giri Igtpuri	Vipassana Research Institute			VIP	C0a3	Vipassana Research Institute	1995	1995	Igatpuri	1st	127		81-7414-124-3	English		1.5				Report					
 1263	Vipassana - Addictions & Health	A Seminar December 1989 Dhamma Giri Igatpuri	Vipassana Research Institute			VIP	C0p7	Vipassana Research Institute	1990	1998	Igatpuri	2nd	127		81-7414-131-6	English		1.5				Report					
-1264	My Relation to the Order		Sangharakshita		P	MYR	SAN	Windhorse Publications	1990	1990	Glasgow	1st	36		0 904766 47	English	Talk on the occasion of the 22nd anniversary of the Order	1.95				Book					
+1264	My Relation to the Order		Sangharakshita		P	MYR	SAN	Windhorse Publications	1990		Glasgow		36		0 904766 47	English	Talk on the occasion of the 22nd anniversary of the Order	1.95				Book					
 1265	Challenging Times	Stories of Buddhist Practice When Things Get Tough	Vishvapani		CHA	VIS	TRI	Windhorse Publications	206	2006	Birmingham	1st	36		978 1 899579 76 1	English		1.95				Book					
 1266	Psychological Effects of Vipassana on Tihar Jail Inmates	Research Report	"Chandiramani, K. et al"			VIP	C0p7	Vipassana Research Institute	1995	1998	Nashik	1st	93		81-7414-129-4	English		3.5				Report					
 1267	Path to Nibbana (The)	An Introduction to Insight Exercise	"Vijnana, Phra Udom (Jodok)"			VIJ	C1f2	?	?		Bangkok		93		none	English		3.5				Booklet					
@@ -1210,7 +1210,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 1278	Basho's Haiku	Selected Poems of Matsuo Basho translated and with an Introduction by David Landis Barnhill	"Basho, Matsuo"	David Landis Barnhill		BAS	Q5j7	State University of New York Press	2004	2004	New York	1st	318		0-7914-6165-3	English		5.25				Book					
 1279	Manual of the Excellent Man(A)	(Uttamapurisa Dipani)	"Sayadaw, Ledi (Mahathera)"	U Tin Oo (Myaung)		SAY	C1c0	Buddhist Publication Society	2000	2000	Kandy	1st	318		955-24-0203-4	English		5.25				Book					
 1280	Bedeutung des 'Buddhistischen Tors' (Die) (The Significance of the 'Buddhist Gate')	A Talk at the opening of 'The Buddhist Gate Berlin'	Sangharakshita	Siemsn - Cornelia and Harald Eckhoff	P GE	BED	SAN Ge	Amogharatna	2009		Berlin		316			English		5.95				Booklet					
-1282	Path of the Inner Life (The)		Sangharakshita			PAT	SAN	Triratna Grantha Mala	1975	1983	Pune	2nd	80	ahimsa tolerance emptiness	0 904766 00	English	A collection of essays mainly from 1949 and 1950					Book				General Buddhism	
+1282	Path of the Inner Life (The)		Sangharakshita			PAT	SAN	Triratna Grantha Mala	1975	1983	Pune		80	ahimsa tolerance emptiness	0 904766 00	English	A collection of essays mainly from 1949 and 1950					Book				General Buddhism	
 1283	Survey Of Buddhism (A)	Its Doctrines and Methods through the Ages	Sangharakshita			SUR	SAN	Motilal Banarsidass	1957	2006	Delhi	1st S Asn	484		81-208-2949-2	English						Book					
 1284	Zeni Olemus	The Essence of Zen'	Sangharakshita	Taavi Padjus		ZEN	SAN Est	FWBO-Eesti	2001	2001	Tallinn	1st	484		9985-78-202-X	English						Book				General Buddhism	
 1285	Monk and the Philosopher (The)	East meets West in a Father-Son Dialogue	"Revel, Jean-Francois & Ricard, Mathieu"	John Canti		REV	U2c1	Thorsons	1998	1998	London	1st	276		0 7225 3649 6	English		2				Book					
@@ -1496,7 +1496,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 1573	Cycle Of Day and Night (The)	An Essential Tibetan Text on the Practice of Contemplation	"Norbu, Namkhai"	John Reynolds		NOR	G4e9	Station Hill Press	1987	1987	New York		126	dzogchen primordial yoga	0-88268-040-	English	An exposition of Dzogchen					Book					
 1574	Union Of Mahamudra and Dzogchen (The)		"Nyima, Chokyi Rinpoche"	Erik Pema Kunsang		NYI	G2k9	Rangjung Yeshe Publications	1989	1989	Hong Kong		267	avalokiteshvara vajrayana	962-7344-13-	English	A commentary on 'The Quintessence of Spiritual Practice The Direct Instructions of the Great Compassionate One' by Karma Chagmey Rinpoche I					Book					
 1575	Speech Of Gold (The)	Reason and Enlightenment in the Tibetan Buddhism	"Thurman, Robert A. F. (Ed)"			THU	G1k9	Motilal Banarsidass	1989	1989	Delhi		443	madhyamika Tsong Khapa	81-208-0451-	English	A translation of Tsong Khapa's 'Essence of True Eloquence' a study of Madhyamika					Book					
-1576	Advice From A Spiritual Friend		Rabten (Geshe) & Dhargyey (Geshe)	Brian Beresford		RAB	G5e0	Wisdom Publications	1977	1986	London		159		0 86171 0177	English	A compilation of teachings					Book					
+1576	Advice From A Spiritual Friend	Tibetan teachings of buddhist thought transformation 	Rabten (Geshe) & Dhargyey (Geshe)	Brian Beresford		RAB	G5e0	Wisdom Publications	1977	1986	London		159		0 86171 0177	English	A compilation of teachings					Book					
 1577	Miracle of Mindfulness (The)	A Manual on Meditation	"Hanh, Thich Nhat"	Mobi Ho		HAN	A0f4	Beacon Press	1987	1987	Massachusetts		140	zen	0-8070-1201-	English	An introduction to meditation and mindfulness					Book				General Buddhism	
 1578	Circle and the Path (The)	The Spiritual Path Seen in Terms of the Development of Manliness	Vidyananda		CIR	VID	TRI P	Swordsong	1993	1993	Harlow		50		1 898582 01	English						Book					
 1579	Living Buddhism For the West (A)		Govinda (Lama Anagarika)	Maurice Walshe		GOV	H0a5	Shambhala	1990	1990	Massachusetts		142		0-87773-509-	English						Book					
@@ -1703,7 +1703,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 1787	Early Buddhist Theory of Man Perfected (The)		"Horner, I. B."			HOR	C1c4	Oriental Books Reprint Corporation	1936	1979	New Delhi		328	arahant		English	The Arahant in Pali literature					Book					
 1788	History of Researches on Indian Buddhism		"Bhattacharyya, Narendra Nath"			BHA	B0p5	Munshiram Manoharlal Publishers	1981	1981	New Delhi		239			English						Book				Indian: Non - Mahaya	
 1789	Questions & Answers with Achaan Chah		"Kornfield, Jack"			KOR	C1f2	Amaravati Publications	1986	1986	Hemel Hemp					English						Book					
-1790	Modern View of Buddhism (A)	Dhammamegha 26	Sangharakshita		P	MOD	SAN	Triratna Grantha Mala	1986	1986	Pune		18			English	Lecture delivered in Singapore in 1946 under the auspices of the Buddhist Union					Book					
+1790	Modern View of Buddhism (A)	Dhammamegha 26	Sangharakshita		P	MOD	SAN	Triratna Grantha Mala	1986		Pune		18			English	Lecture delivered in Singapore in 1946 under the auspices of the Buddhist Union					Book					
 1791	Mind In Buddhist Psychology		"Guenther, H  V & Kawamura, L S"			GUE	G1k9	Dharma Publishing	1975	1975	California		133	abhidharma	0-913546-06-	English	A translation from Tibetan of 'The Necklace of Clear Understanding' by Ye-shes rgyal-mtshan (1713-1793)					Book					
 1792	Rebirth As Doctrine and Experience	Essays and Case Studies	"Story, Francis"			STO	C1c5	Buddhist Publication Society	1975	1975	Kandy		286			English						Book					
 1793	Essentials of the Sramanera Vinaya and Rules of Deportment (A)		Hsuan Hua	Bhiksuni Heng Yin Kua Chen		HSU	E0j4	The Buddhist Text Translation Society	1975	1975	California		95			English	Translated from Chinese					Book					
@@ -1784,7 +1784,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 1870	Monkey Subdues the White-Bone Demon		"Hsing-Pei, Wang (Adapted By)"			HSI	Q4a8	Foreign Languages Press	1964	1975	Peking		110			English	Illustrated story book					Book					
 1871	Dharma 6 Numero Special	Hommage a Khyabdje Kalou Rinpotche 1904 - 1989	"Berry, M. (Dir)"			BER	G2a2	L'Institut Karma-Ling	1989	1989	Savoie		86			French	A special edition of 'Dharma' to commemorate Kalou's death					Book					
 1872	Way Of the White Clouds (The)	A Buddhist Pilgrim in Tibet	Govinda (Lama Anagarika)			GOV	H0n2	Hutchinson & Co	1966	1969	London		305		09 078450 2	English						Book					
-1873	Individual the Group and the Spiritual Community (The)		Sangharakshita		P	IND	SAN	Triratna Grantha Mala	1987	1987	Pune		19			English						Book					
+1873	Individual the Group and the Spiritual Community (The)	Dhammamegha 27	Sangharakshita		P	IND	SAN	Triratna Grantha Mala	1987		Pune		19			English						Book					
 1874	Wesak Festival (The)	A Technique of Spiritual Contact	Arcane School			ARC	A0g3	Arcane School			New York		22			English	Published by a 'New Age' new religion					Book				General Buddhism	
 1875	Now Is the Knowing		"Sumedho, Ajahn"			SUM	C1a3						33	Refuges anapanasati		English	Three edited talks.  No publication details.					Book					
 1876	Journal Of the Pali Text Society 1915-1916		"Rhys Davids, C. A. F."		100	RHY	C1a2	Pali Text Society	1916	1916	London		71			English						Book					
@@ -2037,7 +2037,6 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 2141	Budismo	Introduccion a la filosofia la meditacion y la practica de la tradicion budista	Sangharakshita	Nuria Marti		BUD	SAN Sp	Ediciones Oniro	1998	2001	Barcelona		101		84-95456-58-3	English		4.99	Spanish translation of 'What is the Dharma?'			Book					
 2142	Bringing Buddhism To the West	A Life of Sangharakshita	Subhuti		BRI	SUB	TRI	Windhorse Publications	1995	1995	Birmingham	1st	202	Bhante FWBO	0 904766 69	English	biography of Sangharakshita	9.99				Book					
 2143	Ambedkar & Marx	a comparative study of two giants	"Rao, R. Sangeetha"			RAO	V2	Blumoon Books	1996		New Delhi		155			English		5.99				Booklet					
-2144	Western Buddhist Review (The)	No 1 December 1994	Kamalashila (Ed)		WES	KAM	TRI	Vajrakuta Buddhist Study Centre	1994	1995	Corwen	2nd	155	Fwbo Buddhism	1356-7581	English	peer-reviewed journal  reflecting teachings of Buddhism as practicsed in modern world/FWBO	5.99				Book					
 2145	School of Monsters (The)		Ananda (Stephen Parr)		SCH	ANA	TRI P	Wolf at the Door	2001		Bristol		147			English		6.99				Booklet					
 2146	Western Buddhist Review 03	Dec-01	WBO (ed.)		WES	WBO	TRI	Private	2001				101		1347-7581	English		4.99				Book					
 2147	Bringing Buddhism To the West	A Life of Sangharakshita	Subhuti		BRI	SUB	TRI	Windhorse Publications	1995	1995	Birmingham	1st	202	Bhante FWBO	0 904766 69	English	biography of Sangharakshita	9.99				Book					
@@ -2102,14 +2101,14 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 2224	London Buddhist Vihara	A Chronicle	"Webb, Russell"			WEB	H0j5	not stated	2004		London		74		none	English		3.99				Book					
 2226	Meaning Of Conversion In Buddhism (The)		Sangharakshita			MEA	SAN	Windhorse Publications	1994	1994	Birmingham	1st	79	Stream_Entry Bodhicitta Going_For_Refuge	0 904766 67	English	Discussions on Going For Refuge Stream Entry The Bodhicitta and the Turning About in the Deepest seat of Conciousness	4.99				Book					
 2228	Religion Of Art (The)		Sangharakshita			REL	SAN	Windhorse Publications	1988	1988	Glasgow	1st	170	poetry art	0 904766 31	English	A manifesto for a new and radical appraisal of art and religion	5.5				Book					
-2229	Akalikoa Dhammo	 BUDDHISM ETERNAL AND EVERLASTING	Aryadeva (Samanera)			ARY	C1c1	Journal of the Bihar Research Society	1956		Bihar		93		none	English		3.5				Booklet					
+2229	Akalikoa Dhammo	Buddhism Eternal & Everlasting	Aryadeva (Samanera)			ARY	C1c1	Journal of the Bihar Research Society	1956		Bihar		93		none	English		3.5				Booklet					
 2230	New Currents In Western Buddhism	The Inner Meaning of the Friends of the Western Buddhist Order	Sangharakshita			NEW	SAN	Windhorse Publications	1990	1990	Glasgow	1st	93	FWBO WBO  Ordination spiritual_friendship	0 904766 46	English	Examination of the FWBO and its relationship to the rest of Buddhism	3.5				Book					
 2231	Path of Compassion:  the Chinese Brahma's Net Sutra (The)	The Bodhisattva Precepts	"Batchelor, Martine (Ed & Trans)"			BAT	E0k55	Rowman & Littlefield	2004	2004	California	1st	276		0-7591-0517-0	English		11.99				Book					
 2232	Lost teachings of Lama Govinda (The)	Living Wisdom from a Modern Tibetan Master	"Power, Richard (ed.)"			POW	H0a3	Quest	2007	2007	Wheaton IL	1st	276		0-8356-0854-9	English		11.99				Book					
 2233	Artist's Dream & Other Parables (The)		Sangharakshita		P	ART	SAN	Windhorse Publications	1980	1980	London	1st	160		none	English		8.5				Booklet					
 2234	Buddhism in China		Chinese Buddhist Assoc (ed)			CBA	Q4c1	Nationalities Publishing House	1955	1955	Peking	1st	160			English		8.5				loose pages					
 2235	Storehouse of Sundry Valuables (The)	BDK English Tripitaka 10-1	Numata Center	Willemen - Charles		NUM	E0k9	Numata Center for Buddhist Translation and Research	1994	1994	Berkeley	1st	275	Chinese_Tipitaka Avadanas	0 9625618 3	English	Translation from the Chinese of 121 parable compilation of Indian material.					Book					
-2236	Biography Of the Tripitaka Master Of the Great Ci'En Monastery Of the Great Tang Dynasty ~ A	BDK English Tripitaka 77	Numata Center	Rongxi - Li		NUM	E0n2	Numata Center for Buddhist Translation and Research	1995	1995	Berkeley	1st	385	Chinese_Tipitaka Buddhist_Biography	1 88643928	English	Biography of Master Xuanzang by Huili and edited by Yancong.					Book					
+2236	Biography Of the Tripitaka Master Of the Great Ci'En Monastery Of the Great Tang Dynasty ( A)	BDK English Tripitaka 77	Numata Center	Rongxi - Li		NUM	E0n2	Numata Center for Buddhist Translation and Research	1995	1995	Berkeley	1st	385	Chinese_Tipitaka Buddhist_Biography	1 88643928	English	Biography of Master Xuanzang by Huili and edited by Yancong.					Book					
 2237	Essentials of the Eight Traditions / the Candle of the Latter Dharma (The)	BDK English Tripitaka 107-I / 107-III	Numata Center	Pruden - Leo M./Rhodes - Robert		NUM	F0k9	Numata Center for Buddhist Translation and Research	1994	1994	Berkeley	1st	181	Chinese_Tipitaka EI_Introductions_and_surveys	0 9265618 7	English	Translations of a question-and-answer  form text and a short influential japanese text.					Book					
 2238	Si - Yu - Ki: Buddhist Records of the Western World	Translated from the Chinese of Hiuen Tsang (A. D. 629)	"Beal, Samuel (Ed.)"			BEA	E0p6	Motilal Banarsidass	1884	1981	Delhi	1st	369	Chinese_Buddhism Geography history culture	81 208 1107	English	Records of the travels of Chinese Buddhist pilgrims during the first centuries of Christian Europe.					Book					
 2240	Ch'An and Pureland	Lectures at Washington and Lee University	"Lin, Yutang (Dr)"			LIN	E0a3	Dharma Friends of Dr. Lin	1992	1992	El Cerrito	1st	120	Amitabha Chanting		English	Two talks By Dr.Lin disciple of Mr. C.M. Chen Including Questions and Answers					Book					
@@ -2207,7 +2206,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 2469	Karmasiddhi Prakarana (Seshin No Gyoron)		Vasubandhu			VAS	D2k92	British Shingon Association	1993	1993	Kongoryuji		46			English	"""The 'explanatory Verses Upon Action ' of Acarya Vasubandhu with his commentary."""					Book					
 2470	Karma		"Weil, Alfred (ed.)"			WEI	A0c5	Theseus Verlag	1996	1996	Berlin	1st	160		3-89620-108-5	English		8.99	mit Beitraegen von Ayya Khema Dagyab Kyabgon Rinpoche Paul Debes Kalu Rinpoche Nakagawa Fumon Roshi Nyanaponika Sangharakshita Sogyal Rinpoche			Book					
 2471	Puja och Hjartats Omvandling	en introduktion till bodhisattvor och vordnadsovningar	Tejananda & Vessantara	Hvarfner - Lisbet	PUJ	TEJ	TRI Sw	Bodi Forlaget	1987	1999	Stockholm	1st	160			English		8.99	Swedish translation of 'Puja and the Transformation of the Heart'			Booklet					
-2474	Immortal Sayings Of Anagarika Dharmapala	Collected by Bhikshu Sangharakshita	Sangharakshita 		P	IMM	SAN	Maha Bodhi Society	1957	1957	Calcutta		32			English	Sayings and aphorisms of the great 20th Century Buddhist.					Book					
+2474	Immortal Sayings Of Anagarika Dharmapala	Collected by Bhikshu Sangharakshita	Sangharakshita 		P	IMM	SAN	Maha Bodhi Society	1957	 	Calcutta		32			English	Sayings and aphorisms of the great 20th Century Buddhist.					Book					
 2476	Ydinsota Ja Maailmanrauha	Buddhalainen nakemys	Sangharakshita		P	YDI	SAN Fi	FWBO	1984	1987	Helsinki	1st	34		951-96060-3-3	English			Finnish translation of 'Buddhism World Peace and Nuclear War'			Booklet					
 2477	Movement & Emptiness		"Beckett, L. C."			BEC	U1	Stuart and Watkins	1968	1968	London	1st	15			English						Book					
 2478	Universal Amity	The Buddha's Panacea for the World's Ills	Buddharakkhita (Acharya)			BUD	A0f5	Buddha Vachana Trust	1960	1979	Bangalore		48			English	Booklet on the importance of practicing Maitri.					Book				General Buddhism	
@@ -2450,11 +2449,11 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 2752	Buddhistik Meditation	en praktik vagledning	Paramananda	Viryabodhi	BUD	PAR	TRI Sw	Bodhi Forlaget	2002	2008	Stockholm		228		91-89208-10-2	English		9.99	Swedish translation of 'Change Your Mind'			Book					
 2753	Thirty-Seven Practices of a Bodhisattva (The)	In English Tibetan and Chinese	Marpa Translation Committee			MTC	G0e7	Marpa Translation Committee	?		?		139			English		7.99				Booklet					
 2754	Poetry of Han-Shan (The)	A Complete Annotated Translation of 'Cold Mountain'	"Henricks, Robert G"	Robert G. Henricks		HEN	Q5j7	State University of new York Press	1990	1990	New York	1st	139		0-88706-978-9	English		7.99				Book					
-2756	Bird's Eye View of Indian Buddhism (A)	Dhammamegha No 41 & 42 (double issue)	Sangharakshita			BIR	SAN	Sihanad Publications	1990		Pune		48			English		2.99				Booklet					
+2756	Bird's Eye View of Indian Buddhism (A)	Dhammamegha No 41 & 42 (double issue)	Sangharakshita		P	BIR	SAN	Sihanad Publications	1990		Pune		36			English		2.99				Booklet					
 2757	Excellent Path to Enlightenment (The)		Dilgo Khyentse (Rinpoche)	Padmakara Translation Group		DIL	G4k9	Snow Lion	1996	1996	New York	1st	30		1-55939-064-6	English		2.99				Book					
 2758	Grass	Poems by Pippa Meek	Padmachandra (Pippa Meek)		GRA	PAD	TRI P	private by future Padmachandra	1995		London		30			English		2.99				Booklet					
 2759	Tannisho: A Primer	A record of the words of Shinran set down in lamentation over departures from his teaching	"Michio, Tokunaga (ed.)"	Hirota - Dennis		MIC	F6k9	Ryukoku University	1982		Kyoto Japa	1st	36		none	English		2.99				Book					
-2761	1970: A Retrospect		Sangharakshita		P	RET	SAN	privately produced	?1970				229		none	English		12.5				Booklet					
+2761	1970: A Retrospect		Sangharakshita		P	RET	SAN	privately produced	unknown				229		none	English		12.5				Booklet					
 2762	100-Minute Buddha (The)		Jinananda		MIN	JIN	TRI	The 100-Minute Press Ltd	2010	2010	Canterbury	1st	229		978-09556695-1-4	English		12.5				Book					
 2763	When Will I See You Again?	including chapter by Muditasri 'A Different Climate'	"Kamanesi, Z & Smith, N (Ed)"			MUD	TRI	Pen Press	2002	2002	London	1st	278		1-904018-27-0	English		12.99				Book					
 2764	Philosophy of a Farmer	Being Buddhism Applied to Modern Working Life	"Svasti, M.C. Subha"			SVA	C0p7	Sonan Bunyasiribhandhu	1962		Bangkok		278			English		12.99				Booklet					
@@ -2569,7 +2568,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 2893	Growing Up Untouchable in India		"Moon, Vasant"	Gail Omvedt		MOO	V4	Rowman & Littlefields	1995	1995	New Delhi	1st	20			English	Reprint of Dhammamegha 9					Book					
 2894	Light-House in the Ocean of Ch'an (The)		"Chen, C. M."	Kog - Dr Fa-Yen		CHE	E3c0	not stated	1965				20			English						Booklet					
 2895	Practice of Emptiness		Dalai Lama V	Hopkins - Jeffrey		DL5	G1k9	Library of Tibetan Works and Archives	1974		Dharamsala		16		none	English						Booklet					
-2896	Problem of Ahimsa and the Nature of Buddhist Tolerance		Sangharakshita		P	PRO	SAN	T.L. Chahal	1994	1998	Pune		16			English	Reprint of Dhammamegha 54					Book					
+2896	Problem of Ahimsa and the Nature of Buddhist Tolerance		Sangharakshita		P	PRO	SAN	T L Chala for the Dhamma Trust	1994	1998	Pune		16			English	Reprint of Dhammamegha 54					Book					
 2897	Dr Ambedkar on Christianity in India		"Ambedkar, Bhimrao (Dr.)"			AMB	V1	Blumoon Books	1995	1995	New Delhi	1st	67			English						Book					
 2898	Dr Ambedkar on Christianity in India		"Ambedkar, Bhimrao (Dr.)"			AMB	V1	Blumoon Books	1995	1995	New Delhi		67			English						Book					
 2899	Three Pure Land Sutras (The)	A study and translation from Chinese	"Inagaki, Hisao"			INA	E6k5	Nagata Bunshodo	1994	1995	Kyoto	2nd	465		4-8162-0201-	English	Comprehensive study into the three pure land sutras and pureland doctrines					Book					
@@ -2691,8 +2690,8 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3015	Seven Contemplations of Insight (The)	A treatise on insight meditation	Nanarama (Mahathera)	A. G. S. Kariyawasam		NAN	C1f2	Buddhist Publication Society	1997	1997	Kandy	1st	163	meditation insight vipassana impermanence suffering non-self revulsion dispassion cessation renunciation Theravada	9552401240	English	Seven Theravada insight meditations					Book	23	12/05/1999		Theravada - Meditati	
 3016	Madhyamika Mind (The)		"Narain, Harsh"			NAR	D1c1	Motilal Banarsidass	1997	1997	Delhi	1st	173	nihilism illusionism sunya sunyata	8120812020	English	Explores the Madhyamika as a form of nihilism or illusionism					Book	23	12/05/1999		Madhyamika - Philoso	
 3017	Comparative Ethics In Hindu and Buddhist Traditions		"Hindery, Roderick"			HIN	U1c	Motilal Banarsidass	1978	1996	Delhi	2nd	307	hinduism ethics veda manu relativism judgements	81208665	English	Looks at development of Hindu ethics and briefly compares Them to Buddhist ethics					Book	23	12/05/1999		Buddhism and Hinduis	
-3018	My Relation to the Order		Sangharakshita		P	MYR	SAN	Windhorse Publications	1990	1998	Birmingham	1st	36	Bhante WBO FWBO	904766470	English	Paper on Bhante's relation to the WBO	2.99				Book	21	13/05/1999		FWBO - Sangha	
-3019	My Relation to the Order		Sangharakshita		P	MYR	SAN	Windhorse Publications	1990	1998	Birmingham	1st	36	Bhante WBO FWBO	904766470	English	Paper on Bhante's relation to the WBO	2.99				Book	21	13/05/1999		FWBO - Sangha	
+3018	My Relation to the Order		Sangharakshita		P	MYR	SAN	Windhorse Publications	1990	1998	Birmingham		36	Bhante WBO FWBO	904766470	English	Paper on Bhante's relation to the WBO	2.99				Book	21	13/05/1999		FWBO - Sangha	
+3019	My Relation to the Order		Sangharakshita		P	MYR	SAN	Windhorse Publications	1990	1998	Birmingham		36	Bhante WBO FWBO	904766470	English	Paper on Bhante's relation to the WBO	2.99				Book	21	13/05/1999		FWBO - Sangha	
 3020	Meeting the Buddhas	A guide to Buddhas Bodhisattvas and Tantric Deities	Vessantara		MEE	VES	TRI	Windhorse Publications	1993	1998	Birmingham	1st	356	buddha bodhisattva deity yidam sadhana tangka tantric visualisation	904766535	English	Introduction to Buddhist 'archetypes' of Enlightenment	14.99				Book	24	13/05/1999		FWBO - Devotion	
 3021	Meeting the Buddhas	A guide to Buddhas Bodhisattvas and Tantric Deities	Vessantara		MEE	VES	TRI	Windhorse Publications	1993	1998	Birmingham	1st	356	buddha bodhisattva deity yidam sadhana tangka tantric visualisation	904766535	English	Introduction to Buddhist 'archetypes' of Enlightenment	14.99				Book	24	13/05/1999		FWBO - Devotion	
 3022	Madman's Middle Way (The)	Reflections on reality of the Tibetan monk Gendun Chopel	"Lopez, Donald S."			LOP	G0k9	University of Chicago Press	2006	2006	London	1st	246		0-226-49316-4	German						Book	21	13/05/1999			
@@ -2714,7 +2713,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3038	Concise Pali-English Dictionary		"Buddhadatta, A.P. (Maha thera)"			BUD	L3b	Motilal Banarsidass	1957	1997	Delhi		294		8120806050	English							22	14/05/1999		Buddhist Languages -	
 3039	Three Jewels (The)	The Central Ideals of Buddhism	Sangharakshita			THR	SAN	Windhorse Publications	1967	1998	Birmingham	4th	245		1899579060	English		11.99				Book	24	14/05/1999		General Buddhism - G	
 3040	Three Jewels (The)	The Central Ideals of Buddhism	Sangharakshita			THR	SAN	Windhorse Publications	1967	1998	Birmingham	4th	245		1899579060	English		11.99				Book	24	14/05/1999		General Buddhism - G	
-3041	Art of Living (The)	Vipassana meditation as taught by S. N. Goenka	"Hart, William"			HAR	C1f0	Vipassana Research Institute	1987	1988	Igatpuri	1st	183			English		9.99				Book	20	14/05/1999			
+3041	Art of Living (The)	Vipassana Meditation as Taught by S. N. Goenka	"Hart, William"			HAR	C1f0	Vipassana Research Institute	1987	1988	Igatpuri	1st	183			English		9.99				Book	20	14/05/1999			
 3042	Encounters With Buddhism	includes essay by Dharmacharini Padmasuri	"Dhammika, Shravasti (Ed)"			DHA	A0n1	Buddhist Research Society	1990	1990	Singapore	1st	183		981-00-1663-8	English		9.99				Book	20	14/05/1999			
 3043	Know Your Mind	The psychological dimension of ethics in Buddhism	Sangharakshita			KNO	SAN	Windhorse Publications	1999	1999	Birmingham	1st	291		904766799	English	Commentary on GuenThers 'Mind in Buddhist Psychology'	11.99				Book	24	14/05/1999		Gelugpa - Psychology	
 3044	Know Your Mind	The psychological dimension of ethics in Buddhism	Sangharakshita			KNO	SAN	Windhorse Publications	1999	1999	Birmingham	1st	291		904766799	English	Commentary on GuenThers 'Mind in Buddhist Psychology'	11.99				Book	24	14/05/1999		Gelugpa - Psychology	
@@ -2808,7 +2807,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3137	Dharmapala Anagarika		Sangharakshita			DHA	SAN SIN	Buddhist Publication Society	1980		Kandy		107			Chinese	The life and teachings of Anagarika Dharmapala.			Flame in Darkness		Book	19	21/02/2000			
 3138	Ambedkar and Buddhism		Sangharakshita			AMB	SAN Mar	Tiratana Grantha Mala	1986	1990						Marathi	The contribution of Ambedkar to the Buddhist revival in India.					Book	22	21/02/2000			
 3139	Suramgamasamadhisutra	The concentration of heroic progress	"Lamotte, Etienne"	Boin-Webb Sara		LAM	D0k511	Curzon		1988	Richmond Surrey	1st	273		0-7007-1024-8	English											
-3140	Avadana-Kalapalata (Vol1)	Buddhist Sanskrit Texts No 22	Ksemendra			KSE	D0k9	Mithila Institute	1989		Darbangha					Sanskrit	Translation of an 11th century version of Jataka tale. Vol 1			Leaves of the Heaven		Book	25	21/02/2000		General Mahayana - O	
+3140	Avadana-Kalapalata (Vol 1)	Buddhist Sanskrit Texts No 22	Ksemendra			KSE	D0k9	Mithila Institute	1989		Darbangha					Sanskrit	Translation of an 11th century version of Jataka tale. Vol 1			Leaves of the Heaven		Book	25	21/02/2000		General Mahayana - O	
 3141	Avadana-Kalapalata (Vol 2)	Buddhist-Sanskrit texts No 23	Ksemendra			KSE	D0k9	RP Pandya		1989	Varanasi	1st				Sanskrit											
 3142	Contexts and Dialogue	Yogacara Buddhism and Modern Psychology on the Subliminal Mind	"Jiang, Tao"			JIA	D2c1	University of Honolulu	2006	2006	Hawai'i	1st	259		978-0-8248-3106-3	English		11.99			Ananda	Book	24	21/02/2000			
 3143	Noble Eightfold Path (The)	Way to the End of Suffering	Bodhi (Bhikkhu)			BOD	C0e1	Buddhist Publication Society Pariyatti	1984	2000	Onalaska		259		978-1-928706-07-6	English		11.99			Ananda	Book	24	21/02/2000			
@@ -2932,7 +2931,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3280	Buddhism Its Essence and Development		"Conze, Edward"			CON	A0a5	Windhorse Publications	1951	2001	Birmingham		207		1899579	English	Introduction to	11.99				Book	24	25/11/2002		General Buddhism	
 3281	Come and See For Yourself	The Buddhist Path to Happiness	"Khema, Ayya"	Etzold - Michael		KHE	A0k3	Windhorse Publications	1998	2002	Birmingham		197		1899579451	English	Talks on 12 short extracts from canon	9.99				Book	24	25/11/2002		Collection of talks	
 3282	Come and See For Yourself	The Buddhist Path to Happiness	"Khema, Ayya"	Etzold - Michael		KHE	A0k3	Windhorse Publications	1998	2002	Birmingham		197		1899579451	English	Talks on 12 short extracts from canon	9.99				Book	24	25/11/2002		Collection of talks	
-3283	Great Sayings of Anagarika Dharmapala	With a life sketch	"Sangharakshita  & Kirthisinghe, B P"		P	GRE	SAN	Bodhi Leaves B.P.S	1964	1964	Kandy		195			English		8.99				Booklet	21	25/11/2002			
+3283	Great Sayings of Anagarika Dharmapala	With a life sketch	"Sangharakshita  & Kirthisinghe, B P"		P	GRE	SAN	Buddhist Publication Society	1964		Kandy		195			English		8.99				Booklet	21	25/11/2002			
 3284	Sinnets Natur	Reaktivt-Kreativt	Sangharakshita	Dharmachari Viryabodhi		SIN	SAN Sw	Vasterlandska Buddhistordens Vanner	1967	1999	Stockholm		195			English		8.99	Swedish translation of 'Mind Reactive and Creative'			Booklet	21	25/11/2002			
 3285	Noble Friendship	Travels of a Buddhist Monk	Khantipalo (Bhikkhu)			KHA	H0e6	Windhorse Publications	2002	2002	Birmingham	1st	189		189957946X	English	Emphasis on friendship with Sangharakshita	11.99				Book	24	25/11/2002		Travels in India in	
 3286	Noble Friendship	Travels of a Buddhist Monk	Khantipalo (Bhikkhu)			KHA	H0e6	Windhorse Publications	2002	2002	Birmingham	1st	189		189957946X	English	Emphasis on friendship with Sangharakshita	11.99				Book	24	25/11/2002		Travels in India in	
@@ -3309,19 +3308,19 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3667	Crossing the Stream	Reflections on the Buddhist Spiritual Path	Sangharakshita			CRO	SAN	Windhorse Publications		1987	Glasgow		215		904766292							Book		02/03/2005			
 3668	Crossing the Stream	Reflections on the Buddhist Spiritual Path	Sangharakshita			CRO	SAN	Windhorse Publications		1996	Birmingham				904766780							Book		02/03/2005			
 3669	Crossing the Stream	Reflections on the Buddhist Spiritual Path	Sangharakshita			CRO	SAN	Windhorse Publications		1996	Birmingham				904766780							Book		02/03/2005			
-3670	Essence of Zen (The)		Sangharakshita		p	ESS	SAN	Friends of the Western Buddhist Order	1973		London		32				Five talks on Zen given in 1965					Book		02/03/2005			
-3671	Essence of Zen (The)		Sangharakshita		p	ESS	SAN	Friends of the Western Buddhist Order	1973		London		32									Book		02/03/2005			
+3670	Essence of Zen (The)	Five talks	Sangharakshita		p	ESS	SAN	Friends of the Western Buddhist Order	1973		London		32				Five talks on Zen given in 1965					Book		02/03/2005			
+3671	Essence of Zen (The)	Five talks	Sangharakshita		p	ESS	SAN	Friends of the Western Buddhist Order	1973		London		32									Book		02/03/2005			
 3672	Essence of Zen (The)		Sangharakshita			ESS	SAN	Windhorse Press	1973	1976	London		62		904766047							Book		02/03/2005			
 3673	Tibetan-Russian-English Dictionary issue 11	with Sanskrit parallels	"Roerich, Y. N."			ROE	L6ba1	Moscow Oriental Lit. Publishers	1993	1993	Moscow		62		5-02-017585-4							Book		02/03/2005			
 3674	Essence of Zen (The)		Sangharakshita			ESS	SAN	Windhorse Publications	1973	1983	Glasgow		62		904766047							Book		02/03/2005			
 3675	Essence of Zen (The)		Sangharakshita			ESS	SAN	Windhorse Publications	1973	1983	Glasgow		62		904766047							Book		02/03/2005			
 3676	Tibetan-Russian-English Dictionary issue 10		"Roerich, Y. N."			ROE	L6ba1	Nauka - Central Dept. of Oriental Lit.	1987	1987	Moscow		54		none							Book		02/03/2005			
 3677	Tibetan-Russian-English Dictionary issue 8		"Roerich, Y. N."			ROE	L6ba1	Nauka - Central Dept. of Oriental Lit.	1967	1986	Moscow	1st	54		none							Book		02/03/2005			
-3678	Essence of Zen (The)		Sangharakshita			ESS	SAN	Windhorse Publications	1973	1997	Birmingham	5th	54		904766918							Book		02/03/2005			
+3678	Essence of Zen (The)		Sangharakshita			ESS	SAN	Windhorse Publications	1976	1992	Glasgow	4th	54		904766918							Book		02/03/2005			
 3679	Human Enlightenment	An Encounter with the Ideals and Methods of Buddhism	Sangharakshita			HUM	SAN	Windhorse Publications	1980		London		72	Enlightenment Meditation Spiritual Community	904766101		A straightforward practical look at the ideals and methods of Buddhist teaching.					Book		02/03/2005			
 3680	Human Enlightenment	An Encounter with the Ideals and Methods of Buddhism	Sangharakshita			HUM	SAN	Windhorse Publications	1980	1993	Glasgow	3rd	74	Enlightenment Meditation Spiritual Community	904766578		A straightforward practical look at the ideals and methods of Buddhist teaching.					Book		02/03/2005			
 3681	Human Enlightenment	An Encounter with the Ideals and Methods of Buddhism	Sangharakshita			HUM	SAN	Windhorse Publications	1980	1993	Glasgow	3rd	74	Enlightenment Meditation Spiritual Community	904766578		A straightforward practical look at the ideals and methods of Buddhist teaching.					Book		02/03/2005			
-3682	St. Jerome Revisited	Mitrata Special Edition	Sangharakshita		P	STJ	SAN	Windhorse Publications	?1985		Glasgow		45		none							Booklet		03/03/2005			
+3682	St. Jerome Revisited	Mitrata Special Edition	Sangharakshita		P	STJ	SAN	Windhorse Publications	1984?		Glasgow		45		none							Booklet		03/03/2005			
 3683	Extending the Hand Of Fellowship	The Relation of the Western Buddhist Order to the Rest of the Buddhist World	Sangharakshita		P	EXT	SAN	Windhorse Publications	1996		Birmingham		45		904766624		Last in a series of talks which deals with the doctrinal basis for the WBO's attitude to the rest of the Buddhist world.					Book		03/03/2005			
 3684	Extending the Hand Of Fellowship	The Relation of the Western Buddhist Order to the Rest of the Buddhist World	Sangharakshita		P	EXT	SAN	Windhorse Publications	1996		Birmingham		45		904766624		Last in a series of talks which deals with the doctrinal basis for the WBO's attitude to the rest of the Buddhist world.					Book		03/03/2005			
 3685	Extending the Hand Of Fellowship	The Relation of the Western Buddhist Order to the Rest of the Buddhist World	Sangharakshita		P	EXT	SAN	Windhorse Publications	1996		Birmingham		45		904766624		Last in a series of talks which deals with the doctrinal basis for the WBO's attitude to the rest of the Buddhist world.					Book		03/03/2005			
@@ -3347,7 +3346,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3706	Path of the Inner Life (The)		Sangharakshita			PAT	SAN	Triratna Grantha Mala	1975	1983	Pune		80		904766004							Book		03/03/2005			
 3707	Word of the Buddha (The)		Nyanatiloka	Nyanatiloka		NYA	C1k0	The Word of the Buddha Publishing Committee	1952		Colombo		80		none							Booklet		03/03/2005			
 3708	Path of the Inner Life (The)		Sangharakshita			PAT	SAN	Friends of the Western Buddhist Order	1975		Purley		80		904766004							Book		03/03/2005			
-3709	Path of the Inner Life (The)		Sangharakshita			PAT	SAN						80		904766004							Book		03/03/2005			
+3709	Path of the Inner Life (The)		Sangharakshita			PAT	SAN	Friends of the Western Buddhist Order	1975		Purley		80		904766004							Book		03/03/2005			
 3710	New Currents in Western Buddhism	The Inner Meaning of the Friends of the Western Buddhist Order	Sangharakshita			NEW	SAN	Windhorse Publications	1990		Glasgow		93		904766462							Book		03/03/2005			
 3711	New Currents in Western Buddhism	The Inner Meaning of the Friends of the Western Buddhist Order	Sangharakshita			NEW	SAN	Windhorse Publications	1990		Glasgow		93		904766462							Book		03/03/2005			
 3712	Was the Buddha a Bhikkhu?	A rejoinder to a Reply to Forty-Three Years Ago	Sangharakshita			WAS	SAN	Windhorse Publications	1994		Birmingham		58		904766713							Book		03/03/2005			
@@ -3364,7 +3363,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3724	Going For Refuge		Sangharakshita		P	GOI	SAN	Windhorse Publications	1983	1986	Glasgow		26		904766217		The primacy of going for refuge as the issue that makes one a Buddhist.					Book		04/03/2005			
 3725	Dzogchen Teachings		"Norbu,Chogyal Namkhai"			NOR	G4c0	Snow Lion	2006	2006	New York	1st	20		904766195		A talk introducing 'The Eternal Legacy'					Book		04/03/2005			
 3726	Common Prayers	A Collection of Shorter and Widely Used Prayers in the Tibetan Gelukpa Tradition	"Wilson, Martin (ed.)"	Wilson - Martin		WIL	G4g2	Wisdom Publications	1984	1984	London	1st	20									Booklet		04/03/2005			
-3727	Glory of the Literary World (The)	Reflections on the Buddhist Canonical literature	Sangharakshita		P	GLO	SAN	Sugawa Press	1990		Pune		20				A talk introducing 'The Eternal Legacy'					Book		04/03/2005			
+3727	Glory of the Literary World (The)	Dhammamegha 39	Sangharakshita		P	GLO	SAN	Sihanad Publications	1990		Pune		20				A talk introducing 'The Eternal Legacy'					Book		04/03/2005			
 3728	Glory of the Literary World (The)	Reflections on the Buddhist Canonical literature	Sangharakshita		P	GLO	SAN	Windhorse Publications	1985		Glasgow		20				A talk introducing 'The Eternal Legacy'					Book		04/03/2005			
 3729	Ten Pillars of Buddhism (The)		Sangharakshita			TEN	SAN	Windhorse Publications	1984	1989	Glasgow	3rd	10		090476639x		Talk on the ten precepts on the occasion of the Orders 16th anniversary					Book		04/03/2005			
 3730	Buddha's Victory (The)		Sangharakshita			BUD	SAN	Windhorse Publications	1991		Glasgow		95		904766500		A series of talks revealing the Buddha as Man					Book		04/03/2005			
@@ -3417,10 +3416,10 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3782	Caves of Bhaja (The)		Sangharakshita		P	CAV	SAN	Windhorse Publications	1985		Glasgow		10		904766187							Booklet		14/03/2005			
 3783	Caves of Bhaja (The)		Sangharakshita		P	CAV	SAN	Windhorse Publications	1985		Glasgow		10		904766187							Booklet		14/03/2005			
 3784	Caves of Bhaja (The)		Sangharakshita		P	CAV	SAN	Windhorse Publications	1985		Glasgow		10		904766187							Booklet		14/03/2005			
-3785	Sayings Poems Reflections		Sangharakshita		P	SAY	SAN	Friends of the Western Buddhist Order	1976		London		29									Booklet		14/03/2005			
-3786	Sayings Poems Reflections		Sangharakshita		P	SAY	SAN	Friends of the Western Buddhist Order	1976		London		29									Booklet		14/03/2005			
+3785	Sayings Poems Reflections		Sangharakshita		P	SAY	SAN	Friends of the Western Buddhist Order	1976		Purley		29									Booklet		14/03/2005			
+3786	Sayings Poems Reflections		Sangharakshita		P	SAY	SAN	Friends of the Western Buddhist Order	1976		Purley		29									Booklet		14/03/2005			
 3787	Buddhism Without Beliefs	A Contemporary Guide to Awakening	"Batchelor, Stephen"			BAT	H0c0	Riverhead Books	1997	1997	New Yrok	1st	29		1-57322-058-2							Book		14/03/2005			
-3788	Sayings Poems Reflections		Sangharakshita		P	SAY	SAN	Friends of the Western Buddhist Order	1976		London		29									Booklet		14/03/2005			
+3788	Sayings Poems Reflections		Sangharakshita		P	SAY	SAN	Friends of the Western Buddhist Order	1976		Purley		29									Booklet		14/03/2005			
 3789	Conquering New Worlds	Selected poems of Sangharakshita	Sangharakshita			CON	SAN	Windhorse Publications	1986		Glasgow		62		904766268							Book		14/03/2005			
 3790	Conquering New Worlds	Selected poems of Sangharakshita	Sangharakshita			CON	SAN	Windhorse Publications	1986		Glasgow		62		904766268							Book		14/03/2005			
 3791	Conquering New Worlds	Selected poems of Sangharakshita	Sangharakshita			CON	SAN	Windhorse Publications	1986		Glasgow		62		904766268							Book		14/03/2005			
@@ -3434,8 +3433,8 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3799	Peace is a Fire	a collection of writings and sayings	Sangharakshita			PEA	SAN	Windhorse Publications	1979		London		127		904766063							Book		14/03/2005			
 3800	Peace is a Fire	a collection of writings and sayings	Sangharakshita			PEA	SAN	Windhorse Publications	1979	1995	Birmingham	2nd	147		904766845							Book		14/03/2005			
 3801	Peace is a Fire	a collection of writings and sayings	Sangharakshita			PEA	SAN	Windhorse Publications	1979	1995	Birmingham	2nd	147		904766845							Book		14/03/2005			
-3802	Going For Refuge		Sangharakshita		P	GOI	SAN	Windhorse Publications	1983		Glasgow		26		904766217		The primacy of going for refuge as the issue that makes one a Buddhist.					Booklet		15/03/2005			
-3803	Going For Refuge		Sangharakshita		P	GOI	SAN	Windhorse Publications	1983	1983	Birmingham	3rd	30		904766829		The primacy of going for refuge as the issue that makes one a Buddhist.					Booklet		15/03/2005			
+3802	Going For Refuge		Sangharakshita		P	GOI	SAN	Windhorse Publications	1983	1997	Birmingham	3rd	30		904766217		The primacy of going for refuge as the issue that makes one a Buddhist.					Booklet		15/03/2005			
+3803	Going For Refuge		Sangharakshita		P	GOI	SAN	Windhorse Publications	1983	1997	Birmingham	3rd	30		904766829		The primacy of going for refuge as the issue that makes one a Buddhist.					Booklet		15/03/2005			
 3804	Queer Dharma		"Leyland, Winston (ed.)"			LEY	H0n3	Gay Sunshine Press	1998	1998	S.F. USA	1st	30		0-940567-21-0							Book		15/03/2005			
 3805	Buddhism World Peace and Nuclear War		Sangharakshita		P	BUD	SAN	Windhorse Publications	1984		Glasgow		30		904766160							Booklet		15/03/2005			
 3806	Buddhism World Peace and Nuclear War		Sangharakshita		P	BUD	SAN	Windhorse Publications	1984		Glasgow		30		904766160							Booklet		15/03/2005			
@@ -3443,7 +3442,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3808	Bodhisattva (The)	Evolution and Self-Transcendence	Sangharakshita		P	BOD	SAN	Windhorse Publications	1983		Glasgow		24									Booklet		15/03/2005			
 3809	Bodhisattva (The)	Evolution and Self-Transcendence	Sangharakshita		P	BOD	SAN	Windhorse Publications	1983		Glasgow		24									Booklet		15/03/2005			
 3812	Buddhism and Blasphemy	Buddhist Reflections on the 1977 Blasphemy Trial	Sangharakshita		P	BUD	SAN	Windhorse Publications	1978	1989	Glasgow		24		904766071							Booklet		15/03/2005			
-3813	Buddhism and Blasphemy	Buddhist Reflections on the 1977 Blasphemy Trial	Sangharakshita		P	BUD	SAN	Windhorse Publications	1978	1989	Glasgow		24		904766071							Booklet		15/03/2005			
+3813	Buddhism and Blasphemy	Buddhist Reflections on the 1977 Blasphemy Trial	Sangharakshita		P	BUD	SAN	Windhorse Publications	1978		London		24									Booklet		15/03/2005			
 3814	Buddhism and Blasphemy	Buddhist Reflections on the 1977 Blasphemy Trial	Sangharakshita		P	BUD	SAN	Windhorse Publications	1978	1989	Glasgow		24		904766071							Booklet		15/03/2005			
 3815	Sons of the Buddha	The Early Lives of Three Southern Thai Masters	"Tiyavanich, Kamala"			TIY	C1n1	Silkworm Books	2007	2007	Thailand	1st	24		978-974-9511-34-3							Book		15/03/2005			
 3816	Buddhism and the West	The Integration of Buddhism into Western Society	Sangharakshita		P	BUD	SAN	Windhorse Publications	1992		Glasgow		20		904766551							Booklet		15/03/2005			
@@ -3459,8 +3458,8 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3826	Problem of Ahimsa and the Nature of Buddhist Tolerance	Dhammamegha 54	Sangharakshita		P	PRO	SAN	Sihanad Publications	1994		Pune		16									Booklet		15/03/2005			
 3827	Problem of Ahimsa and the Nature of Buddhist Tolerance		Sangharakshita		P	PRO	SAN	T L Chala for the Dhamma Trust	1994	1998	Pune		16									Booklet		15/03/2005			
 3828	Problem of Ahimsa and the Nature of Buddhist Tolerance		Sangharakshita		P	PRO	SAN	T L Chala for the Dhamma Trust	1994	1998	Pune		16									Booklet		15/03/2005			
-3829	Meaning of Orthodoxy in Buddhism (The)	A Protest	Sangharakshita		P	MEA	SAN	Windhorse Publications	1987		Glasgow		39		904766276		First published in the Feb-June issue of France-Asie 1957					Booklet		15/03/2005			
-3831	Meaning of Orthodoxy in Buddhism (The)	A Protest	Sangharakshita		P	MEA	SAN	Windhorse Publications	1987		Glasgow		39		904766276		First published in the Feb-June issue of France-Asie 1957					Booklet		15/03/2005			
+3829	Meaning of Orthodoxy in Buddhism (The)	A Protest	Sangharakshita		P	MEA	SAN	Windhorse Publications	1957	1987	Glasgow		39		904766276		First published in the Feb-June issue of France-Asie 1957					Booklet		15/03/2005			
+3831	Meaning of Orthodoxy in Buddhism (The)	A Protest	Sangharakshita		P	MEA	SAN	Windhorse Publications	1957	1987	Glasgow		39		904766276		First published in the Feb-June issue of France-Asie 1957					Booklet		15/03/2005			
 3832	Jataka Tales : Deer Stories			"Pai, Anant (ed.)"		PAI	A1	India Book House Ltd.	1996	1996	Mumbai	1st	39		none							Booklet		15/03/2005			
 3833	Jataka Tales : Bird Stories		"Chandrakant, Kamala"	Pai - Anant (ed.)		PAI	A1	India Book House Ltd.	1983	1997	Mumbai	1st	39		81-7508-128-7							Booklet		15/03/2005			
 3834	Lost and Found: Six Poems		Manjusvara (David Keefe)		LOS	MAN	TRI P	Wolf at the Door	1998		Bristol		36									Booklet		15/03/2005			
@@ -3468,17 +3467,17 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3836	Art of Meditation: The Heart (The)		Vessantara		ART	VES	TRI	Windhorse Publications	2006		Birmingham		36		978 1 899579 71 6							Book		15/03/2005			
 3837	Art of Meditation:  The Body (The)		Paramananda		ART	PAR	TRI	Windhorse Publications	2007	2007	Birmingham	1st	36		978 1 899579 77 8							Book		15/03/2005			
 3838	Buddha's Victory (The)		Sangharakshita			BUD	SAN	Windhorse Publications	1991		Glasgow		95		904766500							Book		15/03/2005			
-3839	Buddhism as Philosophy and as Religion		Sangharakshita		P	BUD	SAN	Dhammamegha	1982		Pune		20									Booklet		15/03/2005			
-3840	Buddhism as Philosophy and as Religion		Sangharakshita		P	BUD	SAN	Dhammamegha	1982		Pune		20									Booklet		15/03/2005			
-3841	Buddhism as Philosophy and as Religion		Sangharakshita		P	BUD	SAN	Dhammamegha	1982		Pune		24									Booklet		15/03/2005			
+3839	Buddhism as Philosophy and as Religion	Dhammamegha 9	Sangharakshita		P	BUD	SAN	T L Chala for the Dhamma Trust	1982		Pune		20									Booklet		15/03/2005			
+3840	Buddhism as Philosophy and as Religion	Dhammamegha 9	Sangharakshita		P	BUD	SAN	T L Chala for the Dhamma Trust	1982		Pune		20									Booklet		15/03/2005			
+3841	Buddhism as Philosophy and as Religion	Dhammamegha 9	Sangharakshita		P	BUD	SAN	Triratna Grantha Mala	1982		Pune		24									Booklet		15/03/2005			
 3843	Jataka Tales : Monkey Stories		"Khanna, Meena"	Pai - Anant (ed.)		PAI	A1	India House Ltd.	1973	1997	Mumbai	1st	32									Booklet		16/03/2005			
 3844	Jataka Tales : Elephant Stories		"Lal, Lakshmi & Pai, Anant (ed.)"			PAI	A1	India Book House Ltd.	1977	1996	Mumbai	1st	32									Booklet		16/03/2005			
-3845	Essence of Zen (The)		Sangharakshita			ESS	SAN	Windhorse Publications	1973	1992	Glasgow	4th	79		904766543		Five talks on Zen given in 1965					Book		16/03/2005			
-3846	What Meditation Really Is		Sangharakshita		P	MED	SAN	Aio-Wira Yoga Centre Inc	1975		Swanson		28									Booklet		16/03/2005			
-3847	What Meditation Really Is		Sangharakshita		P	MED	SAN	Aio-Wira Yoga Centre Inc	1975		Swanson		28									Booklet		16/03/2005			
+3845	Essence of Zen (The)		Sangharakshita			ESS	SAN	Windhorse Publications	1976	1992	Glasgow	4th	79		904766543		Five talks on Zen given in 1965					Book		16/03/2005			
+3846	What Meditation Really Is		Sangharakshita		P	WHA	SAN	Aio-Wira Yoga Centre Inc	1975		Swanson		28									Booklet		16/03/2005			
+3847	What Meditation Really Is		Sangharakshita		P	WHA	SAN	Aio-Wira Yoga Centre Inc	1975		Swanson		28									Booklet		16/03/2005			
 3848	Forty-Three Years Ago	Reflections on my Bhikkhu Ordination	Sangharakshita			FOR	SAN	Windhorse Publications	1993		Glasgow		59		904766640							Book		16/03/2005			
 3849	Forty-Three Years Ago	Reflections on my Bhikkhu Ordination	Sangharakshita			FOR	SAN	Windhorse Publications	1993		Glasgow		59		904766640							Book		16/03/2005			
-3850	Sayings Poems Reflections		Sangharakshita		P	SAY	SAN	Friends of the Western Buddhist Order	1976		London		27									Booklet		16/03/2005			
+3850	Sayings Poems Reflections		Sangharakshita		P	SAY	SAN	Friends of the Western Buddhist Order	1976		Purley		27									Booklet		16/03/2005			
 3851	Three Levels Of Wisdom (The)	  Mitrata 72 Listening Reflecting Meditating	Subhuti (ed.)		THR	SUB	TRI P	Windhorse Publications	1988	1988	Glasgow		48									Booklet		16/03/2005			
 3852	Journey to Il Convento (The)	Mitrata Special Edition December 1984	Sangharakshita		P	JOU	SAN	Windhorse Publications	1984		Glasgow		48		none							Booklet		16/03/2005			
 3853	Glory of the Literary World (The)	Reflections on the Buddhist Canonical literature	Sangharakshita		P	GLO	SAN	Windhorse Publications	1985		Glasgow		20		904766195							Booklet		16/03/2005			
@@ -3490,9 +3489,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3859	Philosophy of Religion: A Budhist Perspective (The)		"Sharma, Arvind"			SHA	U2	Oxford University Press	1995	1997	India	1st	527		0 19 564272 4							Book		21/03/2005			
 3860	Nietzsche and Buddhism	A study in nihilism and ironic affinities	Sagaramati (Robert Morrison)		NIE	SAG	TRI	Oxford University Press	1997	1997	Oxford	1st	527		0-19-823556-9							Book		21/03/2005			
 3861	Survey of Buddhism (A)	Its doctrines and methods through the ages	Sangharakshita			SUR	SAN	The Indian Institute of World Culture	1957	1966	Bangalore	3rd	527									Book		21/03/2005			
-3862	Survey of Buddhism (A)	Its doctrines and methods through the ages	Sangharakshita			SUR	SAN	Shambhala Publications Inc	1957	1980	Colorado	5th	484		877731683							Book		21/03/2005			
 3863	Survey of Buddhism (A)	Its doctrines and methods through the ages	Sangharakshita			SUR	SAN	Shambhala Publications Inc	1957	1980	Colorado	5th	484		877731683							Book		21/03/2005			
-3864	Survey of Buddhism (A)	Its doctrines and methods through the ages	Sangharakshita			SUR	SAN	Shambhala Publications Inc	1957	1980	Colorado	5th	484		877731683							Book		21/03/2005			
 3865	Survey of Buddhism (A)	Its doctrines and methods through the ages	Sangharakshita			SUR	SAN	Tharpa Publications	1957	1987	London	6th	525		948006013							Book		21/03/2005			
 3866	Survey of Buddhism (A)	Its doctrines and methods through the ages	Sangharakshita			SUR	SAN	Tharpa Publications	1957	1987	London	6th	525		948006013							Book		21/03/2005			
 3867	Mountain Side (The)		"Humphreys, Christmas"			HUM	Q7a7	The Buddhist Society	1979	1979	London	1st	525									Book		21/03/2005			
@@ -3520,79 +3517,79 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 3889	Tibetan-Russian-English Dictionary issue 2		"Roerich, Y. N."			ROE	L6ba1	Nauka - Central Dept. of Oriental Lit.	1984	1984	Moscow	1st	498		none							Book		22/03/2005			
 3890	Facing Mount Kanchenjunga	An English Buddhist in the Eastern Himalayas	Sangharakshita			FAC	SAN	Windhorse Publications	1991		Glasgow		498		904766527							Book		22/03/2005			
 3891	Anagarika Dharmapala	A biographical sketch	Sangharakshita		P	ANA	SAN	Maha Bodhi Society of India			Calcutta		102									Book		11/04/2005			
-3892	Aspects of Buddhist Morality		Sangharakshita		P	ASP	SAN						22									Booklet		11/04/2005			
-3893	Aspects of Buddhist Morality		Sangharakshita		P	ASP	SAN						22									Booklet		11/04/2005			
+3892	Aspects of Buddhist Morality		Sangharakshita		P	ASP	SAN		no date				22									Booklet		11/04/2005			
+3893	Aspects of Buddhist Morality		Sangharakshita		P	ASP	SAN		no date				22									Booklet		11/04/2005			
 3895	Awakening of the Heart		Sangharakshita		P	AWA	SAN	Privately Printed	1972		London		11									Booklet		11/04/2005			
 3896	Awakening of the Heart		Sangharakshita		P	AWA	SAN	Privately Printed	1972		London		11									Booklet		11/04/2005			
-3897	Between the Twin Sala Trees		Sangharakshita		P	BET	SAN	Dhammamegha			Pune		18									Booklet		11/04/2005			
-3898	Bird's Eye View of Indian Buddhism (A)		Sangharakshita			BIR	SAN	Dhammamegha	1987		Pune		36									Booklet		11/04/2005			
-3899	Bird's Eye View of Indian Buddhism (A)		Sangharakshita			BIR	SAN	Dhammamegha	1987		Pune		36									Booklet		11/04/2005			
-3900	Blueprint for a New World (A)		Sangharakshita		P	BLU	SAN	Dhammamegha	1996		Pune		15									Booklet		11/04/2005			
+3897	Between the Twin Sala Trees	Dhammamegha 60 	Sangharakshita		P	BET	SAN	Sihanad Publications	no date		Pune		18									Booklet		11/04/2005			
+3898	Bird's Eye View of Indian Buddhism (A)	Dhammamegha No 41 & 42 (double issue)	Sangharakshita		P	BIR	SAN	Sihanad Publications	1990		Pune		36									Booklet		11/04/2005			
+3899	Bird's Eye View of Indian Buddhism (A)	Dhammamegha No 41 & 42 (double issue)	Sangharakshita		P	BIR	SAN	Sihanad Publications	1990		Pune		36									Booklet		11/04/2005			
+3900	Blueprint for a New World (A)	Dhammamegha 65	Sangharakshita		P	BLU	SAN	Sihanad Publications	1996		Pune		15									Booklet		11/04/2005			
 3901	Buddhism and Art		Sangharakshita		P	BUD	SAN	Maha Bodhi Society of India	1957		Kalimpong		40									Booklet		11/04/2005			
 3902	Buddhism and Art		Sangharakshita		P	BUD	SAN	Maha Bodhi Society of India	1957		Kalimpong		40									Booklet		11/04/2005			
-3903	Buddhism and Art		Sangharakshita		P	BUD	SAN	Dhammamegha	1957	1982	Pune		45									Booklet		11/04/2005			
-3904	Buddhism and William Blake		Sangharakshita		P	BUD	SAN	Windhorse Publications			London		13				first appeared in FWBO Newsletter Winter 1977					Booklet		11/04/2005			
+3903	Buddhism and Art	Dhammamegha 7 & 8	Sangharakshita		P	BUD	SAN	Triratna Grantha Mala	1957	1982	Pune		45									Booklet		11/04/2005			
+3904	Buddhism and William Blake		Sangharakshita		P	BUD	SAN	Windhorse Publications	no date		London		13				first appeared in FWBO Newsletter Winter 1977					Booklet		11/04/2005			
 3906	Buddhism and William Blake		Sangharakshita		P	BUD	SAN	Ola Leaves		1981	London		12									Booklet		11/04/2005			
 3907	Buddhism and William Blake		Sangharakshita		P	BUD	SAN	Ola Leaves		1981	London		12									Booklet		11/04/2005			
-3908	Buddhism and the Path of the Higher Evolution		Sangharakshita		P	BUD	SAN	Dhammamegha	1990		Pune		19									Booklet		11/04/2005			
-3909	Case of Dysentery (A)		Sangharakshita		P	CAS	SAN	Dhammamegha			Pune		16									Booklet		12/04/2005			
-3910	Cave (The)		Sangharakshita		P	CAV	SAN	Dhammamegha	1992		Pune		24									Booklet		12/04/2005			
-3911	Commitment and Spiritual Community		Sangharakshita		P	COM	SAN	Dhammamegha	1991		Pune		16									Booklet		12/04/2005			
-3912	Commitment and Spiritual Community		Sangharakshita		P	COM	SAN	Dhammamegha	1991		Pune		16									Booklet		12/04/2005			
+3908	Buddhism and the Path of the Higher Evolution	Dhammamegha 40	Sangharakshita		P	BUD	SAN	Sihanad Publications	1990		Pune		19									Booklet		11/04/2005			
+3909	Case of Dysentery (A)	Dhammamegha 59 	Sangharakshita		P	CAS	SAN	Sihanad Publications	no date		Pune		16									Booklet		12/04/2005			
+3910	Cave (The)	Dhammamegha 48	Sangharakshita		P	CAV	SAN	Sihanad Publications	1992		Pune		24									Booklet		12/04/2005			
+3911	Commitment and Spiritual Community	Dhammamegha 46	Sangharakshita		P	COM	SAN	Sihanad Publications	1991		Pune		16									Booklet		12/04/2005			
+3912	Commitment and Spiritual Community	Dhammamegha 46	Sangharakshita		P	COM	SAN	Sihanad Publications	1991		Pune		16									Booklet		12/04/2005			
 3913	Dialogue Between Buddhism and Christianity		Sangharakshita		p	DIA	SAN	Ola Leaves	1981		London		8									Booklet		12/04/2005			
 3914	Fifteen Points For Old (And New) Order Members		Sangharakshita		P	FIF	SAN	Padmaloka Books	1993		Norwich		23									Booklet		12/04/2005			
 3915	Fifteen Points For New (And Old) Order Members	Bhante's concluding remarks at Guhyaloka 1988	Sangharakshita		P	FIF	SAN	Padmaloka Books	1991		Norwich		13									Booklet		12/04/2005			
 3916	Fifteen Points For New (And Old) Order Members	Bhante's concluding remarks at Guhyaloka 1988	Sangharakshita		P	FIF	SAN	Padmaloka Books	1991		Norwich		13									Booklet		12/04/2005			
 3917	Great Sayings of Anagarika Dharmapala	With a life sketch	"Sangharakshita  & Kirthisinghe, B P"		P	GRE	SAN	Buddhist Publication Society	1964		Kandy		22				Collected by Bhikshu Sangharakshita with a Life Sketch by B.P. Kirthisinghe					Booklet		12/04/2005			
-3918	Heart Sutra		Sangharakshita		P	HEA	SAN	Dhammamegha	1995		Pune		15									Booklet		12/04/2005			
+3918	Heart Sutra	Dhammamegha 61	Sangharakshita		P	HEA	SAN	Sihanad Publications	1995		Pune		15									Booklet		12/04/2005			
 3919	Hedonism and the Spiritual Life		Sangharakshita		P	HED	SAN	Ola Leaves	1982		London		12									Booklet		12/04/2005			
 3920	Hedonism and the Spiritual Life		Sangharakshita		P	HED	SAN	Ola Leaves	1982		London		12									Booklet		12/04/2005			
-3921	Immortal Sayings of Anagarika Dharmapala	Collected by Bhikshu Sangharakshita	Sangharakshita		P	IMM	SAN	Maha Bodhi Society			Calcutta		32											12/04/2005			
+3921	Immortal Sayings of Anagarika Dharmapala	Collected by Bhikshu Sangharakshita	Sangharakshita		P	IMM	SAN	Maha Bodhi Society	1957		Calcutta		32											12/04/2005			
 3922	Impressions Of America 1994		Sangharakshita		P	IMP	SAN	Padmaloka Books	1995		Norwich		28									Booklet		12/04/2005			
-3923	Individual and the World Today (The)		Sangharakshita		p	IND	SAN	Dhammamegha	1991		Pune		16									Booklet		12/04/2005			
-3924	Individual and the World Today (The)		Sangharakshita		p	IND	SAN	Dhammamegha	1991		Pune		16									Booklet		12/04/2005			
-3925	Integration of Buddhism Into Western Society (The)		Sangharakshita		P	INT	SAN	Dhammamegha	1993		Pune		16									Booklet		12/04/2005			
-3926	Meditation Versus Psychotherapy		Sangharakshita		P	MED	SAN	Dhammamegha	1991		Pune		12									Booklet		12/04/2005			
-3927	Meditation Versus Psychotherapy		Sangharakshita		P	MED	SAN	Dhammamegha	1991		Pune		12									Booklet		12/04/2005			
-3928	Message of the Bowl		Sangharakshita		p	MES	SAN	Dhammamegha	1986		Pune		23									Booklet		12/04/2005			
-3929	Method of Personal Development (A)		Sangharakshita		P	MET	SAN	Dhammamegha	1995		Pune		20									Booklet		12/04/2005			
-3930	Mind - Reactive and Creative		Sangharakshita		P	MIN	SAN	Privately Published (?)	1971			1st	12				Based on a lecture originally given on 19th March 1967. First Published in the Middle Way August 1971					Booklet		12/04/2005			
-3931	Mind - Reactive and Creative		Sangharakshita		P	MIN	SAN	Privately Published (?)	1971	1975		2nd	12				Based on a lecture originally given on 19th March 1967. First Published in the Middle Way August 1971					Booklet		12/04/2005			
+3923	Individual and the World Today (The)	Dhammamegha 44	Sangharakshita		p	IND	SAN	Sihanad Publications	1991		Pune		16									Booklet		12/04/2005			
+3924	Individual and the World Today (The)	Dhammamegha 44	Sangharakshita		p	IND	SAN	Sihanad Publications	1991		Pune		16									Booklet		12/04/2005			
+3925	Integration of Buddhism Into Western Society (The)	Dhammamegha 51	Sangharakshita		P	INT	SAN	Sihanad Publications	1993		Pune		16									Booklet		12/04/2005			
+3926	Meditation Versus Psychotherapy	Dhammamegha 43	Sangharakshita		P	MED	SAN	Sihanad Publications	1991		Pune		12									Booklet		12/04/2005			
+3927	Meditation Versus Psychotherapy	Dhammamegha 43	Sangharakshita		P	MED	SAN	Sihanad Publications	1991		Pune		12									Booklet		12/04/2005			
+3928	Message of the Bowl	Dhammamegha 24	Sangharakshita		p	MES	SAN	Triratna Grantha Mala	1986		Pune		23									Booklet		12/04/2005			
+3929	Method of Personal Development (A)	Dhammamegha 62	Sangharakshita		P	MET	SAN	Sihanad Publications	1995		Pune		20									Booklet		12/04/2005			
+3930	Mind - Reactive and Creative		Sangharakshita		P	MIN	SAN	Privately Published (?)	1971				12				Based on a lecture originally given on 19th March 1967. First Published in the Middle Way August 1971					Booklet		12/04/2005			
+3931	Mind - Reactive and Creative		Sangharakshita		P	MIN	SAN	Privately Published (?)	1971				12				Based on a lecture originally given on 19th March 1967. First Published in the Middle Way August 1971					Booklet		12/04/2005			
 3932	Mind - Reactive and Creative		Sangharakshita		P	MIN	SAN	Friends of the Western Buddhist Order	1971	1975	London	2nd	21				Based on a lecture originally given on 19th March 1967. First Published in the Middle Way August 1971					Booklet		12/04/2005			
 3933	Mind - Reactive and Creative		Sangharakshita		P	MIN	SAN	Friends of the Western Buddhist Order	1971	1975	London	2nd	21				Based on a lecture originally given on 19th March 1967. First Published in the Middle Way August 1971					Booklet		12/04/2005			
 3934	Mind - Reactive and Creative		Sangharakshita		P	MIN	SAN	Windhorse Publications	1971	1977	Purley	3rd	21				Based on a lecture originally given on 19th March 1967. First Published in the Middle Way August 1971					Booklet		12/04/2005			
 3935	Mind - Reactive and Creative		Sangharakshita		P	MIN	SAN	Windhorse Publications	1971	1977	Purley	3rd	21				Based on a lecture originally given on 19th March 1967. First Published in the Middle Way August 1971					Booklet		12/04/2005			
 3936	Buddhism: Tools for Living your Life		Vajragupta		BUD	VAJ	TRI	Windhorse Publications	2007		Birmingham		21		978 1 899579 74 7							Book		12/04/2005			
-3937	Mind - Reactive and Creative		Sangharakshita		P	MIN	SAN	Windhorse Publications (no details but Dhamma megha edition)	1971	?	?		24				Based on a lecture originally given on 19th March 1967. First Published in the Middle Way August 1971					Booklet		12/04/2005			
-3938	Mind - Reactive and Creative		Sangharakshita		P	MIN	SAN	Windhorse Publications (no details but Dhamma megha edition)	1971	?	?		24				Based on a lecture originally given on 19th March 1967. First Published in the Middle Way August 1971					Booklet		12/04/2005			
-3939	Modern View of Buddhism(A)		Sangharakshita		P	MOD	SAN	The Buddhist Union	1960		Singapore		31									Booklet		22/09/2005			
-3940	Modern View of Buddhism(A)		Sangharakshita		P	MOD	SAN	The Buddhist Union	1960		Singapore		31									Booklet		22/09/2005			
-3941	New Man Speaks (The)		Sangharakshita		P	NEW	SAN	Dhammamegha			Pune		13									Booklet		13/04/2005			
-3942	Nucleus of a New Society (The)		Sangharakshita		P	NUC	SAN	Dhammamegha	1996		Nagpur		19									Booklet		13/04/2005			
-3943	Ordination and Initiation In the Three Yanas		Sangharakshita		P	ORD	SAN	Dhammamegha	1992		Pune		18									Booklet		13/04/2005			
+3937	Mind - Reactive and Creative		Sangharakshita		P	MIN	SAN	Windhorse Publications (no details but Dhamma megha edition)	1971	unknown			24				Based on a lecture originally given on 19th March 1967. First Published in the Middle Way August 1971					Booklet		12/04/2005			
+3938	Mind - Reactive and Creative		Sangharakshita		P	MIN	SAN	Windhorse Publications (no details but Dhamma megha edition)	1971	unknown			24				Based on a lecture originally given on 19th March 1967. First Published in the Middle Way August 1971					Booklet		12/04/2005			
+3939	Modern View of Buddhism(A)		Sangharakshita		P	MOD	SAN	The Buddhist Union	1958	1960	Singapore		31									Booklet		22/09/2005			
+3940	Modern View of Buddhism(A)		Sangharakshita		P	MOD	SAN	The Buddhist Union	1958	1960	Singapore		31									Booklet		22/09/2005			
+3941	New Man Speaks (The)	Dhammamegha 57	Sangharakshita		P	NEW	SAN	Sihanad Publications			Pune		13									Booklet		13/04/2005			
+3942	Nucleus of a New Society (The)	Dhammamegha 64	Sangharakshita		P	NUC	SAN	Sihanad Publications	1996		Nagpur		19									Booklet		13/04/2005			
+3943	Ordination and Initiation In the Three Yanas	Dhammamegha 50	Sangharakshita		P	ORD	SAN	Sihanad Publications	1992		Pune		18									Booklet		13/04/2005			
 3945	"Paradox and Poetry In ""The Voice Of the Silence"""		Sangharakshita		P	PAR	SAN	The Indian Institute of World Culture	1958	1985	Bangalore	2nd	18									Booklet		13/04/2005			
 3946	"Paradox and Poetry In ""The Voice Of the Silence"""		Sangharakshita		P	PAR	SAN	The Indian Institute of World Culture	1958	1985	Bangalore	2nd	18									Booklet		13/04/2005			
 3947	"Paradox and Poetry In ""The Voice Of the Silence"""		Sangharakshita		P	PAR	SAN	The Indian Institute of World Culture	1958	1985	Bangalore	2nd	18									Booklet		13/04/2005			
-3948	Path of the Dhamma (The)		Sangharakshita		P	PAT	SAN	Dhammamegha	1993		Pune		20									Booklet		13/04/2005			
+3948	Path of the Dhamma (The)	Dhammamegha 52	Sangharakshita		P	PAT	SAN	Sihanad Publications	1993		Pune		20									Booklet		13/04/2005			
 3949	Path of the Inner Life (The)		Sangharakshita		P	PAT	SAN	Young Buddhist Association of Malaysia	1977		Penang		15									Booklet		13/04/2005			
 3950	Path of the Inner Life (The)		Sangharakshita		P	PAT	SAN	Young Buddhist Association of Malaysia	1977		Penang		15									Booklet		13/04/2005			
 3951	Path of the Inner Life (The)		Sangharakshita		P	PAT	SAN	Young Buddhist Association of Malaysia	1977		Penang		15									Booklet		13/04/2005			
-3952	Pattern of Development (The)		Sangharakshita		P	PAT	SAN	Dhammamegha	1994		Pune		48									Booklet		13/04/2005			
-3953	Priceless Jewel (The)	The White Lotus Sutra in the West	Sangharakshita		P	PRI	SAN	Triratna Grantha Mala	1987	1987	Pune		20									Booklet		13/04/2005			
-3954	Priceless Jewel (The)	The White Lotus Sutra in the West	Sangharakshita		P	PRI	SAN	Triratna Grantha Mala	1987	1987	Pune		20									Booklet		13/04/2005			
+3952	Pattern of Development (The)	Dhammamegha 55 & 56	Sangharakshita		P	PAT	SAN	Sihanad Publications	1994		Pune		48									Booklet		13/04/2005			
+3953	Priceless Jewel (The)	The White Lotus Sutra in the West Dhammamegha 27	Sangharakshita		P	PRI	SAN	Triratna Grantha Mala	1987	1987	Pune		20									Booklet		13/04/2005			
+3954	Priceless Jewel (The)	The White Lotus Sutra in the West Dhammamegha 27	Sangharakshita		P	PRI	SAN	Triratna Grantha Mala	1987	1987	Pune		20									Booklet		13/04/2005			
 3955	Progress and Religion	Dhammamegha 21	Sangharakshita		P	PRO	SAN	Triratna Grantha Mala	1985		Pune		18									Booklet		13/04/2005			
 3956	Reflections on Going Forth		Sangharakshita		P	REF	SAN	Padmaloka Books	1997		Norwich		19									Booklet		13/04/2005			
-3957	Religio-Nationalism In Sri Lanka		Sangharakshita		P	REL	SAN	Dhammamegha	1989		Pune		20									Booklet		13/04/2005			
-3958	Spiral Path (The)		Sangharakshita		P	SPI	SAN	Dhammamegha	1983		Pune		23									Booklet		13/04/2005			
-3959	Dharmapala: the Spiritual Dimension		Sangharakshita		P	DHA	SAN	Dhammamegha	1992		Pune		19									Booklet		13/04/2005			
-3960	Dharmapala: the Spiritual Dimension		Sangharakshita		P	DHA	SAN	Dhammamegha	1992		Pune		19									Booklet		13/04/2005			
-3961	Dharmapala: the Spiritual Dimension		Sangharakshita		P	DHA	SAN	Dhammamegha	1992		Pune		19									Booklet		13/04/2005			
-3962	Ten Ornaments of the Buddhist (The)		Sangharakshita		P	TEN	SAN	Dhammamegha	1992		Pune		15									Booklet		13/04/2005			
+3957	Religio-Nationalism In Sri Lanka	Dhammamegha 38	Sangharakshita		P	REL	SAN	Sihanad Publications	1989		Pune		20									Booklet		13/04/2005			
+3958	Spiral Path (The)	Dhammamegha 13	Sangharakshita		P	SPI	SAN	Triratna Grantha Mala	1983		Pune		23									Booklet		13/04/2005			
+3959	Dharmapala: the Spiritual Dimension	Dhammamegha 47	Sangharakshita		P	DHA	SAN	Sihanad Publications	1992		Pune		19									Booklet		13/04/2005			
+3960	Dharmapala: the Spiritual Dimension	Dhammamegha 47	Sangharakshita		P	DHA	SAN	Sihanad Publications	1992		Pune		19									Booklet		13/04/2005			
+3961	Dharmapala: the Spiritual Dimension	Dhammamegha 47	Sangharakshita		P	DHA	SAN	Sihanad Publications	1992		Pune		19									Booklet		13/04/2005			
+3962	Ten Ornaments of the Buddhist (The)	Dhammamegha 53	Sangharakshita		P	TEN	SAN	Sihanad Publications	1992		Pune		15									Booklet		13/04/2005			
 3963	Wanted: A New Type Of Upasaka		Sangharakshita		P	WAN	SAN	The Maha Bodhi	1962				5									article		13/04/2005			
-3964	Western Buddhists and Eastern Buddhism		Sangharakshita		P	WES	SAN	Dhammamegha	1991		Pune		21									Booklet		13/04/2005			
-3965	Western Buddhists and Eastern Buddhism		Sangharakshita		P	WES	SAN	Dhammamegha	1991		Pune		21									Booklet		13/04/2005			
+3964	Western Buddhists and Eastern Buddhism	Dhammamegha 45	Sangharakshita		P	WES	SAN	Sihanad Publications	1991		Pune		21									Booklet		13/04/2005			
+3965	Western Buddhists and Eastern Buddhism	Dhammamegha 45	Sangharakshita		P	WES	SAN	Sihanad Publications	1991		Pune		21									Booklet		13/04/2005			
 3966	Who Is the Buddha?		Sangharakshita		P	WHO	SAN	Wesak Celebrations Committee	1976		Penang		18									Booklet		13/04/2005			
-3967	Wreath of Blue Lotus (A)		Sangharakshita		p	WRE	SAN	Dhammamegha			Pune		15									Booklet		13/04/2005			
+3967	Wreath of Blue Lotus (A)	Dhammamegha 58	Sangharakshita		p	WRE	SAN	Sihanad Publications	unknown		Pune		15									Booklet		13/04/2005			
 3968	Transforming Self and World	Themes from the Sutra of Golden Light	Sangharakshita			TRA	SAN	Windhorse Publications	1995		Birmingham		235		090476673X							Book		03/05/2005			
 3969	Friends of the Western Buddhist Order (Russian)	In Russian script	Saddhaloka		FRI	SAD	TRI Ru	Saddhaloka					235									Booklet		03/05/2005			
 3970	Transforming Self and World	Themes from the Sutra of Golden Light	Sangharakshita			TRA	SAN	Windhorse Publications	1995		Birmingham		235		090476673X							Book		03/05/2005			
@@ -3676,8 +3673,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4056	Teachers Of Enlightenment	The Refuge Tree of the Western Buddhist Order	Kulananda		TEA	KUL	TRI	Windhorse Publications	2000		Birmingham		293		1899579257							Book		01/09/2005			
 4057	Teachers Of Enlightenment	The Refuge Tree of the Western Buddhist Order	Kulananda		TEA	KUL	TRI	Windhorse Publications	2000		Birmingham		293		1899579257							Book		01/09/2005			
 4058	Dr Ambedkar on Islam		"Ahir, D.C."			AHI	V1	Dalit Upsurge	1996		New delhi		155									Booklet		01/09/2005			
-4059	Meaning of Orthodoxy in Buddhism (The)	A Protest	Sangharakshita		P	MEA	SAN	France-sie Presence du Bouddhisme	1959				155									off-print		01/09/2005			
-4060	Western Buddhist Review (The)	No 1 December 1994	Kamalashila (Ed)		WES	KAM	TRI	Vajrakuta Study Centre	1994		Corwen		155		13567581							Journal		01/09/2005			
+4059	Meaning of Orthodoxy in Buddhism (The)	A Protest	Sangharakshita		P	MEA	SAN	France-Asie Presence du Bouddhisme	1959				24									off-print		01/09/2005			
 4061	Iniciacion Al Zen		Sangharakshita	Carmen Llamas		INI	SAN Sp	Tres Joyas	1976	1996	Valencia	1st	214		84-88768-12-5				Spanish translation of 'The Essence of Zen'			Book		01/09/2005			
 4062	Western Buddhist Review (The)	No 2 August 1997	Kamalashila (Ed)		WES	WBO	TRI	FWBO	1997		Birmingham		214		13567581							Journal		01/09/2005			
 4063	Western Buddhist Review (The)	No 2 August 1997	Kamalashila (Ed)		WES	WBO	TRI	FWBO	1997		Birmingham		214		13567581							Journal		01/09/2005			
@@ -3764,8 +3760,8 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4158	Old Net for New Monsters (An)		Subhuti		OLD	SUB	TRI P	Windhorse Publications	1985		Glasgow		33		904766209							Booklet		12/09/2005			
 4159	My Response to Christian Images In Art		Ratnaghosha		MYR	RAT	TRI P	Private					15									Booklet		12/09/2005			
 4160	My Response to Christian Images In Art		Ratnaghosha		MYR	RAT	TRI P	Private					15									Booklet		12/09/2005			
-4161	Samma Samadhi 1	Based on the general teaching of the Venerable Chao Khun Mongkol-Thepmuni	"Magness, T"			MAG	C1f2	?	1960	1962	?		76									Booklet		12/09/2005			
 4161	Order Journal (the) Issue 1 Nov 1988		Sthiramati (editor)		ORD	STH	TRI P		1988				76			English											
+4161	Samma Samadhi 1	Based on the general teaching of the Venerable Chao Khun Mongkol-Thepmuni	"Magness, T"			MAG	C1f2	?	1960	1962	?		76									Booklet		12/09/2005			
 4162	Outline of Buddhism for Schools (An)		Devamitra		OUT	DEV	TRI P	Friends of the Western Buddhist Order			London		22									Booklet		12/09/2005			
 4163	Outline of Buddhism for Schools (An)		Devamitra		OUT	DEV	TRI P	Friends of the Western Buddhist Order			London		22									Booklet		12/09/2005			
 4164	Path to Bodhimanda ( The)	An extract from the Lalitavistara Sutra	Cambridge Buddhist Centre		PAT	CBC	TRI P	CBC	2001		Cambridge		15														
@@ -3775,7 +3771,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4168	Religion of Art (The)		Sangharakshita		P	REL	SAN	Windhorse Publications	1980		London		66									Book		22/09/2005			
 4169	What is a Mitra?	Mitrata No 83	Vidyadevi (Karen Stout) (Ed)		WHA	VID	TRI P	Windhorse Publications	1981		Glasgow		215		none							Booklet		22/09/2005			
 4170	Verses of Inspiration from the Buddha's Udana		Padmakara		VER	PAD	TRI	Windhorse Publications	2003		Birmingham		36		1 899579 57 5							Book		22/09/2005			
-4171	Path of the Inner Life (The)		Sangharakshita			PAT	SAN	Friends of the Western Buddhist Order	1975		London		80		904766004							Book		22/09/2005			
+4171	Path of the Inner Life (The)		Sangharakshita			PAT	SAN	Triratna Grantha Mala	1975	1983	Pune		80	ahimsa tolerance emptiness	0 904766 00	English	A collection of essays mainly from 1949 and 1950					Book				General Buddhism	
 4172	Inquiry into the Good (An)		"Nishida, Kitaro"	Masao Abe & Christopher Ives		NIS	F3c1	Yale University Press	1990	1990	USA	1st	276		0-300-05233-2							Book		22/09/2005			
 4173	Three Jewels (The)	An Introduction to Buddhism	Sangharakshita			THR	SAN	Windhorse Publications	1967	1977	London		276		904766055							Book		22/09/2005			
 4174	Ten Pillars of Buddhism (The)		Sangharakshita			TEN	SAN	Windhorse Publications	1984	1996	Birmingham	4th	97		1899579214							Book		22/09/2005			
@@ -3820,7 +3816,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4222	Forward to A A G Bennett's Translation of the Bodhicaryavatara		Govinda (Lama Anagarika)			GOV	D1k98		1962				36									Photocopy		01/10/2005			
 4223	Introducing the Friends of the Western Buddhist Order		Vishvapani		INT	VIS	TRI	Windhorse Publications	2001		Birmingham		69		904766985							Book		01/10/2005			
 4224	Introducing the Friends of the Western Buddhist Order		Vishvapani		INT	VIS	TRI	Windhorse Publications	2001		Birmingham		69		904766985							Book		01/10/2005			
-4225	1970: A Retrospect		Sangharakshita		P	RET	SAN	private	?1970				69									Booklet		01/10/2005			
+4225	1970: A Retrospect		Sangharakshita		P	RET	SAN	privately produced	unknown				69									Booklet		01/10/2005			
 4226	Tales of Freedom	Wisdom from the Buddhist Tradition	Vessantara		TAL	VES	TRI	Windhorse Publications	2000		Birmingham		195		1899579273							Book		01/10/2005			
 4227	Metta	The practice of loving kindness	Nagabodhi (Ed)		MET	NAG	TRI	Windhorse Publications	1992	2000	Birmingham		67		904766993							Book		01/10/2005			
 4228	Metta	The practice of loving kindness	Nagabodhi (Ed)		MET	NAG	TRI	Windhorse Publications	1992	2000	Birmingham		67		904766993							Book		01/10/2005			
@@ -3858,7 +3854,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4261	Heart of the Buddha's Teaching	Transforming suffering into peace joy and liberation	"Hanh, Thich Nhat"			HAN	A0c0	Rider	1998	1999	London	2nd			712670033							Book					
 4262	Me and Mine	Selected essays of Bhikkhu Buddhadasa	Buddhadasa (Bhikkhu)			BUD	C1p3	State University of New York Press	1989		Albany	1st			791400557							Book					
 4263	Way of Non-Attachment (The)	The practice of Insight meditation	Dhiravamsa			DHI	C1f0	Crucible	1975	1989	London	3rd			1852740442							Book					
-4264	Art of Living (The)	Vipassana meditation as taught by S. N. Goenka	"Hart, William"			HAR	C1f0	Vipassana Research Institute	1988	1991	Igatpuri	2nd			8174140085							Book					
+4264	Art of Living (The)	Vipassana Meditation as Taught by S. N. Goenka	"Hart, William"			HAR	C1f0	Vipassana Research Institute	1988	1991	Igatpuri	2nd			8174140085							Book					
 4265	Mindfulness in the Marketplace	compassionate responses to consumerism	"Badiner, Allan Hunt (Ed)"			BAD	S5	Parallax Press	2002		Berkeley	1st			1888375248							Book					
 4266	Jewels of the Doctrine	Stories of the Saddharma Ratnavaliya	Dharmasena (Thera)	Obeyesekere - Ranjini		DHA	C1k99	Sri Satguru Publications	1991	1992	Delhi	2nd			8170303079							Book					
 4267	Buddhism of Wisdom and Faith		"Tam, Thich Thien"	Phung - Thanh Leigh		TAM	E6c0	International Buddhist Monastic Institute	1991	1994		5th										Book					
@@ -4112,9 +4108,9 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4521	Ten Pillars of Buddhism (The)		Sangharakshita			TEN	SAN	Windhorse	1984	2004	Birmingham	4th			1 899579 21 4							Book					
 4522	FWBO Poetry Anthology 1982 (The)		Ananda & Virananda (eds.)		FWB	ANA	TRI	Windhorse/Ola Leaves	1982						0 904766 11							Booklet					
 4523	Survey of Buddhism (A)	Its Doctrines and Methods through the Ages	Sangharakshita			SUR	SAN	Montilal Baanarsidass	1957	2006	Delhi	6th			81-208-2949-2							Book					
-4524	St. Jerome Revisited		Sangharakshita		P	STJ	SAN	Windhorse	1984?		Glasgow UK											Booklet					
-4525	Journey to Il Convento (The)		Sangharakshita		P	JOU	SAN	Windhorse	1984		Glasgow											Booklet					
-4526	Journey to Il Convento (The)		Sangharakshita		P	JOU	SAN	Windhorse	1984		Glasgow											Booklet					
+4524	St. Jerome Revisited	Mitrata Special Edition	Sangharakshita		P	STJ	SAN	Windhorse	1984?		Glasgow											Booklet					
+4525	Journey to Il Convento (The)	Mitrata Special Edition December 1985	Sangharakshita		P	JOU	SAN	Windhorse	1984		Glasgow											Booklet					
+4526	Journey to Il Convento (The)	Mitrata Special Edition December 1986	Sangharakshita		P	JOU	SAN	Windhorse	1984		Glasgow											Booklet					
 4528	Buddhism in pre-Christian Britain		"MacKenzie, Donald A"			MAC	H0p5	Backie & Son	1928		London & G											Book					
 4529	Similes of the Buddha	An Introduction	"Hecker, Hellmuth"			HEC	C1k1	Buddhist Publication Society	2009		Kandy				978-955-24-0336-1							Book					
 4530	Santaraksita as a Philosopher		"Bhattacharya, B. (Dr)"			BHA	D9c1	Nepali Buddhamargi Sangha			Calcutta											Booklet					
@@ -4151,7 +4147,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4563	Drei Juwelen (Die)	Ideale des Buddhismus	Sangharakshita	Dh. Dhammaloka		DRE	SAN Ge	Do Evolution	1967	2007	Essen	4th			978-3-929447-21-7				German translatio of 'The Three Jewels'			Book					
 4564	Buddhistische Praxis	Ethik Meditation Weisheit	Sangharakshita	FWBO Team		BUD	SAN Ge	Do Evolution	1990	2002	Essen	1st			3-929447-15-0				German translation of 'A Guide to the Buddhist Path' part 2			Book					
 4566	Einfuehrung in den tibetischen Buddhismus		Sangharakshita	Obermann - Hans		EIN	SAN Ge	Herder	1996	2000	Freiburg	1st			3-451-04731-4				German Translation of 'Introduction to Tibetan Buddhism'			Book					
-4567	Buddhism in One Word 	Talk at the opening of Bhaja Retreat Centre on 11th December 1983	Sangharakashita		P	BUD	SAN	Dhammamegha	1988	1988	Pune	1st			none							Booklet					
+4567	Buddhism in One Word 	Dhammamegha 33	Sangharakashita		P	BUD	SAN	Sihanad Publications	1988		Pune				none							Booklet					
 4568	Tibetan-Russian-English Dictionary issue 1		"Roerich, Y. N."			ROE	L6ba1	Nauka - Central Dept. of Oriental Lit.	1983	1983	Moscow	1st			none							Book					
 4570	Light of Asia or the Great Renunciation (The)	The Life and Teaching of Gautama Prince of India and Founder of Buddhism	"Arnold, Edwin (Sir)"			ARN	M2	Truebner & Co	1885		London	1st			none							Book					
 4571	Why the Dalai Lama Matters	His act of truth as the solution for China Tibet and the World	"Thurman,  Robert"			THU	S0p7	Atria/Beyond Words	2008	2008	NY/Oregon	1st			1-58270-220-9							Book					
@@ -4167,13 +4163,13 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4582	Ananda Metteyya	The First British Emissary of Buddhism	"Harris, Elizabeth J."			HAR	C1n2	Buddhsit Publication Society	1998	1998	Kandy	1st			955-24-0179-8							Booklet					
 4583	Hidden Teachings of Tibet	An Explanation of the Terma Tradition of Tibet	"Thondup, Tulku Rinpoche"			THO	G4k1	Wisdom	1986	1997	Boston	1st			0-8617-122-X							Book					
 4584	Forbidden Angel (The)	new poems	Ananda		FOR	ANA	TRI	private	1978		London				none							Booklet					
-4585	Crossing the Stream		Sangharakshita		P	CRO	SAN	private	195?	?		2nd			none							Booklet					
+4585	Crossing the Stream		Sangharakshita		P	CRO	SAN	private	1960	1972		2nd			none							Booklet					
 4586	Artist's Dream & Other Parables (The)		Sangharakshita		P	ART	SAN	Windhorse	1980	1980	London	1st			none							Booklet					
 4587	Aryasura's Aspiration & A Meditation On Compassion		Dalai Lamas II & XIV	Beresfor - Brian C. et al		DAL2	G1k0	Library of Tibetan Works and Archives	1979	1979	Dharamsala	1st										Book					
 4588	Panoramica del Budismo (Una)	Su doctrina y sus metodos a lo largo de la historia	Sangharakshita			PAN	SAN Sp	Ediciones Dharma	1957	2008	Novelda	9th (?)			978-84-96478-10-7							Book					
 4589	Bodhisattva (The)	Evolution and Self-Transcendence	Sangharakshita		P	BOD	SAN	Windhorse	1983	1986	Glasgow	2nd	24		none							Booklet					
 4590	Wife of the Lord Buddha		"Bhosekar, Murlidhar"			BHO	A0n2	Madhavi Publication	2000	2000	Pune	1st			none				written on the passng awaz of Dharmachari Anagarika Maha Dhammaveera			Booklet					
-4591	What Meditation Really Is		Sangharakshita		P	MED	SAN	Airo-Wira Yoga Centre Inc	1975		Swanson				none							Booklet					
+4591	What Meditation Really Is		Sangharakshita		P	WHA	SAN	Airo-Wira Yoga Centre Inc	1975		Swanson				none							Booklet					
 4592	On Glastonbury Tor		Sangharakshita			ONG	SAN	private	1970													Booklet					
 4593	On Glastonbury Tor		Sangharakshita			ONG	SAN	private	1970						none							Booklet					
 4594	On Glastonbury Tor		Sangharakshita			ONG	SAN	private	1970						none							Booklet					
@@ -4218,7 +4214,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4635	Avalokitesvara	Origins Manifestations and Meanings	Piyasilo (Ven)			PIY	D0g6	The Community of Dharma-farers		1991	Malaysia	2nd															
 4636	Beyond the Fourth House		"Stanton, Gerald Terance"		BEY	STA	TRI	New Horizon	1979	1979	Sussex	1st			0-86116-064-9							Book					
 4637	Buddhist Art of India & Nepal		"Deva, Krishna (Prof)"			DEV	Q1	Central Institute of Higher Tibetan Studies	1987		Sarnath											Booklet					
-4638	Religion of Art (The)		Sangharakshita		P	REL	SAN	Windhorse Publications	1980	1980	London	1st										Booklet					
+4638	Religion of Art (The)		Sangharakshita		P	REL	SAN	Windhorse Publications	1980		London											Booklet					
 4639	Buddhistic Contributions to Sanskrit Poems 		"Shastri, Mool Chand (Dr)"			SHA	Q0a7	Parimal Publications	1986	1986	Delhi	1st										Book					
 4640	Pali Literature of Ceylon (The)		"Malalasekera, G. P."			MAL	C1k1	Buddhist Publication Society	1994	1994	Kandy	1st			955-24-0118-6							Book					
 4641	Mahayanasutrasamgraha Part II	Manjurimulakalpa	"Vaidya, P. L. (Dr) (Ed)"			VAI	D2k9	The Mithila Institute	1964	1964	Darbhnga	1st										Book					
@@ -4294,8 +4290,8 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4726	Illiminacion Humana (La)		Sangharakshita	Manjunatha and Shuddhavajra		ILL	SAN Sp	Antionio Perez	1993	1993	Merida	1st					'Human Enlightenment' in Spanish					Book					
 4727	Chinese Inspirational Stories of Deeds	Part 1: Rewards of Filial Piety	"Chen, C. M."	Lin - Upasaka Y (ed.)	CB	CHE	E0a3	Adi-Buddha Mandala	1986	1986	California	1st										Booklet					
 4729	Mita Buddhalaisuus On	Finnish version of ' Introducing Buddhism '	Vadanya (Chris Pauling)	Sridevi et al	MIT	VAD	TRI Fi	Lansimaisen Buddhalaisen Veljeskunnan Ystavat	1993	1995	Helsinki				951-9285-4-1							Book					
-4733	Priceless Jewel (The)	The White Lotus Sutra in the West	Sangharakshita		P	PRI	SAN	Triratna Grantha Mala	1987	1987	Pune	1st	20									Booklet					
-4734	Dialogue Between Buddhism and Christianity		Sangharakshita		p	DIA	SAN	Ola Leaves Series No 2	1981	1981	London	1st										Booklet					
+4733	Priceless Jewel (The)	The White Lotus Sutra in the West Dhammamegha 27	Sangharakshita		P	PRI	SAN	Triratna Grantha Mala	1987	1987	Pune	1st	20									Booklet					
+4734	Dialogue Between Buddhism and Christianity		Sangharakshita		p	DIA	SAN	Ola Leaves Series No 2	1981		London		8									Booklet					
 4735	Itatuulen Tuomaa (Borne on the East Wind)	Oriental Art from Private Collections in Finland	Mallender - J. O. et al	The English Centre		MAL	Q0a0	Amos Anderson Art Museum	2001	2001	Helsinki	1st			952-9531-40-0							Catalogue					
 4736	Itatuulen Tuomaa (Borne on the East Wind)	Oriental Art fomr Private Collections in Finland	Mallender - J. O. et al	The English Centre		MAL	Q0a0	Amos Anderson Art Museums	2001	2001	Helsinki	1st			952-9531-40-0							Catalogue					
 4737	Eglantine Dream		Dhivan Thomas Jones		EGL	DHI	TRI	Apus Press	2011	2011	Cambridge	1st			978-4467-9502-6							Book					
@@ -4353,8 +4349,8 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4792	Finding the Mind	A Buddhist View	Ratnaprabha (Robin Cooper)		FIN	RAT	TRI	Windhorse Publications	2012	2012	Cambridge	1st			978-1-907314-03-2							Book					
 4793	Herz und Geist Verstehen	Psychologische Grundlagen buddhistischer Ethik	Sangharakshita	Sucimanasa and Nagadakini		HER	SAN Ge	Do Evolution	2012	2012	Essen	1st			978-3-929447-23-1				German translation of 'Know Your Mind'			Book					
 4794	Herz und Geist Verstehen	Psychologische Grundlagen buddhistischer Ethik	Sangharakshita	Sucimanasa and Nagadakini		HER	SAN Ge	Do Evolution	2012	2012	Essen	1st			978-3-929447-23-1							Book					
-4796	Buddhism and Education		Sangharakshita		P	BUD	SAN	Dhammamegha Triratna Grantha Mala	1985		Pune											Booklet					
-4797	Is Buddhism for Monks Only?	A Dialogue	Sangharakshita		P	ISB	SAN	Maha Bodhi Society of India Kalimpong Branch	1956		1956											Booklet					
+4796	Buddhism and Education	Dhammamegha 22	Sangharakshita		P	BUD	SAN	Triratna Grantha Mala	1985		Pune											Booklet					
+4797	Is Buddhism for Monks Only?	A Dialogue	Sangharakshita		P	ISB	SAN	Maha Bodhi Society of India Kalimpong Branch	1956		Calcutta											Booklet					
 4798	Buda Kimdir?	Turkish translation of Who is the Buddha?	Sangharakshita	Bicen - Berna		BUD	SAN Tu	Hermes	2012	2012	Istanbul	1st			978-975-6130-44-5							Book					
 4799	Buda Kimdir?	Turkish translation of Who is the Buddha?	Sangharakshita	Bicen - Berna		BUD	SAN Tu	Hermes	2012	2012	Istanbul	1st			978-975-6130-44-5							Book					
 4801	Fifteen Points For Old (And New) Order Members		Sangharakshita		P	FIF	SAN	Padmaloka Books	1993		Norwich								Talk given on WBO Day 1993			Booklet					
@@ -4367,7 +4363,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 4811	Case of Forgetfulness(A)		Asvajit		CAS	ASV	TRI P	Padmaloka Books	1995		Norwich																
 4812	Reason and Reflection in the Spiritual Life	Three Talks	Ratnaguna		REA	RAT	TRI P	Dharmavastu Publishing			Corwen											Booklet					
 4813	Are There Ethics in the Order?		Subhuti		ARE	SUB	TRI P	Padmaloka Books	1990		Norwich								Transcript of a talk given to the WBO in 1990			Booklet					
-4814	Mitrata Omnibus	Extracts from Talks	Sangharakshita		P	MIT	SAN	none given														Booklet					
+4814	Mitrata Omnibus	Extracts from Talks	Sangharakshita		P	MIT	SAN		unknown													Booklet					
 4815	Reason and Reflection in the Spiritual Life	Three Talks	Ratnaguna		REA	RAT	TRI P	Dharmavastu Publications			Corwen											Booklet					
 4816	Questions and Answers	Spring 1995	Asvajit		QUE	ASV	TRI P	Padmaloka Books	1995		Norwich								Q & A Session on a GFR Retreat at Padmaloka			Booklet					
 4817	Power of the Precepts (The)		Ratnaghosha		POW	RAT	TRI P	Padmaloka Books	1997		Norwich								Transcript of talk given to members of the WBO			Booklet					
@@ -4596,7 +4592,6 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 5050	Anagarika Dharmapala	A Biographical Sketch and Other Mahabodhi Writings	Sangharakshita			ANA	SAN	Ibis		2014	Ledbury	1st	181		978-1-291-43071-4	English										Editorials	
 5051	History of My Going For Refuge (The)		Sangharakshita			HIS	SAN	Windhorse	1988	2010	Cambridge	2nd	160		9781 907314 00 1	English										Autobiography	
 5052	History of My Going For Refuge (The)		Sangharakshita			HIS	SAN	Windhorse	1988	2010	Cambridge	2nd	160		9781 907314 00 1	English										Autobiography	
-5053	Ten Pillars of Buddhism (The)		Sangharakshita			TEN	SAN	Windhorse	1984	2010	Cambridge	5th	131		9781 907314 01 8	English										General Buddhism	
 5054	Ten Pillars of Buddhism (The)		Sangharakshita			TEN	SAN	Windhorse	1984	2010	Cambridge	5th	131		9781 907314 01 8	English										General Buddhism	
 5055	Religion of Art (The)		Sangharakshita			REL	SAN	Windhorse 	1980	2010	Cambridge	3rd	204		9781 899579 88 4	English										Art	
 5056	Religion of Art (The)		Sangharakshita			REL	SAN	Windhorse 	1980	2010	Cambridge	3rd	204		9781 899579 88 4	English										Art	
@@ -4626,7 +4621,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 5080	Complete Works Vol 3	The Three Jewels 2	Sangharakshita			CW3	SAN	Windhorse		2017	Cambridge	1st	719		978-1-909314-79-5	English										General Buddhism	
 5081	Survey of Buddhism (A)		Sangharakshita			SUR	SAN	Indian Institute of World Culture	1957	1966	Bangalore	3rd	527			English										General Buddhism	
 5082	Meditation	The Buddhist Way of Tranquillity and Insight	Kamalashila		MED	KAM	TRI	Windhorse 		1992	Birmingham	2nd	276		0 904766056 x	English											
-5083	"Essence of Zen, The"	Five talks	Sangharakshita		P	ESS	SAN	FWBO	London	1973	London	1st	32			English											
+5083	Essence of Zen (The)	Five talks	Sangharakshita		P	ESS	SAN	Friends of the Western Buddhist Order	1973		London		32			English											
 5084	Preparing for Tantra	The Mountain of Blessings		Tsongkapa		TSO	G1k9	Mahayana sutra and Tantra Press		1995	New Jersey	1st	172		0-918753-09-0	English											
 5085	Concise History of Buddhism (A)		Sthiramati (Andrew Skilton)		CON	STH	TRI	Windhorse 	1994	1997	Birmingham	2nd	263		0 904766 92 6 	English											
 5086	Concise History of Buddhism (A)		Sthiramati (Andrew Skilton)		CON	STH	TRI	Windhorse 	1994	1997	Birmingham	2nd	263		0 904766 92 6 	English											
@@ -4639,40 +4634,40 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 5093	Western Buddhist review (The)	The Journal of the Western Buddhist Order No1 1994	FWBO		WES	WBO	TRI	Vajrakuta Buddhist Study Centre	1994	1995	Bristol	2nd	155		1356-7581	English											
 5094	Western Buddhist review (The)	The Journal of the Western Buddhist Order No1 1994	FWBO		WES	WBO	TRI	Vajrakuta Buddhist Study Centre	1994	1995	Bristol	2nd	155		1356-7581	English											
 5095	Western Buddhist review (The)	The Journal of the Western Buddhist Order No1 1994	FWBO		WES	WBO	TRI	Vajrakuta Buddhist Study Centre	1994	1995	Bristol	2nd	155		1356-7581	English											
-5096	1970: A Retrospect		Sangharakshita		P	RET	SAN	privately produced	?1970				229		none	English		12.5				Booklet					
-5097	Aspects of Buddhist Morality		Sangharakshita		P	ASP	SAN						22									Booklet		11/04/2005			
-5098	Aspects of Buddhist Morality		Sangharakshita		P	ASP	SAN						22									Booklet		11/04/2005			
-5099	Aspects of Buddhist Morality		Sangharakshita		P	ASP	SAN						22									Booklet		11/04/2005			
-5100	Aspects of Buddhist Morality		Sangharakshita		P	ASP	SAN						22									Booklet		11/04/2005			
+5096	1970: A Retrospect		Sangharakshita		P	RET	SAN	privately produced	unknown				229		none	English		12.5				Booklet					
+5097	Aspects of Buddhist Morality		Sangharakshita		P	ASP	SAN		no date				22									Booklet		11/04/2005			
+5098	Aspects of Buddhist Morality	Dhammamegha 25	Sangharakshita		P	ASP	SAN	Triratna Grantha Mala	1986		Pune		22									Booklet		11/04/2005			
+5099	Aspects of Buddhist Morality		Sangharakshita		P	ASP	SAN	Triratna Grantha Mala	1986		Pune		22									Booklet		11/04/2005			
+5100	Aspects of Buddhist Morality		Sangharakshita		P	ASP	SAN	Triratna Grantha Mala	1986		Pune		22									Booklet		11/04/2005			
 5103	Bedeutung des 'Buddhistischen Tors' (Die) (The Significance of the 'Buddhist Gate')	A Talk at the opening of 'The Buddhist Gate Berlin'	Sangharakshita	Siemsn - Cornelia and Harald Eckhoff	P GE	BED	SAN Ge	Amogharatna	2009		Berlin		316			English		5.95				Booklet					
-5105	Buddhism and Education		Sangharakshita		P	BUD	SAN	Dhammamegha Triratna Grantha Mala	1985		Pune											Booklet					
-5106	Buddhism and Education		Sangharakshita		P	BUD	SAN	Dhammamegha Triratna Grantha Mala	1985		Pune											Booklet					
-5107	Buddhism and the Path of the Higher Evolution		Sangharakshita		P	BUD	SAN	Dhammamegha	1990		Pune		19									Booklet		11/04/2005			
-5108	Buddhism and the Path of the Higher Evolution		Sangharakshita		P	BUD	SAN	Dhammamegha	1990		Pune		19									Booklet		11/04/2005			
-5109	Buddhism in One Word 	Talk at the opening of Bhaja Retreat Centre on 11th December 1983	Sangharakashita		P	BUD	SAN	Dhammamegha	1988	1988	Pune	1st			none							Booklet					
-5110	Buddhism in One Word 	Talk at the opening of Bhaja Retreat Centre on 11th December 1983	Sangharakashita		P	BUD	SAN	Dhammamegha	1988	1988	Pune	1st			none							Booklet					
-5111	Cave (The)		Sangharakshita		P	CAV	SAN	Dhammamegha	1992		Pune		24									Booklet		12/04/2005			
-5112	Cave (The)		Sangharakshita		P	CAV	SAN	Dhammamegha	1992		Pune		24									Booklet		12/04/2005			
-5113	Commitment and Spiritual Community		Sangharakshita		P	COM	SAN	Dhammamegha	1991		Pune		16									Booklet		12/04/2005			
+5105	Buddhism and Education	Dhammamegha 22	Sangharakshita		P	BUD	SAN	Triratna Grantha Mala	1985		Pune											Booklet					
+5106	Buddhism and Education	Dhammamegha 22	Sangharakshita		P	BUD	SAN	Triratna Grantha Mala	1985		Pune											Booklet					
+5107	Buddhism and the Path of the Higher Evolution	Dhammamegha 40	Sangharakshita		P	BUD	SAN	Dhammamegha	1990		Pune		19									Booklet		11/04/2005			
+5108	Buddhism and the Path of the Higher Evolution	Dhammamegha 40	Sangharakshita		P	BUD	SAN	Dhammamegha	1990		Pune		19									Booklet		11/04/2005			
+5109	Buddhism in One Word 	Dhammamegha 33	Sangharakashita		P	BUD	SAN	Sihanad Publications	1988		Pune				none							Booklet					
+5110	Buddhism in One Word 	Dhammamegha 33	Sangharakashita		P	BUD	SAN	Sihanad Publications	1988		Pune				none							Booklet					
+5111	Cave (The)		Sangharakshita		P	CAV	SAN	Sihanad Publications	1992		Pune		24									Booklet		12/04/2005			
+5112	Cave (The)		Sangharakshita		P	CAV	SAN	Sihanad Publications	1992		Pune		24									Booklet		12/04/2005			
+5113	Commitment and Spiritual Community	Dhammamegha 46	Sangharakshita		P	COM	SAN	Sihanad Publications	1991		Pune		16									Booklet		12/04/2005			
 5114	Dialogue Between Buddhism and Christianity		Sangharakshita		p	DIA	SAN	Ola Leaves	1981		London		8									Booklet		12/04/2005			
-5115	Dr. Ambedkar's Dhamma Revolution		Sangharakshita		P	DrA	SAN	Triratna Grantha Mala	1982	1982	Pune		23			English	Talk in Bombay					Book					
-5116	Dr. Ambedkar's Dhamma Revolution		Sangharakshita		P	DrA	SAN	Triratna Grantha Mala	1982	1982	Pune		23			English	Talk in Bombay					Book					
+5115	Dr. Ambedkar's Dhamma Revolution	Dhammamegha 10	Sangharakshita		P	DrA	SAN	Triratna Grantha Mala	1982		Pune		23			English	Talk in Bombay					Book					
+5116	Dr. Ambedkar's Dhamma Revolution	Dhammamegha 10	Sangharakshita		P	DrA	SAN	Triratna Grantha Mala	1982		Pune		23			English	Talk in Bombay					Book					
 5117	Fifteen Points For New (And Old) Order Members	Bhante's concluding remarks at Guhyaloka 1988	Sangharakshita		P	FIF	SAN	Padmaloka Books	1991		Norwich		13									Booklet		12/04/2005			
-5118	Fifteen Points For Old (And New) Order Members		Sangharakshita		P	FIF	SAN	Padmaloka Books	1993		Norwich		23									Booklet		12/04/2005			
+5118	Fifteen Points For Old (And New) Order Members	WBO Day 1993	Sangharakshita		P	FIF	SAN	Padmaloka Books	1993		Norwich		23									Booklet		12/04/2005			
 5119	Hedonism and the Spiritual Life		Sangharakshita		P	HED	SAN	Ola Leaves	1982		London		12									Booklet		12/04/2005			
 5120	Impressions Of America 1994		Sangharakshita		P	IMP	SAN	Padmaloka Books	1995		Norwich		28									Booklet		12/04/2005			
-5121	Individual the Group and the Spiritual Community (The)		Sangharakshita		P	IND	SAN	Triratna Grantha Mala	1987	1987	Pune		19			English						Book					
-5122	Individual the Group and the Spiritual Community (The)		Sangharakshita		P	IND	SAN	Triratna Grantha Mala	1987	1987	Pune		19			English						Book					
-5123	Integration of Buddhism Into Western Society (The)		Sangharakshita		P	INT	SAN	Dhammamegha	1993		Pune		16									Booklet		12/04/2005			
-5124	Meditation Versus Psychotherapy		Sangharakshita		P	MED	SAN	Dhammamegha	1991		Pune		12									Booklet		12/04/2005			
-5125	Message of the Bowl		Sangharakshita		p	MES	SAN	Dhammamegha	1986		Pune		23									Booklet		12/04/2005			
-5126	Message of the Bowl		Sangharakshita		p	MES	SAN	Dhammamegha	1986		Pune		23									Booklet		12/04/2005			
-5127	Ordination and Initiation In the Three Yanas		Sangharakshita		P	ORD	SAN	Dhammamegha	1992		Pune		18									Booklet		13/04/2005			
+5121	Individual the Group and the Spiritual Community (The)	Dhammamegha 27	Sangharakshita		P	IND	SAN	Triratna Grantha Mala	1987		Pune		19			English						Book					
+5122	Individual the Group and the Spiritual Community (The)	Dhammamegha 27	Sangharakshita		P	IND	SAN	Triratna Grantha Mala	1987		Pune		19			English						Book					
+5123	Integration of Buddhism Into Western Society (The)	Dhammamegha 51	Sangharakshita		P	INT	SAN	Dhammamegha	1993		Pune		16									Booklet		12/04/2005			
+5124	Meditation Versus Psychotherapy	Dhammamegha 43	Sangharakshita		P	MED	SAN	Sihanad Publications	1991		Pune		12									Booklet		12/04/2005			
+5125	Message of the Bowl	Dhammamegha 24	Sangharakshita		p	MES	SAN	Triratna Grantha Mala	1986		Pune		23									Booklet		12/04/2005			
+5126	Message of the Bowl	Dhammamegha 24	Sangharakshita		p	MES	SAN	Triratna Grantha Mala	1986		Pune		23									Booklet		12/04/2005			
+5127	Ordination and Initiation In the Three Yanas	Dhammamegha 50	Sangharakshita		P	ORD	SAN	Sihanad Publications	1992		Pune		18									Booklet		13/04/2005			
 5128	Progress and Religion	Dhammamegha 21	Sangharakshita		P	PRO	SAN	Triratna Grantha Mala	1985		Pune		18									Booklet		13/04/2005			
-5129	Religio-Nationalism In Sri Lanka		Sangharakshita		P	REL	SAN	Dhammamegha	1989		Pune		20									Booklet		13/04/2005			
-5130	Religio-Nationalism In Sri Lanka		Sangharakshita		P	REL	SAN	Dhammamegha	1989		Pune		20									Booklet		13/04/2005			
-5131	Spiral Path (The)		Sangharakshita		P	SPI	SAN	Dhammamegha	1983		Pune		23									Booklet		13/04/2005			
-5132	Western Buddhists and Eastern Buddhism		Sangharakshita		P	WES	SAN	Dhammamegha	1991		Pune		21									Booklet		13/04/2005			
+5129	Religio-Nationalism In Sri Lanka	Dhammamegha 38	Sangharakshita		P	REL	SAN	Sihanad Publications	1989		Pune		20									Booklet		13/04/2005			
+5130	Religio-Nationalism In Sri Lanka	Dhammamegha 38	Sangharakshita		P	REL	SAN	Sihanad Publications	1989		Pune		20									Booklet		13/04/2005			
+5131	Spiral Path (The)	Dhammamegha 13	Sangharakshita		P	SPI	SAN	Triratna Grantha Mala	1983		Pune		23									Booklet		13/04/2005			
+5132	Western Buddhists and Eastern Buddhism	Dhammamegha 45	Sangharakshita		P	WES	SAN	Sihanad Publications	1991		Pune		21									Booklet		13/04/2005			
 5133	El Sutra del Loto Blanco		Sangharakshita	Shakyavamsa		SUT	SAN Sp	CBCM		2012	Mexico City	2nd	150			Spanish						hardback					
 5134	El Sutra del Loto Blanco 		Sangharakshita	Shakyavamsa		SUT	SAN Sp	CBCM		2012	Mexico City	2nd	150			Spanish						Paperback					
 5135	El Loto  de los Mil Petalos		Sangharakshita	Bertha Castro		LOT	SAN Sp	CBCM		2010	Mexico City	1st	504			Spanish						Paperback					
@@ -4833,7 +4828,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 5294	Spiel der Stille	Buddhistische Meditation	Paramananda		SPI	PAR	TRI Ge	Windhorse	1996	2013	Wiesbaden Germany	1	228		978-1-291-50746-1	German											
 5295	Reichtum und Schonheit des Gebens		Ratnaghosha		REI	RAT	TRI Ge		1995	2016	Essen Germany	1	70			German											
 5296	Reichtum und Schonheit des Gebens		Ratnaghosha		REI	RAT	TRI Ge		1995	2016	Essen Germany	1	70			German											
-5297	"Art of Reflection, The"		Ratnaguna 		ART	RAT	TRI Hi						238			Hindi ?											
+5297	Art of Reflection (The)		Ratnaguna 		ART	RAT	TRI Hi						238			Hindi ?											
 5298	Shoes Full Of Butterflies	"Poetry, Photographs and Woodcuts"	Ratnasuri		SHO	RAT	TRI	PIP Printing	2013	2013	Hereford UK	1	64			English											
 5299	Poems of Cloister and Jungle	A Buddhist Anthology	Rhys Davids (Mrs)			RHY	C1k556	John Murray	1941	1941	London UK	1	128			English											
 5300	Encounters with Enlightenment	Stories from the life of the Buddha	Saddhaloka		ENC	SAD	TRI	Windhorse	2001	2001	Birmingham UK	1	163		1-899579-37-0	English											
@@ -4843,7 +4838,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 5304	Buddhas Lara	en vag till frihet	Sangharakshita			BUD	SAN Sw	Bodhi Forlaget	1998	2014	Stockholm Sweden	1	262		978-91-89208-13-1	Swedish											
 5305	Buddhas ord om karleksfull vanlighet	en kommentar till Karaniya Metta Sutta	Sangharakshita			BUD	SAN Sw	Bodhi Forlaget	2004	2016	Stockholm Sweden	1	178		978-91-89208-19-3	Swedish											
 5306	Budismo	"Introduccion a la filosofia, la meditacion y la practica de la tradicion budista"	Sangharakshita			BUD	SAN Sp	Edicionesoniro	1998	2010	Barcelona	1	404		978-84-9754-444-3	Spanish											
-5307	"Cave and other Stories, The"		Sangharakshita			CAV	SAN	Dhammadut Prakashan	2013	2013	Nagpur India	1	55			English											
+5307	Cave and other Stories (The)		Sangharakshita			CAV	SAN	Dhammadut Prakashan	2013	2013	Nagpur India	1	55			English											
 5308	"Geschmack der Freiheit, Der"		Sangharakshita			GES	SAN Ge		1990	2014		1	22			German											
 5309	"Geschmack der Freiheit, Der"		Sangharakshita			GES	SAN Ge		1990	2014		1	22			German											
 5310	"Dharma Jelentese, A"	A Buddha alapveto tanitasai	Sangharakshita			DHA	SAN Hu	Windhorse	1998	2014	Budapest		324		978-963-12-0009-6	Hungarian											
@@ -4857,7 +4852,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 5318	"Guide to the Buddhist Path, A"		Sangharakshita			GUI	SAN Hi 									Hindi ?											
 5319	Herz und Geist verstehen	psychologische grundlagen buddhistischer ethik	Sangharakshita			HER	SAN Ge	Do Evolution	1998	2012	Morlenbach Germany	1	396		978-3-929447-23-1	German											
 5320	Human Enlightenment	An Encounter with the Ideals and Methods of Buddhism	Sangharakshita			HUM	SAN	Windhorse Publications	1980		London		72	Enlightenment Meditation Spiritual Community	904766101		A straightforward practical look at the ideals and methods of Buddhist teaching.					Book		02/03/2005			
-5321	Human Enlightenment		Sangharakshita			HUM	SAN	Windhorse	1980	1987	Glasgow UK	2	84		0-904766-30-6	English											
+5321	Human Enlightenment	An Encounter with the Ideals and Methods of Buddhism	Sangharakshita			HUM	SAN	Windhorse	1980	1987	Glasgow UK	2	84		0-904766-30-6	English											
 5322	"illuminacio, La  "	L'ideal del desenvolupament huma	Sangharakshita			ILL	SAN Sp	Libros Budistas	1980	1980	Valencia	1	80		978-84-16063-69-5	Spanish											
 5323	Living with Awareness		Sangharakshita			LIV	SAN Hi	Windhorse				1	236			Hindi ?											
 5324	Living with Kindness		Sangharakshita			LIV	SAN Hi									Hindi ?											
@@ -4885,9 +4880,9 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 5346	Vision and Transformation	an introduction to the Buddha's Noble Eightfold Path	Sangharakshita			VIS	SAN	Windhorse	1990	1990	Glasgow UK	1	169		0-904766-44-6	English											
 5347	Zufluchtnahme		Sangharakshita			ZUF	SAN Ge		2016	2016	Essen Germany	1	23			German											
 5348	Zufluchtnahme		Sangharakshita			ZUF	SAN Ge		2016	2016	Essen Germany	1	23			German											
-5349	Transforming Self and World	themes from the sutra of golden light	Sangharakshita 			TRA	SAN	Windhorse	1995	2008	Cambridge UK	2	225		9781-899579-95-2	English											
+5349	Transforming Self and World	Themes from the Sutra of Golden Light	Sangharakshita 			TRA	SAN	Windhorse	1995	2008	Cambridge UK	2	225		9781-899579-95-2	English											
 5350	Crossing the Stream		Sangharakshita			CRO	SAN	Chetana Ltd	1960	1960	Bombay India	1	75			English											
-5351	"Essence of Zen, The"	Five Talks by the Ven. Maha Sthavira Sangharakshita	Sangharakshita (Ven. Maha Sthavira)			ESS	SAN	Windhorse	1973	1976	London 	2	62		0-904766-047	English											
+5351	Essence of Zen (The)		Sangharakshita 			ESS	SAN	Windhorse Press	1973	1976	London 		62		0-904766-047	English											
 5352	Vinaya Pitaka		"Sanskritayan, Rahul"			SAN	C1k6	Corporate Body of the Buddha Educational Foundation	2000	2000	Taipei Taiwan					Hindi?											
 5353	"Sonnets to Orpheus, The"	A New translation by Satyadaka	Satyadaka		SON	SAT	TRI		2016	2016		1	74			English											
 5354	"Way of Mindfulness, The"		Soma (Bhikkhu)			SOM	C1k52	Vajirarama	1949	1949	"Colombo, Ceylon"	1	156			English											
@@ -4909,7 +4904,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 5370	Order Journal (The) Issue 2 November 1989		Sthiramati (editor)		ORD	STH	TRI P		1989																		
 5371	Order Journal (The) Issue 2 November 1989		Sthiramati (editor)		ORD	STH	TRI P		1989																		
 5372	Order Journal (The) Issue 2 November 1989		Sthiramati (editor)		ORD	STH	TRI P		1989																		
-5373	"Metaphors, Magic and Mystery"	an anthology of writings and teachings on words and their relation to the truth		Sangharakshita		MET	SAN	Ibis	2014	2014	Ledbury UK	1	208		978-0-9574700-4-0	English											
+5373	"Metaphors, Magic and Mystery"	an anthology of writings and teachings on words and their relation to the truth	Sangharakshita			MET	SAN	Ibis	2014	2014	Ledbury UK	1	208		978-0-9574700-4-0	English											
 5374	Principles of Buddhism	The only introduction you'll ever need		Kulananda	PRI	KUL	TRI	Thorsons	1996	1996	London	1	106		1-85538-508-2	English											
 5375	Buddha Festival 2013	"A festival of Buddhist Art, Culture and Heritage"			BUD	NAG	TRI	Nagpur Buddhist Centre	2013	2013	"Nagpur, India"	1	22			English											
 5376	"Communaute Bouddhiste Triratna, La"	Un Bouddhisme occidental		"Stevens, Bernard"		STE	TRI Fr	L'Harmattan	2014	2014	Paris	1	217		978-2-343-03770-7	French											
@@ -4923,9 +4918,9 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 5384	Authority and the Individual in the New Society	Dhammamegha 28	sangharakshita		P4	AUT	SAN	Triratna Grantha Mala	1987	1987	Pune		23														
 5385	Bodhisattva (The)	Evolution and Self-Transcendence - Dhammamegha 36	Sangharakshita		P	BOD	SAN	Sihanad Publications	1989	1989	Pune		27		none							Booklet					
 5386	Bodhisattva (The)	Evolution and Self-Transcendence - Dhammamegha 36	Sangharakshita		P	BOD	SAN	Sihanad Publications	1989	1989	Pune		27		none							Booklet					
-5387	Breaking Through into Buddhahood	Dhammamegha 6	Sangharakshita		P20	BRE	SAN	Triratna Grantha Mala	1981	1981	Pune		22														
-5388	Breaking Through into Buddhahood	Dhammamegha 6	Sangharakshita		P20	BRE	SAN	Triratna Grantha Mala	1981	1981	Pune		22														
-5389	Breaking Through into Buddhahood	Dhammamegha 6	Sangharakshita		P20	BRE	SAN	Triratna Grantha Mala	1981	1981	Pune		22														
+5387	Breaking Through into Buddhahood	Dhammamegha 6	Sangharakshita		P20	BRE	SAN	Triratna Grantha Mala	1976	1981	Pune		22														
+5388	Breaking Through into Buddhahood	Dhammamegha 6	Sangharakshita		P20	BRE	SAN	Triratna Grantha Mala	1976	1981	Pune		22														
+5389	Breaking Through into Buddhahood	Dhammamegha 6	Sangharakshita		P20	BRE	SAN	Triratna Grantha Mala	1976	1981	Pune		22														
 5390	Buddhism and the Bishop Of Woolwich	Dhammamegha 16	Sangharakshita		P	BUD	SAN	Triratana Grantha Mala	1984		Pune		19			English	Essay on the subject of the book 'Honest To God' by the Bishop Of Woolwich.					Book					
 5391	Buddhism and the Bishop Of Woolwich	Dhammamegha 16	Sangharakshita		P	BUD	SAN	Triratana Grantha Mala	1984		Pune		19			English	Essay on the subject of the book 'Honest To God' by the Bishop Of Woolwich.					Book					
 5392	Buddhism World Peace and Nuclear War		Sangharakshita		P	BUD	SAN	Windhorse Publications	1984		Glasgow		30		904766160							Booklet		15/03/2005			
@@ -4934,21 +4929,21 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 5395	Buddha's Victory (The)	Dhammamegha 49	Sangharakshita		P10	BUD	SAN	Sihanad Publications	1992		Pune		21									Book		15/03/2005			
 5396	Buddha's Victory (The)	Dhammamegha 49	Sangharakshita		P10	BUD	SAN	Sihanad Publications	1992		Pune		21									Book		15/03/2005			
 5397	Buddha's Victory (The)	Dhammamegha 49	Sangharakshita		P10	BUD	SAN	Sihanad Publications	1992		Pune		21									Book		15/03/2005			
-5398	Glimpses of Buddhist Nepal	Dhammamegha 18	Sangharakshita		P35	GLI	SAN	Triratna Grantha Mala	1984	1984	Pune		20														
-5399	Glimpses of Buddhist Nepal	Dhammamegha 18	Sangharakshita		p35	GLI	SAN	Triratna Grantha Mala	1984	1984	Pune		20														
-5400	Glimpses of Buddhist Nepal	Dhammamegha 18	Sangharakshita		P35	GLI	SAN	Triratna Grantha Mala	1984	1984	Pune		20														
-5401	Glory of the Literary World (The)	Reflections on the Buddhist Canonical literature	Sangharakshita		P	GLO	SAN	Sugawa Press	1990		Pune		20				A talk introducing 'The Eternal Legacy'					Book		04/03/2005			
-5402	Going For Refuge	Dhammamegha 12	Sangharakshita		P	GOI	SAN	Triratna Grantha Mala	1983	1983	Pune		24				The primacy of going for refuge as the issue that makes one a Buddhist.					Booklet		15/03/2005			
-5403	Going For Refuge	Dhammamegha 12	Sangharakshita		P	GOI	SAN	Triratna Grantha Mala	1983	1983	Pune		24				The primacy of going for refuge as the issue that makes one a Buddhist.					Booklet		15/03/2005			
-5404	Going For Refuge	Dhammamegha 12	Sangharakshita		P	GOI	SAN	Triratna Grantha Mala	1983	1983	Pune		24				The primacy of going for refuge as the issue that makes one a Buddhist.					Booklet		15/03/2005			
-5405	Govinda's Letters to Sangharakshita					GOV	SAN	Khantiloka	2017	2017		1	44			English											
+5398	Glimpses of Buddhist Nepal	Dhammamegha 18	Sangharakshita		P35	GLI	SAN	Triratna Grantha Mala	1984		Pune		20														
+5399	Glimpses of Buddhist Nepal	Dhammamegha 18	Sangharakshita		p35	GLI	SAN	Triratna Grantha Mala	1984		Pune		20														
+5400	Glimpses of Buddhist Nepal	Dhammamegha 18	Sangharakshita		P35	GLI	SAN	Triratna Grantha Mala	1984		Pune		20														
+5401	Glory of the Literary World (The)	Dhammamegha 39	Sangharakshita		P	GLO	SAN	Sihanad Publications	1990		Pune		20				A talk introducing 'The Eternal Legacy'					Book		04/03/2005			
+5402	Going For Refuge	Dhammamegha 12	Sangharakshita		P	GOI	SAN	Triratna Grantha Mala	1983		Pune		24				The primacy of going for refuge as the issue that makes one a Buddhist.					Booklet		15/03/2005			
+5403	Going For Refuge	Dhammamegha 12	Sangharakshita		P	GOI	SAN	Triratna Grantha Mala	1983		Pune		24				The primacy of going for refuge as the issue that makes one a Buddhist.					Booklet		15/03/2005			
+5404	Going For Refuge	Dhammamegha 12	Sangharakshita		P	GOI	SAN	Triratna Grantha Mala	1983		Pune		24				The primacy of going for refuge as the issue that makes one a Buddhist.					Booklet		15/03/2005			
+5405	Govinda's Letters to Sangharakshita		Sangharakshita			GOV	SAN	Khantiloka	2017	2017		1	44			English											
 5406	Heroic Ideal in Buddhism ( The)	Dhammamegha 37	Sangharakshita		P42	HER	SAN	Sihanad Publications	1989		Pune		20														
 5407	Modern View of Buddhism(A)		Sangharakshita		P	MOD	SAN	The Buddhist Union	1958		Singapore		31									Booklet		22/09/2005			
-5408	My Life & Mission and the Teaching of Dr Ambedkar	Dhammamegha 17	Sangharakshita		P56	MYL	SAN	Triratna Grantha Mala	1984	1984	Pune		23														
-5409	My Life & Mission and the Teaching of Dr Ambedkar	Dhammamegha 17	Sangharakshita		P56	MYL	SAN	Triratna Grantha Mala	1984	1984	Pune		23														
-5410	My Life & Mission and the Teaching of Dr Ambedkar	Dhammamegha 17	Sangharakshita		P56	MYL	SAN	Triratna Grantha Mala	1984	1984	Pune		23														
-5411	Origin & Development of the Bodhisattva Ideal	Dammamegha 31	Sangharakshita		P60	ORI	SAN	Sihanad Publications	1988		Pune		16														
-5412	Origin & Development of the Bodhisattva Ideal	Dammamegha 31	Sangharakshita		P60	ORI	SAN	Sihanad Publications	1988		Pune		16														
+5408	My Life & Mission and the Teaching of Dr Ambedkar	Dhammamegha 17	Sangharakshita		P56	MYL	SAN	Triratna Grantha Mala	1984		Pune		23														
+5409	My Life & Mission and the Teaching of Dr Ambedkar	Dhammamegha 17	Sangharakshita		P56	MYL	SAN	Triratna Grantha Mala	1984		Pune		23														
+5410	My Life & Mission and the Teaching of Dr Ambedkar	Dhammamegha 17	Sangharakshita		P56	MYL	SAN	Triratna Grantha Mala	1984		Pune		23														
+5411	Origin & Development of the Bodhisattva Ideal	Dhammamegha 31	Sangharakshita		P60	ORI	SAN	Sihanad Publications	1988		Pune		16														
+5412	Origin & Development of the Bodhisattva Ideal	Dhammamegha 31	Sangharakshita		P60	ORI	SAN	Sihanad Publications	1988		Pune		16														
 5413	"Paradox and Poetry In ""The Voice Of the Silence"""	Dhammamegha 15	Sangharakshita		P	PAR	SAN	Triratna Grantha Mala	1984		Pune		24														
 5414	"Paradox and Poetry In ""The Voice Of the Silence"""	Dhammamegha 15	Sangharakshita		P	PAR	SAN	Triratna Grantha Mala	1984		Pune		24														
 5415	"Paradox and Poetry In ""The Voice Of the Silence"""	Dhammamegha 15	Sangharakshita		P	PAR	SAN	Triratna Grantha Mala	1984		Pune		24														
@@ -4969,7 +4964,7 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 5430	What Death Reminds us of	Dhammamegha 32	Sangharakshita		P85	WHA	SAN	Sihanad Publications	1988		Pune		16														
 5431	What Death Reminds us of	Dhammamegha 32	Sangharakshita		P85	WHA	SAN	Sihanad Publications	1988		Pune		16														
 5432	What Death Reminds us of	Dhammamegha 32	Sangharakshita		P85	WHA	SAN	Sihanad Publications	1988		Pune		16														
-5433	Where Buddism Begins & Why it Begins There		Sangharakshita		P86	WHE	SAN	Maha Bodhi Society			Calcutta		13														
+5433	Where Buddism Begins & Why it Begins There		Sangharakshita		P86	WHE	SAN	Maha Bodhi Society	unknown		Calcutta		13														
 5434	Bedeutung des 'Buddhistischen Tors' (Die) (The Significance of the 'Buddhist Gate')	A Talk at the opening of 'The Buddhist Gate Berlin'	Sangharakshita	Siemsn - Cornelia and Harald Eckhoff	P GE	BED	SAN Ge	Amogharatna	2009		Berlin		316			English		5.95				Booklet					
 5435	Dr. Ambedkar's Dhamma Revolution		Sangharakshita		P MAR	DrA	SAN Mar	Triratna Grantha Mala			Pune		23			Marathi	Talk in Bombay					Book					
 5436	Dr. Ambedkar's Dhamma Revolution		Sangharakshita		P MAR	DrA	SAN Mar	Triratna Grantha Mala			Pune		23			Marathi	Talk in Bombay					Book					
@@ -5006,11 +5001,8 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 5467	Garland of Terms		Asvajit & Cittapala		GAR	ASV	TRI P	Padmaloka Books	1995			1st										Paperback					
 5468	Questions and Answers	Spring 1995	Asvajit		QUE	ASV	TRI P	Padmaloka Books	1995		Norwich								Q & A Session on a GFR Retreat at Padmaloka			Booklet					
 5469	Questions and Answers	Spring 1995	Asvajit		QUE	ASV	TRI P	Padmaloka Books	1995		Norwich								Q & A Session on a GFR Retreat at Padmaloka			Booklet					
-??	New Currents in Western Buddhism		Sangharakshita				SAN									Hindi?											
-??	Bodhinyana	teachings of Ven. Ajahn Chah	Ajahn Chah (Ven.)					Bung Wai Forest Monastery	1982	2009	"Ubon Rajathani, Thailand"	12	130			English											
-??	Sovereign Kingdom of the Buddha		"Chandra, Rajesh"					Kitabghar Publication	2006	2006	New Delhi India				81-7016-754-x	Hindi											
-??	Story of Amrapali		"Chatursen, Acharya"						2010	2011					978-81-216-1474-0	Hindi											
 ??	"Bliss Path of the Liberation of Maha-Ati Meditation, The"						G???	Kham Tibetan House			Saffron Walden UK	1	14			English											
+??	Bodhinyana	teachings of Ven. Ajahn Chah	Ajahn Chah (Ven.)					Bung Wai Forest Monastery	1982	2009	"Ubon Rajathani, Thailand"	12	130			English											
 ??	Bratnie Dusze							Khantiloka 	2016	2016		1	60			Polish?											
 ??	Bratnie Dusze							Khantiloka 	2016	2016		1	60			Polish?											
 ??	Buddha and His Dhamma	Encyclopedia of Religion & Ethics Vol X														Hindi ?											
@@ -5019,11 +5011,14 @@ Book_No	Title	Sub_Title	Author	Translator	Class_3	Class_2	Class_1	Publisher	Year
 ??	Famous Article of Dr Ambedkar ?															Hindi?											
 ??	Garuda III	"Chogyam Trungpa, Rinpoche"						Shambhala	1973	1973	Berkeley US	1	94		0-8773-045-8	English											
 ??	Majjhima Nikaya															Hindi ?											
+??	New Currents in Western Buddhism		Sangharakshita				SAN									Hindi?											
+??	Sovereign Kingdom of the Buddha		"Chandra, Rajesh"					Kitabghar Publication	2006	2006	New Delhi India				81-7016-754-x	Hindi											
+??	Story of Amrapali		"Chatursen, Acharya"						2010	2011					978-81-216-1474-0	Hindi											
 ??	Three Chinese Travellers								1998	1998	Taiwan					Marathi											
 ??	Trivani ?															Hindi?											
-???	"Middle Length Discourses of the Buddha, The"	Teachings of the Buddha	Nanamoli (Bhikkhu) Bodhi (Bhikkhu)					Buddhist Publication Society	1995	1995	Kandy Sri Lanka	1	1412		955-24-0121-6	English											
 ???	Dalits in the Military		Unknown													Hindi ?											
 ???	History of Dr Ambedkar's Revolution		Unknown													Hindi ?											
+???	"Middle Length Discourses of the Buddha, The"	Teachings of the Buddha	Nanamoli (Bhikkhu) Bodhi (Bhikkhu)					Buddhist Publication Society	1995	1995	Kandy Sri Lanka	1	1412		955-24-0121-6	English											
 ???	Milinda Questions		Unknown													Hindi ?											
 ???	Moral Vision of Dr Ambedkar		Unknown						1968	1996			207		81-85745-14-5	Hindi ?											
 ???	Society and Literature		Unknown													Marathi											
@@ -5161,7 +5156,7 @@ M4692	Relations with Other Buddhists		Subhuti		REL	SUB	TRI	Padmnaloka Books	1991
 M4694	Why Study the 'Survey'?	An Introduction to the Transcendental Principle	Cittapala		WHY	CIT	TRI	Padmaloka Books	1993		Norwich											Photocopy					
 M4697	BUDDHIST THEORY OF MORAL OBJECTIVITY (A)	Volume 2 Chs. 4.f-9 Appendix Bibliography and End-notes.	Who?			xxx	U2															Thesis					
 M4700	Water Under the Bridge		Dharmika		WAT	DHA	TRI	Dharmika	1995													Photocopy					
-M4701	ENCHANTED HEART (The)	Poems 1946 - 1976	Sangharakshita			ENC	SAN	Ola Leaves	1976	1976	Norwich	1st										Book					
+M4701	ENCHANTED HEART (The)	Poems 1946-1976	Sangharakshita			ENC	SAN	Ola Leaves	1976	1976	Norwich	1st										Book					
 M4711	Two Traditions of Meditation in Ancient India (The)		"Bronkhorst, Johannes"			BRO	U1f0	Motilal Banarsidass	1993	1993	Delhi	1st			81-208-1643-9							Book					
 M4728	ENCHANTED HEART (The)	Poems 1946-1976	Sangharakshita			ENC	SAN	Ola Leaves	1978	1978	Norwich	1st										Book					
 M4730	Musiikin Herattamia Visioita Osa 1	Visions generated by music 8th and 9th level. Based on Chapters 1 & 2 of the Mahavastu	Maitreya		MUS	MAI	TRI Fi	Maitreya			Finland											Book					
@@ -5172,6 +5167,7 @@ M4779	U DHAMMALOKA THE 'IRISH BUDDHIST': REWRITING THE HISTORY OF EARLY WESTERN 
 M4780	What is the Relationship Between Buddhism and its Original Cultural Environment?	BCC Conference Working Party on Inter Faith Dialogue	Sangharakshita		P	WHA	SAN	unpublished	1972					archive								typescript					
 M4818	Ten Pillars of Buddhism (The)		Sangharakshita			TEN	SAN	Windhorsse Publications	1984	2010	Cambridge	5th			9.78E+12												
 M4946	Buddhist Scriptures	was not physically there																									
+M5053	Ten Pillars of Buddhism (The)		Sangharakshita			TEN	SAN	Windhorse	1984	2010	Cambridge	5th	131		9781 907314 01 8	English										General Buddhism	
 M586	Lion's Roar of Queen Srimala (The)	A Buddhist Scripture on the Tathagatagarbha Theory	"Wayman, Alex & Wayman, H"	Wayman - A & Wayman  - H		WAY	D3k52	Columbia University Press	1974	1974	New York		142	Mahasanghika	0 231 03726	English						Book					
 M595	Record Of Things Heard From the Treasury Of the Eye Of the True Teaching	The Shobogenzo-zuimonki: talks of Zen master Dogen as recorded by Zen master Ejo	Dogen	Cleary - Thomas		DOG	F3k9	Prajna Press	1980	1980	Boulder		129		0-87773-743-	English				Shobogenzo Zuimonki		Book					
 M716	Lamp For the Path and Commentary (A)		Atisa	Sherburne -Richard		ATI	G5k9	George Allen & Unwin	1983	1983	London		226		0-04-294129-	English	Translation of Atisa's text and commentary					Book					
@@ -5179,3 +5175,5 @@ M77	Dhammapada - The Path of Perfection (The)		"Mascaro,  Juan"	Mascaro - Juan		
 M879	Schopenhauer and Buddhism		Nanajivako (Bhikkhu)			NAN	U2	Buddhist Publication Society	1970	1970	Kandy		93			English	Comparing Schopenhauer's writings with Buddhism					Book					
 M915	Alone With Others	An Existential Approach to Buddhism	"Batchelor, Stephen"			BAT	U2	Grove Press	1983	1983	New York		143	Heidegger	0-394-62457-	English	Draws on Buddhism Heidegger and Christianity					Book					
 M931	Travels of Fa-Hsien (399-414 A.D.)	Record of the buddhistic kingdoms	"Giles, H. A. (Trans)"	Giles H. A.		GIL	D0p6	Cambridge University Press	1923	1923	London		92			English						Book					
+new	Origin & Development of the Bodhisattva Ideal	Dhammamegha 31	Sangharakshita		P60	ORI	SAN	Sihanad Publications	1988		Pune		16														
+new	Two Roses	Dhammamegha 34	Sangharakshita		P81	TWO	SAN	Sihanad Publications	1988		Pune		16														
